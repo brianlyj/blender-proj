@@ -1,0 +1,408 @@
+{
+  "file": "C:\\Users\\ASUS\\Downloads\\mcp-1.0.3\\classroom\\deliverables\\Classroom-dance.blend",
+  "blender_version": "5.2.2 LTS",
+  "scene": "Classroom | Golden Hour",
+  "frames": [
+    1,
+    240
+  ],
+  "fps": 24.0,
+  "camera": "Camera | 10 second dance",
+  "bones": 49,
+  "action": "2 Phut Hon inspired | 10 seconds | clasp to dance.002",
+  "render_path": "//",
+  "images": [
+    {
+      "name": "Image_0",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "Image_0.001",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "Image_0.002",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "Image_0.003",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "Image_0.004",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "Image_0.005",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "Image_0.006",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "Image_0.007",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "Image_0.008",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "Image_1",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "Image_1.001",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "Image_1.002",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "Image_2",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "Image_2.001",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "Image_2.002",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "Image_3",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "Image_3.001",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "Image_3.002",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "Image_3.003",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "Image_3.004",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "Image_3.005",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "Image_4",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        64,
+        64
+      ]
+    },
+    {
+      "name": "Image_4.001",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        64,
+        64
+      ]
+    },
+    {
+      "name": "Image_4.002",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        64,
+        64
+      ]
+    },
+    {
+      "name": "Image_5",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_5.001",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_5.002",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_6",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "Image_6.001",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "Image_6.002",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "Image_6.003",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "Image_6.004",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "Image_6.005",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "Image_6.006",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "Image_6.007",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "Image_6.008",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "Image_6.009",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "Image_6.010",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "Image_6.011",
+      "path": "",
+      "packed": true,
+      "external_exists": false,
+      "pixels": [
+        128,
+        128
+      ]
+    }
+  ],
+  "libraries": [],
+  "missing_external_images": []
+}

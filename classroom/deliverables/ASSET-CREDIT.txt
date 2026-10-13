@@ -1,0 +1,10 @@
+ADAPTED SOURCE ASSET
+[Blue Archive] -Mari (Idol)- | Chibi + Stage
+Author: VuckyZ / VückyZ
+Source: https://sketchfab.com/3d-models/blue-archive-mari-idol-chibi-stage-7412827541324d13a557d2f4a7f8d3c4
+License indicated in supplied GLB metadata: Creative Commons Attribution 4.0
+https://creativecommons.org/licenses/by/4.0/
+
+Adapted elements: face, eyes, eyebrows, mouth, hair, ears and halo.
+Changes: idol outfit and stage removed; face/head proportions changed; hair extended and skinned; ears mirrored and reshaped; fitted white headband and flowers; sports outfit and accessories rebuilt; new full body rig, finger/toe controls, greeting animation and blink deformation.
+All textures packed into this blend file.

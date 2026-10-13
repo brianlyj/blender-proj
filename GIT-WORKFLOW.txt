@@ -1,0 +1,55 @@
+GIT WORKFLOW
+============
+
+server-source/ is the official Blender MCP source, maintained as a Git
+submodule. Its pinned revision is v1.0.3:
+2cea8d566dde07fbac28a61d698909d69724e853
+Upstream: https://projects.blender.org/lab/blender_mcp.git
+
+The parent repository tracks .gitmodules and the server-source commit ID.
+A normal push of blender-proj sends that reference along with your project.
+The submodule's source remains hosted in the upstream repository.
+
+FIRST PUSH
+Review git diff --cached --stat and git status before committing. This
+repository has no initial commit yet, and the existing project files were
+already staged before the submodule setup was fixed.
+
+  git commit -m "Add Blender classroom project and pinned MCP dependency"
+  git push -u origin main
+
+NEW CLONE
+  git clone --recurse-submodules https://github.com/brianlyj/blender-proj.git
+
+IF YOU ALREADY CLONED WITHOUT SUBMODULES
+  git submodule update --init --recursive
+
+AFTER PULLING A PROJECT UPDATE
+  git pull
+  git submodule update --init --recursive
+
+CHECK THE CURRENT DEPENDENCY
+  git submodule status
+  git -C server-source status
+
+The submodule uses a detached HEAD at the pinned release. This is normal.
+Keep it at that revision until you intentionally upgrade the dependency.
+
+INTENTIONAL UPGRADE
+First ensure git -C server-source status is clean. Fetch the desired
+upstream release tag, check out that tag inside server-source, then stage
+server-source in the parent repository. Commit and push the changed
+reference after checking compatibility with the installed Blender addon.
+Do not use submodule update --remote for normal project setup; it can
+advance the dependency beyond the version recorded by this project.
+
+LOCAL CHANGES TO THE MCP SERVER
+A parent git add does not include uncommitted source changes inside the
+submodule. To share a modified MCP server, commit and push those changes
+to your own fork, update .gitmodules to the fork URL, run git submodule
+sync -- server-source, and then commit the new reference in blender-proj.
+Publish the fork commit before pushing the parent reference so other
+clones can retrieve it. Do not try to push local edits to Blender's
+upstream repository unless you have permission there.
+
+This setup does not change or reinstall the locally installed MCP server.

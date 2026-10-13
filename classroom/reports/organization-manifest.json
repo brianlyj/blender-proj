@@ -1,0 +1,3100 @@
+{
+  "status": "organized_and_hash_verified",
+  "files": [
+    {
+      "original": "animation_frames/frame_000.png",
+      "organized": "renders/initial_greeting_frames/frame_000.png",
+      "bytes": 654068,
+      "original_sha256": "304fdefd5606ec2e6e64e96fd6702c79df554caa0a6fd81d7a9b368d7a5dd1b8",
+      "organized_sha256": "304fdefd5606ec2e6e64e96fd6702c79df554caa0a6fd81d7a9b368d7a5dd1b8"
+    },
+    {
+      "original": "animation_frames/frame_001.png",
+      "organized": "renders/initial_greeting_frames/frame_001.png",
+      "bytes": 654506,
+      "original_sha256": "a67d81b1d318bbfc4e75921183f572bde6dd5b3ccca18f564909b6b7bb0ec4c0",
+      "organized_sha256": "a67d81b1d318bbfc4e75921183f572bde6dd5b3ccca18f564909b6b7bb0ec4c0"
+    },
+    {
+      "original": "animation_frames/frame_002.png",
+      "organized": "renders/initial_greeting_frames/frame_002.png",
+      "bytes": 653701,
+      "original_sha256": "28ff43baab57bd9466e5a78379eea7848cbdb3ecc36799224089e27e97bb19cc",
+      "organized_sha256": "28ff43baab57bd9466e5a78379eea7848cbdb3ecc36799224089e27e97bb19cc"
+    },
+    {
+      "original": "animation_frames/frame_003.png",
+      "organized": "renders/initial_greeting_frames/frame_003.png",
+      "bytes": 654203,
+      "original_sha256": "25b05e92426fc00c25a0c311162b632c87e6747ada75efeba5410477d9ea7d53",
+      "organized_sha256": "25b05e92426fc00c25a0c311162b632c87e6747ada75efeba5410477d9ea7d53"
+    },
+    {
+      "original": "animation_frames/frame_004.png",
+      "organized": "renders/initial_greeting_frames/frame_004.png",
+      "bytes": 653411,
+      "original_sha256": "bbf3f53923d8e6eba890376cdb69c2d3ae122f70207e744dfd84f4928f97ed24",
+      "organized_sha256": "bbf3f53923d8e6eba890376cdb69c2d3ae122f70207e744dfd84f4928f97ed24"
+    },
+    {
+      "original": "animation_frames/frame_005.png",
+      "organized": "renders/initial_greeting_frames/frame_005.png",
+      "bytes": 653372,
+      "original_sha256": "c068e95c72b4417193083fe9afd0599b585a7efc9e62f098d84512394a04340b",
+      "organized_sha256": "c068e95c72b4417193083fe9afd0599b585a7efc9e62f098d84512394a04340b"
+    },
+    {
+      "original": "animation_frames/frame_006.png",
+      "organized": "renders/initial_greeting_frames/frame_006.png",
+      "bytes": 654128,
+      "original_sha256": "caae8789fec21e5ba83ffb1cc54d51958ca8af7fc7827e078647f1010c7ed1be",
+      "organized_sha256": "caae8789fec21e5ba83ffb1cc54d51958ca8af7fc7827e078647f1010c7ed1be"
+    },
+    {
+      "original": "animation_frames/frame_007.png",
+      "organized": "renders/initial_greeting_frames/frame_007.png",
+      "bytes": 653786,
+      "original_sha256": "dd3e6997dd85f526f0a6f0700d8b23ab41a02de39ba980fe22455247f471b4aa",
+      "organized_sha256": "dd3e6997dd85f526f0a6f0700d8b23ab41a02de39ba980fe22455247f471b4aa"
+    },
+    {
+      "original": "animation_frames/frame_008.png",
+      "organized": "renders/initial_greeting_frames/frame_008.png",
+      "bytes": 654097,
+      "original_sha256": "f8c802f107b67e62f27cf896cbc180b129b3b4f75a2a229d72c66275d7e04340",
+      "organized_sha256": "f8c802f107b67e62f27cf896cbc180b129b3b4f75a2a229d72c66275d7e04340"
+    },
+    {
+      "original": "animation_frames/frame_009.png",
+      "organized": "renders/initial_greeting_frames/frame_009.png",
+      "bytes": 654043,
+      "original_sha256": "04cd218407741a824f756dd43a1570d9b4c2d20dce7c3317956393f4189029c1",
+      "organized_sha256": "04cd218407741a824f756dd43a1570d9b4c2d20dce7c3317956393f4189029c1"
+    },
+    {
+      "original": "animation_frames/frame_010.png",
+      "organized": "renders/initial_greeting_frames/frame_010.png",
+      "bytes": 653959,
+      "original_sha256": "4c836149dc4ec1333a8c57046423cea60878455b2e74a1445b63911910ad0743",
+      "organized_sha256": "4c836149dc4ec1333a8c57046423cea60878455b2e74a1445b63911910ad0743"
+    },
+    {
+      "original": "animation_frames/frame_011.png",
+      "organized": "renders/initial_greeting_frames/frame_011.png",
+      "bytes": 653492,
+      "original_sha256": "130859645af66b253f7766d1a0e49201452245430ab0e8f1ba82a8754fa49f3f",
+      "organized_sha256": "130859645af66b253f7766d1a0e49201452245430ab0e8f1ba82a8754fa49f3f"
+    },
+    {
+      "original": "animation_frames/frame_012.png",
+      "organized": "renders/initial_greeting_frames/frame_012.png",
+      "bytes": 654133,
+      "original_sha256": "ca14aba7d2712c85c70d87b64c9224deb7ca6e0b89e0990b88d266bb8eb026b8",
+      "organized_sha256": "ca14aba7d2712c85c70d87b64c9224deb7ca6e0b89e0990b88d266bb8eb026b8"
+    },
+    {
+      "original": "animation_frames/frame_013.png",
+      "organized": "renders/initial_greeting_frames/frame_013.png",
+      "bytes": 654259,
+      "original_sha256": "94b66a48e3426c76224e3d2da24c839fb0cbe73e3feb5b9ed9efeb46e3ca20a4",
+      "organized_sha256": "94b66a48e3426c76224e3d2da24c839fb0cbe73e3feb5b9ed9efeb46e3ca20a4"
+    },
+    {
+      "original": "animation_frames/frame_014.png",
+      "organized": "renders/initial_greeting_frames/frame_014.png",
+      "bytes": 654115,
+      "original_sha256": "2a2555e6c3acf4a3bbc8fe14c7f9f60bcee7d88e4063ffe37c089ef629ee0cad",
+      "organized_sha256": "2a2555e6c3acf4a3bbc8fe14c7f9f60bcee7d88e4063ffe37c089ef629ee0cad"
+    },
+    {
+      "original": "animation_frames/frame_015.png",
+      "organized": "renders/initial_greeting_frames/frame_015.png",
+      "bytes": 654380,
+      "original_sha256": "36b39c5e845d1f05bc053ff8113de34ead75c1246471b04b97553844b5accda6",
+      "organized_sha256": "36b39c5e845d1f05bc053ff8113de34ead75c1246471b04b97553844b5accda6"
+    },
+    {
+      "original": "animation_frames/frame_016.png",
+      "organized": "renders/initial_greeting_frames/frame_016.png",
+      "bytes": 654319,
+      "original_sha256": "66e300fc6750285c9877c857233ee450c61a6e634d73fdb6be39b8169c0449f2",
+      "organized_sha256": "66e300fc6750285c9877c857233ee450c61a6e634d73fdb6be39b8169c0449f2"
+    },
+    {
+      "original": "animation_frames/frame_017.png",
+      "organized": "renders/initial_greeting_frames/frame_017.png",
+      "bytes": 654164,
+      "original_sha256": "7a95df5f4b65d5834ecb645a6227f29368003f8b6808f61f0b6ef64337b0807d",
+      "organized_sha256": "7a95df5f4b65d5834ecb645a6227f29368003f8b6808f61f0b6ef64337b0807d"
+    },
+    {
+      "original": "animation_frames/frame_018.png",
+      "organized": "renders/initial_greeting_frames/frame_018.png",
+      "bytes": 654274,
+      "original_sha256": "036c3cb8986b1b8a6f6ef608e50abab9b03b2981f77a5a851000da1578c2cfb3",
+      "organized_sha256": "036c3cb8986b1b8a6f6ef608e50abab9b03b2981f77a5a851000da1578c2cfb3"
+    },
+    {
+      "original": "animation_frames/frame_019.png",
+      "organized": "renders/initial_greeting_frames/frame_019.png",
+      "bytes": 653285,
+      "original_sha256": "309fb74adad11039f1f66ad41931e8ceaecb8c41d11615696c92be143e8fd7cd",
+      "organized_sha256": "309fb74adad11039f1f66ad41931e8ceaecb8c41d11615696c92be143e8fd7cd"
+    },
+    {
+      "original": "animation_frames/frame_020.png",
+      "organized": "renders/initial_greeting_frames/frame_020.png",
+      "bytes": 654426,
+      "original_sha256": "20d937f38f4d60fa3f81a6a3668f28ce72c7b9cbb30d40afc5079d8edd838a83",
+      "organized_sha256": "20d937f38f4d60fa3f81a6a3668f28ce72c7b9cbb30d40afc5079d8edd838a83"
+    },
+    {
+      "original": "animation_frames/frame_021.png",
+      "organized": "renders/initial_greeting_frames/frame_021.png",
+      "bytes": 653827,
+      "original_sha256": "b5568529337420a0468da52f5ba4c7475fe9169a798d4fbf4398d385bb131a39",
+      "organized_sha256": "b5568529337420a0468da52f5ba4c7475fe9169a798d4fbf4398d385bb131a39"
+    },
+    {
+      "original": "animation_frames/frame_022.png",
+      "organized": "renders/initial_greeting_frames/frame_022.png",
+      "bytes": 654922,
+      "original_sha256": "81041ad31e59d06378e03cf0ce3111fd689647c9d06c5aa9533a20de2cffe427",
+      "organized_sha256": "81041ad31e59d06378e03cf0ce3111fd689647c9d06c5aa9533a20de2cffe427"
+    },
+    {
+      "original": "animation_frames/frame_023.png",
+      "organized": "renders/initial_greeting_frames/frame_023.png",
+      "bytes": 654211,
+      "original_sha256": "4124f020d01240398993be5be9807ea61791d91a14ef8c5caf78643cf4fa530a",
+      "organized_sha256": "4124f020d01240398993be5be9807ea61791d91a14ef8c5caf78643cf4fa530a"
+    },
+    {
+      "original": "animation_frames/frame_024.png",
+      "organized": "renders/initial_greeting_frames/frame_024.png",
+      "bytes": 654169,
+      "original_sha256": "cf8a403b0f5c9590ea564091970b90ae147471515e6418b765055b0768c4e2a0",
+      "organized_sha256": "cf8a403b0f5c9590ea564091970b90ae147471515e6418b765055b0768c4e2a0"
+    },
+    {
+      "original": "animation_frames/frame_025.png",
+      "organized": "renders/initial_greeting_frames/frame_025.png",
+      "bytes": 653958,
+      "original_sha256": "5f8e86545359ef520675d73577e3fddc723575f83aa950e25d0f7ce77ddd906e",
+      "organized_sha256": "5f8e86545359ef520675d73577e3fddc723575f83aa950e25d0f7ce77ddd906e"
+    },
+    {
+      "original": "animation_frames/frame_026.png",
+      "organized": "renders/initial_greeting_frames/frame_026.png",
+      "bytes": 653690,
+      "original_sha256": "418854b6e5d960bc03cae9a132ff8741b0255b1d4a1daa9c8007d890c96d5936",
+      "organized_sha256": "418854b6e5d960bc03cae9a132ff8741b0255b1d4a1daa9c8007d890c96d5936"
+    },
+    {
+      "original": "animation_frames/frame_027.png",
+      "organized": "renders/initial_greeting_frames/frame_027.png",
+      "bytes": 653779,
+      "original_sha256": "458861ec9e5e547d29a245b4ee77370d4bef53af3436af109641068da292c024",
+      "organized_sha256": "458861ec9e5e547d29a245b4ee77370d4bef53af3436af109641068da292c024"
+    },
+    {
+      "original": "animation_frames/frame_028.png",
+      "organized": "renders/initial_greeting_frames/frame_028.png",
+      "bytes": 654168,
+      "original_sha256": "5b9ef16538793442165e95251b03b3bc48a331267575a5a85e0c71eab3d4be79",
+      "organized_sha256": "5b9ef16538793442165e95251b03b3bc48a331267575a5a85e0c71eab3d4be79"
+    },
+    {
+      "original": "animation_frames/frame_029.png",
+      "organized": "renders/initial_greeting_frames/frame_029.png",
+      "bytes": 653380,
+      "original_sha256": "c9dbfafef426b42ee1a2e78452996243c508bc951e49d714e7d419befb0c5549",
+      "organized_sha256": "c9dbfafef426b42ee1a2e78452996243c508bc951e49d714e7d419befb0c5549"
+    },
+    {
+      "original": "animation_frames/frame_030.png",
+      "organized": "renders/initial_greeting_frames/frame_030.png",
+      "bytes": 654032,
+      "original_sha256": "e61993a5167b5c4f3b814ad4bf92e8947d3cd989fd9e085d851385582465bfbc",
+      "organized_sha256": "e61993a5167b5c4f3b814ad4bf92e8947d3cd989fd9e085d851385582465bfbc"
+    },
+    {
+      "original": "animation_frames/frame_031.png",
+      "organized": "renders/initial_greeting_frames/frame_031.png",
+      "bytes": 653876,
+      "original_sha256": "1ec08521b2fd8b7a477a27b72924a0b4d1347305ea6c5282493a15908d35894e",
+      "organized_sha256": "1ec08521b2fd8b7a477a27b72924a0b4d1347305ea6c5282493a15908d35894e"
+    },
+    {
+      "original": "animation_frames/frame_032.png",
+      "organized": "renders/initial_greeting_frames/frame_032.png",
+      "bytes": 653490,
+      "original_sha256": "adbb155a9cdaafcab9a82bb6bb64af3219e9914048340816bce82dcb6127e8de",
+      "organized_sha256": "adbb155a9cdaafcab9a82bb6bb64af3219e9914048340816bce82dcb6127e8de"
+    },
+    {
+      "original": "animation_frames/frame_033.png",
+      "organized": "renders/initial_greeting_frames/frame_033.png",
+      "bytes": 654412,
+      "original_sha256": "561b3a4703039c7181ab522b33a7600b26652a22a5577dc97da9106167b3427e",
+      "organized_sha256": "561b3a4703039c7181ab522b33a7600b26652a22a5577dc97da9106167b3427e"
+    },
+    {
+      "original": "animation_frames/frame_034.png",
+      "organized": "renders/initial_greeting_frames/frame_034.png",
+      "bytes": 653705,
+      "original_sha256": "99da2464e705848e34b19d24937318feac35195435faf8f5047ea67e4964a641",
+      "organized_sha256": "99da2464e705848e34b19d24937318feac35195435faf8f5047ea67e4964a641"
+    },
+    {
+      "original": "animation_frames/frame_035.png",
+      "organized": "renders/initial_greeting_frames/frame_035.png",
+      "bytes": 654194,
+      "original_sha256": "8f702403267cd4b5b53f4146461804b40b0f15a7c9732edf11586e80bb11fe36",
+      "organized_sha256": "8f702403267cd4b5b53f4146461804b40b0f15a7c9732edf11586e80bb11fe36"
+    },
+    {
+      "original": "animation_frames/frame_036.png",
+      "organized": "renders/initial_greeting_frames/frame_036.png",
+      "bytes": 654510,
+      "original_sha256": "f331bcee7a2d9dfc4049d743867cea865d836ebbb63fd39db4ef3f06fcba7c97",
+      "organized_sha256": "f331bcee7a2d9dfc4049d743867cea865d836ebbb63fd39db4ef3f06fcba7c97"
+    },
+    {
+      "original": "animation_frames/frame_037.png",
+      "organized": "renders/initial_greeting_frames/frame_037.png",
+      "bytes": 654044,
+      "original_sha256": "f10e43c2f46d7c07a65015c5529bdf20d938ced9b7fe6c229b8b70787f9d5f7f",
+      "organized_sha256": "f10e43c2f46d7c07a65015c5529bdf20d938ced9b7fe6c229b8b70787f9d5f7f"
+    },
+    {
+      "original": "animation_frames/frame_038.png",
+      "organized": "renders/initial_greeting_frames/frame_038.png",
+      "bytes": 654398,
+      "original_sha256": "0367349cb0b207aa529f2f5bbd57eb062af5428a9765cc82ad19a37fa71ab21e",
+      "organized_sha256": "0367349cb0b207aa529f2f5bbd57eb062af5428a9765cc82ad19a37fa71ab21e"
+    },
+    {
+      "original": "animation_frames/frame_039.png",
+      "organized": "renders/initial_greeting_frames/frame_039.png",
+      "bytes": 654284,
+      "original_sha256": "9478f21bbe8ee61e891cb989ec3e49a601734b6889070f806b63a29b39b0ddef",
+      "organized_sha256": "9478f21bbe8ee61e891cb989ec3e49a601734b6889070f806b63a29b39b0ddef"
+    },
+    {
+      "original": "animation_frames/frame_040.png",
+      "organized": "renders/initial_greeting_frames/frame_040.png",
+      "bytes": 654619,
+      "original_sha256": "151cba2b373a02f747d4239c3d5883d005cec03cce91390821597d76671c42c1",
+      "organized_sha256": "151cba2b373a02f747d4239c3d5883d005cec03cce91390821597d76671c42c1"
+    },
+    {
+      "original": "animation_frames/frame_041.png",
+      "organized": "renders/initial_greeting_frames/frame_041.png",
+      "bytes": 654151,
+      "original_sha256": "9a6ee9060cfd0727e2587e914f6d5b359f8abb7b36517b86b78bf50ab4f838cd",
+      "organized_sha256": "9a6ee9060cfd0727e2587e914f6d5b359f8abb7b36517b86b78bf50ab4f838cd"
+    },
+    {
+      "original": "animation_frames/frame_042.png",
+      "organized": "renders/initial_greeting_frames/frame_042.png",
+      "bytes": 654112,
+      "original_sha256": "ea184562dd53916cf8b3873b2807d4c252c06cc5ae9011581a005b1a7a7d73ca",
+      "organized_sha256": "ea184562dd53916cf8b3873b2807d4c252c06cc5ae9011581a005b1a7a7d73ca"
+    },
+    {
+      "original": "animation_frames/frame_043.png",
+      "organized": "renders/initial_greeting_frames/frame_043.png",
+      "bytes": 654638,
+      "original_sha256": "e01c405301c11a36216046698f34a16e3b95f7432cfa29b07636ff953c18b9b1",
+      "organized_sha256": "e01c405301c11a36216046698f34a16e3b95f7432cfa29b07636ff953c18b9b1"
+    },
+    {
+      "original": "animation_frames/frame_044.png",
+      "organized": "renders/initial_greeting_frames/frame_044.png",
+      "bytes": 654299,
+      "original_sha256": "646e60dfeeaead74e53daaeea57de3de4c0c8cc137fa3913c7ae49882623c249",
+      "organized_sha256": "646e60dfeeaead74e53daaeea57de3de4c0c8cc137fa3913c7ae49882623c249"
+    },
+    {
+      "original": "animation_frames/frame_045.png",
+      "organized": "renders/initial_greeting_frames/frame_045.png",
+      "bytes": 654367,
+      "original_sha256": "aa6ece3e728092d322c98797fa826296bfe054428805640d68f6da7542fd2abf",
+      "organized_sha256": "aa6ece3e728092d322c98797fa826296bfe054428805640d68f6da7542fd2abf"
+    },
+    {
+      "original": "animation_frames/frame_046.png",
+      "organized": "renders/initial_greeting_frames/frame_046.png",
+      "bytes": 654083,
+      "original_sha256": "f1c1e445b29c1e9dac6e25c3beb80c2e32c053cdc5d8a05d8c17a68204c464ae",
+      "organized_sha256": "f1c1e445b29c1e9dac6e25c3beb80c2e32c053cdc5d8a05d8c17a68204c464ae"
+    },
+    {
+      "original": "animation_frames/frame_047.png",
+      "organized": "renders/initial_greeting_frames/frame_047.png",
+      "bytes": 654492,
+      "original_sha256": "bea64e9b5d2a23fe63d8c0d805d65f1f44a18b07c26cb203015be46752fb1dbd",
+      "organized_sha256": "bea64e9b5d2a23fe63d8c0d805d65f1f44a18b07c26cb203015be46752fb1dbd"
+    },
+    {
+      "original": "animation_frames/frame_048.png",
+      "organized": "renders/initial_greeting_frames/frame_048.png",
+      "bytes": 654939,
+      "original_sha256": "b933b870d3a05cafd4951db2d777f1c5c41a417302ef1bf6d0ad7be8e4da095e",
+      "organized_sha256": "b933b870d3a05cafd4951db2d777f1c5c41a417302ef1bf6d0ad7be8e4da095e"
+    },
+    {
+      "original": "animation_frames/frame_049.png",
+      "organized": "renders/initial_greeting_frames/frame_049.png",
+      "bytes": 654785,
+      "original_sha256": "053631228c5e4beeeaf99c9c45a12ae0527bc436c82ac12de2d99bc1bd2419d3",
+      "organized_sha256": "053631228c5e4beeeaf99c9c45a12ae0527bc436c82ac12de2d99bc1bd2419d3"
+    },
+    {
+      "original": "animation_frames/frame_050.png",
+      "organized": "renders/initial_greeting_frames/frame_050.png",
+      "bytes": 655029,
+      "original_sha256": "3cef91e79ec3c8367d78f62bc1cf5feb72467642768ce73425b80a8d61399493",
+      "organized_sha256": "3cef91e79ec3c8367d78f62bc1cf5feb72467642768ce73425b80a8d61399493"
+    },
+    {
+      "original": "animation_frames/frame_051.png",
+      "organized": "renders/initial_greeting_frames/frame_051.png",
+      "bytes": 654707,
+      "original_sha256": "0f68810d303a71e4d19a58928f4711dafaad5132a96e8088657bb52d6aa536cf",
+      "organized_sha256": "0f68810d303a71e4d19a58928f4711dafaad5132a96e8088657bb52d6aa536cf"
+    },
+    {
+      "original": "animation_frames/frame_052.png",
+      "organized": "renders/initial_greeting_frames/frame_052.png",
+      "bytes": 654631,
+      "original_sha256": "0d89480a3463a4f802ffd362a2a268ddfbc3d8e3c06e976574f0a3b72f736671",
+      "organized_sha256": "0d89480a3463a4f802ffd362a2a268ddfbc3d8e3c06e976574f0a3b72f736671"
+    },
+    {
+      "original": "animation_frames/frame_053.png",
+      "organized": "renders/initial_greeting_frames/frame_053.png",
+      "bytes": 654488,
+      "original_sha256": "33936fe3eb14dd8bea99ecba935da9ff6584a6730ae4faf13ed885fa1c35b674",
+      "organized_sha256": "33936fe3eb14dd8bea99ecba935da9ff6584a6730ae4faf13ed885fa1c35b674"
+    },
+    {
+      "original": "animation_frames/frame_054.png",
+      "organized": "renders/initial_greeting_frames/frame_054.png",
+      "bytes": 654298,
+      "original_sha256": "ede2f207800ecc25b8b36a7a282bebee16ed0c0ba8a1640f56fa55eed441ef76",
+      "organized_sha256": "ede2f207800ecc25b8b36a7a282bebee16ed0c0ba8a1640f56fa55eed441ef76"
+    },
+    {
+      "original": "animation_frames/frame_055.png",
+      "organized": "renders/initial_greeting_frames/frame_055.png",
+      "bytes": 654644,
+      "original_sha256": "4107d03d327be791211792921abc5f836bf1b5f0cf4f902c8521595186fe19c2",
+      "organized_sha256": "4107d03d327be791211792921abc5f836bf1b5f0cf4f902c8521595186fe19c2"
+    },
+    {
+      "original": "animation_frames/frame_056.png",
+      "organized": "renders/initial_greeting_frames/frame_056.png",
+      "bytes": 653943,
+      "original_sha256": "3b7797912ceb50019bac0a42025a51e28aa83536094d41d971ddca04613b7598",
+      "organized_sha256": "3b7797912ceb50019bac0a42025a51e28aa83536094d41d971ddca04613b7598"
+    },
+    {
+      "original": "animation_frames/frame_057.png",
+      "organized": "renders/initial_greeting_frames/frame_057.png",
+      "bytes": 653700,
+      "original_sha256": "1f4997cba76170f789d6d1f6fe80ac331577cf1f5502c96bf3517541be4385e5",
+      "organized_sha256": "1f4997cba76170f789d6d1f6fe80ac331577cf1f5502c96bf3517541be4385e5"
+    },
+    {
+      "original": "animation_frames/frame_058.png",
+      "organized": "renders/initial_greeting_frames/frame_058.png",
+      "bytes": 654112,
+      "original_sha256": "8064e2b45af4dc29ece0cd582583b14c7e4a1c67f3c09e7933c23e64bf78b4d5",
+      "organized_sha256": "8064e2b45af4dc29ece0cd582583b14c7e4a1c67f3c09e7933c23e64bf78b4d5"
+    },
+    {
+      "original": "animation_frames/frame_059.png",
+      "organized": "renders/initial_greeting_frames/frame_059.png",
+      "bytes": 653962,
+      "original_sha256": "d742b0f9bd18ff5dd9b57e5026166fa1ce026c46b1e39c122c22f74402afce7f",
+      "organized_sha256": "d742b0f9bd18ff5dd9b57e5026166fa1ce026c46b1e39c122c22f74402afce7f"
+    },
+    {
+      "original": "blender_bridge.py",
+      "organized": "scripts/shared/blender_bridge.py",
+      "bytes": 388,
+      "original_sha256": "c2d6cc427d549cbad23191d3ff9d3b4811634b2d466b81b08e264ccee443ddd3",
+      "organized_sha256": "b82259c4c1998e81691d27f6f3c255205ae75460f68bda97ea6eab7584075010"
+    },
+    {
+      "original": "build_character.py",
+      "organized": "scripts/initial/build_character.py",
+      "bytes": 20137,
+      "original_sha256": "031a3ea74f0c124b0a4758a1c3d2c5eb3c82a8be2a9ef637b28a4b5507e09b62",
+      "organized_sha256": "5476f3f77b8f3756d68d8b0b7c3dcc3b2e7ce0c99e279636a2cf4c4882e768cc"
+    },
+    {
+      "original": "build_classroom.py",
+      "organized": "scripts/initial/build_classroom.py",
+      "bytes": 9077,
+      "original_sha256": "4951f4a9409c95501fedba09d30ecdcf18273c41c50f81fe6c60d2afc5413474",
+      "organized_sha256": "6b8f474088ffdf4176db1c7d6f5b7fd11d48c59f97a134a46cda606a4d980d46"
+    },
+    {
+      "original": "Character-greeting.mp4",
+      "organized": "archive/initial/Character-greeting.mp4",
+      "bytes": 193138,
+      "original_sha256": "80dcc18a7c2c81ad287a0fbc8c77787533ab766858c329e3835bf63bfe47b607",
+      "organized_sha256": "80dcc18a7c2c81ad287a0fbc8c77787533ab766858c329e3835bf63bfe47b607"
+    },
+    {
+      "original": "Character-preview.png",
+      "organized": "archive/initial/Character-preview.png",
+      "bytes": 1000714,
+      "original_sha256": "fe0589b282c2b273aa4f574dda90f3898ffe73c413f7fe5bd214e101a93dc350",
+      "organized_sha256": "fe0589b282c2b273aa4f574dda90f3898ffe73c413f7fe5bd214e101a93dc350"
+    },
+    {
+      "original": "Classroom-preview.png",
+      "organized": "archive/initial/Classroom-preview.png",
+      "bytes": 1528540,
+      "original_sha256": "547f7e2d30d045dd350fc371a3f8e9c5e8ba25a1ec8d00d5a22ce89f5c707c51",
+      "organized_sha256": "547f7e2d30d045dd350fc371a3f8e9c5e8ba25a1ec8d00d5a22ce89f5c707c51"
+    },
+    {
+      "original": "Classroom.blend",
+      "organized": "archive/initial/Classroom.blend",
+      "bytes": 1197900,
+      "original_sha256": "f92918fd0162a4aa7e2994fffd59332e6f41186ef51e6b6a7acd17b8e9c822fc",
+      "organized_sha256": "f92918fd0162a4aa7e2994fffd59332e6f41186ef51e6b6a7acd17b8e9c822fc"
+    },
+    {
+      "original": "Classroom.blend1",
+      "organized": "archive/backups/Classroom.blend1",
+      "bytes": 1197739,
+      "original_sha256": "dd27a368bf875765e0a566cca5647d8eab83759eb6cfe414fd0d175c14f74ae8",
+      "organized_sha256": "dd27a368bf875765e0a566cca5647d8eab83759eb6cfe414fd0d175c14f74ae8"
+    },
+    {
+      "original": "finalize_scene.py",
+      "organized": "scripts/initial/finalize_scene.py",
+      "bytes": 1337,
+      "original_sha256": "426fa481dac174794db092affc417c80534a534ab2356019eedf24963999afe3",
+      "organized_sha256": "5792ba8c3ad53ac298219c74c7d67caf3c0a43b07ce9e77a6601e4fc46ad2ccd"
+    },
+    {
+      "original": "helpers.py",
+      "organized": "scripts/shared/helpers.py",
+      "bytes": 3860,
+      "original_sha256": "17bd3cfdb4d72772bf52b741a02c7118b385862285e100a2b6a18531b1971490",
+      "organized_sha256": "b137b1892a1fcc68e1f326af62ee98b140b8365b96e924fce3ad56ff00be6b2a"
+    },
+    {
+      "original": "inspect_reference_glb.py",
+      "organized": "scripts/diagnostics/inspect_reference_glb.py",
+      "bytes": 1397,
+      "original_sha256": "8b5e31e762c990c3884f7cec40f71ae21f66d215fd0c89c02e03d83e05eff026",
+      "organized_sha256": "3f2c3ceee10e3df2088a784241b21e9744f9b070b4d8e93d161f5db80fceda7e"
+    },
+    {
+      "original": "inspect_rig.py",
+      "organized": "scripts/diagnostics/inspect_rig_initial.py",
+      "bytes": 609,
+      "original_sha256": "7b9d2c4a8b8b00c85231583d0a5b563cbf0b2debc35b491dff7e4cc4c4f2e3e5",
+      "organized_sha256": "5ec1a6caa275aa0073af5ff4fa7a69f2063fba1f2aa28ef1978c490086f98010"
+    },
+    {
+      "original": "inspect_scene.py",
+      "organized": "scripts/diagnostics/inspect_scene.py",
+      "bytes": 548,
+      "original_sha256": "9b13a1f2a6bc058a547a365976fcaceb8410980e9be8fe97ec33c9cd3c731a0f",
+      "organized_sha256": "97f495d9c35d17a49aa1ae629ef4806e8ff29ceafeec23fa5b491d9e58953d52"
+    },
+    {
+      "original": "organization-inspect.py",
+      "organized": "scripts/diagnostics/inspect_external_assets.py",
+      "bytes": 269,
+      "original_sha256": "45d568aa7c8b41e7e139efd31a4158a265d5a9ddf79eaf4072f88e63cad5d25a",
+      "organized_sha256": "e9d4f72d3cce36ff7d019baf55ac4b9804dd91eae5776cca66461237a5bd155f"
+    },
+    {
+      "original": "refine_character.py",
+      "organized": "scripts/initial/refine_character.py",
+      "bytes": 4785,
+      "original_sha256": "955d4afbdace00738c6c00f203b0170868bf603a67ad3fd7cb6623b5bbb225c1",
+      "organized_sha256": "87a5a9a3862b666730da7fbaceb30870c94dd56e04c3d8729e32d5fb375811cd"
+    },
+    {
+      "original": "render_all.py",
+      "organized": "scripts/render/render_all.py",
+      "bytes": 192,
+      "original_sha256": "ef3cb8f0ca23249764c3edb3876f841573de8400bc2f0094988045125cbb45ad",
+      "organized_sha256": "53ffa501794945597558ccd3b1c97399838f2dcc221844813e5ed7c064fb596e"
+    },
+    {
+      "original": "render_animation.py",
+      "organized": "scripts/render/render_animation.py",
+      "bytes": 653,
+      "original_sha256": "1a60286bf37c8458f2ac5dbc3b1fe3b793a4df5e2a1aee3b64fd553045f16890",
+      "organized_sha256": "16da58d8e4977d20caf1705f23fb4f1afebcd7e90d3025526282488140467f57"
+    },
+    {
+      "original": "render_previews.py",
+      "organized": "scripts/render/render_previews.py",
+      "bytes": 734,
+      "original_sha256": "362ab7efa024af88bb540f6fffdba379d5925a9093ffef8ffb2ad74cd9930b54",
+      "organized_sha256": "8284dc0073397e07a8f676ab9f8c7d530bb25fdabb1ac41a18d91fe05e39d991"
+    },
+    {
+      "original": "revision/animate_dance.py",
+      "organized": "scripts/animation/animate_dance.py",
+      "bytes": 7648,
+      "original_sha256": "ad0ef658733cdde354299f5eb4708f5bbd5f436676aee9b1d994b46133ad3147",
+      "organized_sha256": "7f352f5907f8aeec7ff0623abbd546c921aecb3f5001d5dcc922bdfcf24ad975"
+    },
+    {
+      "original": "revision/animation_frames/frame_000.png",
+      "organized": "renders/revision_greeting_frames/frame_000.png",
+      "bytes": 808030,
+      "original_sha256": "fa9c0350b20c5d3997f80043cb9cb16e8accfd61962d7a60c550d1970187a9ad",
+      "organized_sha256": "fa9c0350b20c5d3997f80043cb9cb16e8accfd61962d7a60c550d1970187a9ad"
+    },
+    {
+      "original": "revision/animation_frames/frame_001.png",
+      "organized": "renders/revision_greeting_frames/frame_001.png",
+      "bytes": 808006,
+      "original_sha256": "d7c210660d1e5b6d843cfa3b4eab46cceaf43a0f0ebf756780e15eae94b9b556",
+      "organized_sha256": "d7c210660d1e5b6d843cfa3b4eab46cceaf43a0f0ebf756780e15eae94b9b556"
+    },
+    {
+      "original": "revision/animation_frames/frame_002.png",
+      "organized": "renders/revision_greeting_frames/frame_002.png",
+      "bytes": 807849,
+      "original_sha256": "89b4f8a7185b7f8c8fe393fcea44cf1d22b4ad66c1851c7e96abcfc3c4bf77cf",
+      "organized_sha256": "89b4f8a7185b7f8c8fe393fcea44cf1d22b4ad66c1851c7e96abcfc3c4bf77cf"
+    },
+    {
+      "original": "revision/animation_frames/frame_003.png",
+      "organized": "renders/revision_greeting_frames/frame_003.png",
+      "bytes": 808059,
+      "original_sha256": "9f84d1fa3611bed84a0baf82bdc00b8740749fd7f2ddd2d6e96682ba75ce66bc",
+      "organized_sha256": "9f84d1fa3611bed84a0baf82bdc00b8740749fd7f2ddd2d6e96682ba75ce66bc"
+    },
+    {
+      "original": "revision/animation_frames/frame_004.png",
+      "organized": "renders/revision_greeting_frames/frame_004.png",
+      "bytes": 807603,
+      "original_sha256": "0de17cc7b3c31f38f42f07e08240a29b93849ad26e0037d86c28806d548e1cd6",
+      "organized_sha256": "0de17cc7b3c31f38f42f07e08240a29b93849ad26e0037d86c28806d548e1cd6"
+    },
+    {
+      "original": "revision/animation_frames/frame_005.png",
+      "organized": "renders/revision_greeting_frames/frame_005.png",
+      "bytes": 808095,
+      "original_sha256": "4ab4f8b252c484d39d11f566d96ba5eaec5e2799caa68836095ea1ead9c32f6a",
+      "organized_sha256": "4ab4f8b252c484d39d11f566d96ba5eaec5e2799caa68836095ea1ead9c32f6a"
+    },
+    {
+      "original": "revision/animation_frames/frame_006.png",
+      "organized": "renders/revision_greeting_frames/frame_006.png",
+      "bytes": 807961,
+      "original_sha256": "2b59c3cb558b13b9403fef532882b321e8d4ea1dde44d37487b1a8f5e7101d6a",
+      "organized_sha256": "2b59c3cb558b13b9403fef532882b321e8d4ea1dde44d37487b1a8f5e7101d6a"
+    },
+    {
+      "original": "revision/animation_frames/frame_007.png",
+      "organized": "renders/revision_greeting_frames/frame_007.png",
+      "bytes": 807664,
+      "original_sha256": "69069f0f800ef78155ba9faa7fb650cf8199269c5aab3b244a0d8f8c6673bb8c",
+      "organized_sha256": "69069f0f800ef78155ba9faa7fb650cf8199269c5aab3b244a0d8f8c6673bb8c"
+    },
+    {
+      "original": "revision/animation_frames/frame_008.png",
+      "organized": "renders/revision_greeting_frames/frame_008.png",
+      "bytes": 807704,
+      "original_sha256": "c724043b6945714fafc73e0290b298b94b8310d206f268424ed5810001d1a969",
+      "organized_sha256": "c724043b6945714fafc73e0290b298b94b8310d206f268424ed5810001d1a969"
+    },
+    {
+      "original": "revision/animation_frames/frame_009.png",
+      "organized": "renders/revision_greeting_frames/frame_009.png",
+      "bytes": 807834,
+      "original_sha256": "a8ae084e711c313f6522b0ca9175d5eb9ff832530b67f21a99280565ff96e08f",
+      "organized_sha256": "a8ae084e711c313f6522b0ca9175d5eb9ff832530b67f21a99280565ff96e08f"
+    },
+    {
+      "original": "revision/animation_frames/frame_010.png",
+      "organized": "renders/revision_greeting_frames/frame_010.png",
+      "bytes": 807641,
+      "original_sha256": "93de9cbf0588d7f9c2974dc0164638761c599d23754f3d2d84e135a09f1d7191",
+      "organized_sha256": "93de9cbf0588d7f9c2974dc0164638761c599d23754f3d2d84e135a09f1d7191"
+    },
+    {
+      "original": "revision/animation_frames/frame_011.png",
+      "organized": "renders/revision_greeting_frames/frame_011.png",
+      "bytes": 807891,
+      "original_sha256": "6b846effd89c419c9cdd1a77ff0a2a470b62cc967a5974db1e1e268a44f604f8",
+      "organized_sha256": "6b846effd89c419c9cdd1a77ff0a2a470b62cc967a5974db1e1e268a44f604f8"
+    },
+    {
+      "original": "revision/animation_frames/frame_012.png",
+      "organized": "renders/revision_greeting_frames/frame_012.png",
+      "bytes": 807812,
+      "original_sha256": "04a0e44d5bdad105f369adf50f12d9ca5387eb8afa36904a03e821509027dba9",
+      "organized_sha256": "04a0e44d5bdad105f369adf50f12d9ca5387eb8afa36904a03e821509027dba9"
+    },
+    {
+      "original": "revision/animation_frames/frame_013.png",
+      "organized": "renders/revision_greeting_frames/frame_013.png",
+      "bytes": 808052,
+      "original_sha256": "aba7c8bd2a9594323252759f9245125a3c783a540c0ebc70ef5ecafe6986ad60",
+      "organized_sha256": "aba7c8bd2a9594323252759f9245125a3c783a540c0ebc70ef5ecafe6986ad60"
+    },
+    {
+      "original": "revision/animation_frames/frame_014.png",
+      "organized": "renders/revision_greeting_frames/frame_014.png",
+      "bytes": 808265,
+      "original_sha256": "b6885440c82ece8421cb95b0bb76fbf063f71b522e2bb520fd032b9e510ae503",
+      "organized_sha256": "b6885440c82ece8421cb95b0bb76fbf063f71b522e2bb520fd032b9e510ae503"
+    },
+    {
+      "original": "revision/animation_frames/frame_015.png",
+      "organized": "renders/revision_greeting_frames/frame_015.png",
+      "bytes": 808085,
+      "original_sha256": "04b2e76cabbf80f0d64f6cce981d1a0199f8bc7c5c8d1c6847537874640a89b8",
+      "organized_sha256": "04b2e76cabbf80f0d64f6cce981d1a0199f8bc7c5c8d1c6847537874640a89b8"
+    },
+    {
+      "original": "revision/animation_frames/frame_016.png",
+      "organized": "renders/revision_greeting_frames/frame_016.png",
+      "bytes": 807918,
+      "original_sha256": "2bd593c609bb3207647f285d8eefde504b21737b55d4158da9f05bf48641f563",
+      "organized_sha256": "2bd593c609bb3207647f285d8eefde504b21737b55d4158da9f05bf48641f563"
+    },
+    {
+      "original": "revision/animation_frames/frame_017.png",
+      "organized": "renders/revision_greeting_frames/frame_017.png",
+      "bytes": 808077,
+      "original_sha256": "73262abce4a9831dc221f943700d63ea063f87914d5d8ae7d38c0625256a91f2",
+      "organized_sha256": "73262abce4a9831dc221f943700d63ea063f87914d5d8ae7d38c0625256a91f2"
+    },
+    {
+      "original": "revision/animation_frames/frame_018.png",
+      "organized": "renders/revision_greeting_frames/frame_018.png",
+      "bytes": 807849,
+      "original_sha256": "0ec6eb238980d1f670a192bde92b22115372ca14bad484862344f91eafd8fd5b",
+      "organized_sha256": "0ec6eb238980d1f670a192bde92b22115372ca14bad484862344f91eafd8fd5b"
+    },
+    {
+      "original": "revision/animation_frames/frame_019.png",
+      "organized": "renders/revision_greeting_frames/frame_019.png",
+      "bytes": 806323,
+      "original_sha256": "aa842a37d0c74ae4288c0a8ecebbdf9bfb0faeb3436084243b88809a8faed5de",
+      "organized_sha256": "aa842a37d0c74ae4288c0a8ecebbdf9bfb0faeb3436084243b88809a8faed5de"
+    },
+    {
+      "original": "revision/animation_frames/frame_020.png",
+      "organized": "renders/revision_greeting_frames/frame_020.png",
+      "bytes": 807711,
+      "original_sha256": "85e2cd451da705ef151d1d62158136f0ab0eedb3e7ee01342e4c6b9edf66e12e",
+      "organized_sha256": "85e2cd451da705ef151d1d62158136f0ab0eedb3e7ee01342e4c6b9edf66e12e"
+    },
+    {
+      "original": "revision/animation_frames/frame_021.png",
+      "organized": "renders/revision_greeting_frames/frame_021.png",
+      "bytes": 807528,
+      "original_sha256": "05fd4882bf5772792ecdb6a89dc90c165dda84f5f47c91d9215cc117b4b6bc8e",
+      "organized_sha256": "05fd4882bf5772792ecdb6a89dc90c165dda84f5f47c91d9215cc117b4b6bc8e"
+    },
+    {
+      "original": "revision/animation_frames/frame_022.png",
+      "organized": "renders/revision_greeting_frames/frame_022.png",
+      "bytes": 808114,
+      "original_sha256": "ec588699f1172a24d9dbb9202a19431efea41fb7d2881200efc8130253ee3c7d",
+      "organized_sha256": "ec588699f1172a24d9dbb9202a19431efea41fb7d2881200efc8130253ee3c7d"
+    },
+    {
+      "original": "revision/animation_frames/frame_023.png",
+      "organized": "renders/revision_greeting_frames/frame_023.png",
+      "bytes": 807945,
+      "original_sha256": "8060472b82f19d36838d7b8f58b1c3b8183e330b342b747b580d52786e7928a5",
+      "organized_sha256": "8060472b82f19d36838d7b8f58b1c3b8183e330b342b747b580d52786e7928a5"
+    },
+    {
+      "original": "revision/animation_frames/frame_024.png",
+      "organized": "renders/revision_greeting_frames/frame_024.png",
+      "bytes": 808381,
+      "original_sha256": "33b1a6d2db5853f0b4c7cb89c4d9b25657f8519d0b53334cc0679e917c826456",
+      "organized_sha256": "33b1a6d2db5853f0b4c7cb89c4d9b25657f8519d0b53334cc0679e917c826456"
+    },
+    {
+      "original": "revision/animation_frames/frame_025.png",
+      "organized": "renders/revision_greeting_frames/frame_025.png",
+      "bytes": 807831,
+      "original_sha256": "46562e75604305375482d2939d7514eededeaaa2bf24618809a9fb083530188c",
+      "organized_sha256": "46562e75604305375482d2939d7514eededeaaa2bf24618809a9fb083530188c"
+    },
+    {
+      "original": "revision/animation_frames/frame_026.png",
+      "organized": "renders/revision_greeting_frames/frame_026.png",
+      "bytes": 808030,
+      "original_sha256": "9850c6784fca56c9f8ff1e2496815ef7e78b7ec0190c76c0c2d39198fe8427de",
+      "organized_sha256": "9850c6784fca56c9f8ff1e2496815ef7e78b7ec0190c76c0c2d39198fe8427de"
+    },
+    {
+      "original": "revision/animation_frames/frame_027.png",
+      "organized": "renders/revision_greeting_frames/frame_027.png",
+      "bytes": 807486,
+      "original_sha256": "4659de2f59946c52bb19a961107b1d6b093eed815ab43062dd9eb4aac7cf6588",
+      "organized_sha256": "4659de2f59946c52bb19a961107b1d6b093eed815ab43062dd9eb4aac7cf6588"
+    },
+    {
+      "original": "revision/animation_frames/frame_028.png",
+      "organized": "renders/revision_greeting_frames/frame_028.png",
+      "bytes": 807849,
+      "original_sha256": "69b6482586a791ca02a7676de377f28ce9f7d5504328e5276b6b8b186035d85d",
+      "organized_sha256": "69b6482586a791ca02a7676de377f28ce9f7d5504328e5276b6b8b186035d85d"
+    },
+    {
+      "original": "revision/animation_frames/frame_029.png",
+      "organized": "renders/revision_greeting_frames/frame_029.png",
+      "bytes": 807522,
+      "original_sha256": "2efff1b1ef7087aa3eddd18180e5e41f8b4e34ecc1c711a84dab8ec6bf1a5165",
+      "organized_sha256": "2efff1b1ef7087aa3eddd18180e5e41f8b4e34ecc1c711a84dab8ec6bf1a5165"
+    },
+    {
+      "original": "revision/animation_frames/frame_030.png",
+      "organized": "renders/revision_greeting_frames/frame_030.png",
+      "bytes": 808041,
+      "original_sha256": "ab17793a2becc39b3c25ee129ee4a478d90fc48f5b330678947097c7b9da9517",
+      "organized_sha256": "ab17793a2becc39b3c25ee129ee4a478d90fc48f5b330678947097c7b9da9517"
+    },
+    {
+      "original": "revision/animation_frames/frame_031.png",
+      "organized": "renders/revision_greeting_frames/frame_031.png",
+      "bytes": 807525,
+      "original_sha256": "6df88c0038422337cd346d20efad9de978dcb7fdea1a8e98f47fa2e658c2cb58",
+      "organized_sha256": "6df88c0038422337cd346d20efad9de978dcb7fdea1a8e98f47fa2e658c2cb58"
+    },
+    {
+      "original": "revision/animation_frames/frame_032.png",
+      "organized": "renders/revision_greeting_frames/frame_032.png",
+      "bytes": 807439,
+      "original_sha256": "97da7d00584d4b2ad39f386e0393b693c6ca7a8c22f89fdb5be1a5d3cca123b4",
+      "organized_sha256": "97da7d00584d4b2ad39f386e0393b693c6ca7a8c22f89fdb5be1a5d3cca123b4"
+    },
+    {
+      "original": "revision/animation_frames/frame_033.png",
+      "organized": "renders/revision_greeting_frames/frame_033.png",
+      "bytes": 807434,
+      "original_sha256": "8e3c0379407d9f7a93f43d5b1d218fb2da1d487353419b176d3672efc0e3577d",
+      "organized_sha256": "8e3c0379407d9f7a93f43d5b1d218fb2da1d487353419b176d3672efc0e3577d"
+    },
+    {
+      "original": "revision/animation_frames/frame_034.png",
+      "organized": "renders/revision_greeting_frames/frame_034.png",
+      "bytes": 807689,
+      "original_sha256": "e86ae54a717960eee787c31575d034f25d0af3a27f14b36d2cc3be586c5a01a3",
+      "organized_sha256": "e86ae54a717960eee787c31575d034f25d0af3a27f14b36d2cc3be586c5a01a3"
+    },
+    {
+      "original": "revision/animation_frames/frame_035.png",
+      "organized": "renders/revision_greeting_frames/frame_035.png",
+      "bytes": 807884,
+      "original_sha256": "de2c5ecf1942f223b26ae95a5253abeb3ea55c8839c5fe3eb8f82a8e97495ff3",
+      "organized_sha256": "de2c5ecf1942f223b26ae95a5253abeb3ea55c8839c5fe3eb8f82a8e97495ff3"
+    },
+    {
+      "original": "revision/animation_frames/frame_036.png",
+      "organized": "renders/revision_greeting_frames/frame_036.png",
+      "bytes": 807906,
+      "original_sha256": "99e6b41497070293d423d0024eff5ba76c30154feafbe85a0fd58ae5e73755f2",
+      "organized_sha256": "99e6b41497070293d423d0024eff5ba76c30154feafbe85a0fd58ae5e73755f2"
+    },
+    {
+      "original": "revision/animation_frames/frame_037.png",
+      "organized": "renders/revision_greeting_frames/frame_037.png",
+      "bytes": 808198,
+      "original_sha256": "940d8e5852ee15264cb8c60b1aca217bfa5414b22537046a3fb35467f43e1460",
+      "organized_sha256": "940d8e5852ee15264cb8c60b1aca217bfa5414b22537046a3fb35467f43e1460"
+    },
+    {
+      "original": "revision/animation_frames/frame_038.png",
+      "organized": "renders/revision_greeting_frames/frame_038.png",
+      "bytes": 808462,
+      "original_sha256": "fff67daac7c881c6e8e2890a5f99b9b4da00b04e8f029f44663c09c72ee72342",
+      "organized_sha256": "fff67daac7c881c6e8e2890a5f99b9b4da00b04e8f029f44663c09c72ee72342"
+    },
+    {
+      "original": "revision/animation_frames/frame_039.png",
+      "organized": "renders/revision_greeting_frames/frame_039.png",
+      "bytes": 808090,
+      "original_sha256": "23b464d5f310f7d21ed90ec07982ff70870b3d63bcb7c9f605aade9c6e991d4a",
+      "organized_sha256": "23b464d5f310f7d21ed90ec07982ff70870b3d63bcb7c9f605aade9c6e991d4a"
+    },
+    {
+      "original": "revision/animation_frames/frame_040.png",
+      "organized": "renders/revision_greeting_frames/frame_040.png",
+      "bytes": 808027,
+      "original_sha256": "7eafcce4df0ff2fd382ccff66b44b0c8c2822f72e10bf668c703bea4a9fb2ad2",
+      "organized_sha256": "7eafcce4df0ff2fd382ccff66b44b0c8c2822f72e10bf668c703bea4a9fb2ad2"
+    },
+    {
+      "original": "revision/animation_frames/frame_041.png",
+      "organized": "renders/revision_greeting_frames/frame_041.png",
+      "bytes": 808157,
+      "original_sha256": "9381b919b96c300ef8aad7f8efcb9814ebf15137b74901ff957915d60ed61d0c",
+      "organized_sha256": "9381b919b96c300ef8aad7f8efcb9814ebf15137b74901ff957915d60ed61d0c"
+    },
+    {
+      "original": "revision/animation_frames/frame_042.png",
+      "organized": "renders/revision_greeting_frames/frame_042.png",
+      "bytes": 808230,
+      "original_sha256": "461fa4df50d826367478dd220e38a61458876d83073da5afa23eb7d5587fcf2a",
+      "organized_sha256": "461fa4df50d826367478dd220e38a61458876d83073da5afa23eb7d5587fcf2a"
+    },
+    {
+      "original": "revision/animation_frames/frame_043.png",
+      "organized": "renders/revision_greeting_frames/frame_043.png",
+      "bytes": 808471,
+      "original_sha256": "89ed40fee5dcddb94ea48d94ae5e87c23b4dce37ba996f1d0b4eda559c815fa9",
+      "organized_sha256": "89ed40fee5dcddb94ea48d94ae5e87c23b4dce37ba996f1d0b4eda559c815fa9"
+    },
+    {
+      "original": "revision/animation_frames/frame_044.png",
+      "organized": "renders/revision_greeting_frames/frame_044.png",
+      "bytes": 808265,
+      "original_sha256": "84029cb32c663fd80968c9c54afca656149a41e93b5162931dae5e7158c61a57",
+      "organized_sha256": "84029cb32c663fd80968c9c54afca656149a41e93b5162931dae5e7158c61a57"
+    },
+    {
+      "original": "revision/animation_frames/frame_045.png",
+      "organized": "renders/revision_greeting_frames/frame_045.png",
+      "bytes": 808063,
+      "original_sha256": "35675d89a186c1092756e0b2cf2bf57e33bfae14e26516373f16f6522dd70692",
+      "organized_sha256": "35675d89a186c1092756e0b2cf2bf57e33bfae14e26516373f16f6522dd70692"
+    },
+    {
+      "original": "revision/animation_frames/frame_046.png",
+      "organized": "renders/revision_greeting_frames/frame_046.png",
+      "bytes": 806982,
+      "original_sha256": "047726b48d2480a823385d3f69ffc4a29327b969461d26b33e71ab1577b3539a",
+      "organized_sha256": "047726b48d2480a823385d3f69ffc4a29327b969461d26b33e71ab1577b3539a"
+    },
+    {
+      "original": "revision/animation_frames/frame_047.png",
+      "organized": "renders/revision_greeting_frames/frame_047.png",
+      "bytes": 807411,
+      "original_sha256": "f50a0e86260423e2a0094a99e12b1b2ce424be2126d4dfdfb30dda6378816fa2",
+      "organized_sha256": "f50a0e86260423e2a0094a99e12b1b2ce424be2126d4dfdfb30dda6378816fa2"
+    },
+    {
+      "original": "revision/animation_frames/frame_048.png",
+      "organized": "renders/revision_greeting_frames/frame_048.png",
+      "bytes": 808392,
+      "original_sha256": "a454b34cfeddf6bf0b8f7f10f3646d5de9cd14f90ddd02327971515cd50a4bcf",
+      "organized_sha256": "a454b34cfeddf6bf0b8f7f10f3646d5de9cd14f90ddd02327971515cd50a4bcf"
+    },
+    {
+      "original": "revision/animation_frames/frame_049.png",
+      "organized": "renders/revision_greeting_frames/frame_049.png",
+      "bytes": 808243,
+      "original_sha256": "afa03477dc3ae34f264834f0460587572f969e77f5ea9679d632218c77baf369",
+      "organized_sha256": "afa03477dc3ae34f264834f0460587572f969e77f5ea9679d632218c77baf369"
+    },
+    {
+      "original": "revision/animation_frames/frame_050.png",
+      "organized": "renders/revision_greeting_frames/frame_050.png",
+      "bytes": 808857,
+      "original_sha256": "d3fee7d7546472fe243d43cd43d735de7b37983734a4cd9040415cd651ac3733",
+      "organized_sha256": "d3fee7d7546472fe243d43cd43d735de7b37983734a4cd9040415cd651ac3733"
+    },
+    {
+      "original": "revision/animation_frames/frame_051.png",
+      "organized": "renders/revision_greeting_frames/frame_051.png",
+      "bytes": 808507,
+      "original_sha256": "e151fd7208fc6b4493a7df5f63f7862c5f424df72cbfabb12333f7cb84d67257",
+      "organized_sha256": "e151fd7208fc6b4493a7df5f63f7862c5f424df72cbfabb12333f7cb84d67257"
+    },
+    {
+      "original": "revision/animation_frames/frame_052.png",
+      "organized": "renders/revision_greeting_frames/frame_052.png",
+      "bytes": 808909,
+      "original_sha256": "1c14e492e66ec66c3be19ca1a24e7dcb30e158c69a73866ab41f31a7111e2be2",
+      "organized_sha256": "1c14e492e66ec66c3be19ca1a24e7dcb30e158c69a73866ab41f31a7111e2be2"
+    },
+    {
+      "original": "revision/animation_frames/frame_053.png",
+      "organized": "renders/revision_greeting_frames/frame_053.png",
+      "bytes": 808587,
+      "original_sha256": "17efbb004fc5b4b8eb8f3fc6d8353b8c56a63b82565ef37bad9409d378e1c1cc",
+      "organized_sha256": "17efbb004fc5b4b8eb8f3fc6d8353b8c56a63b82565ef37bad9409d378e1c1cc"
+    },
+    {
+      "original": "revision/animation_frames/frame_054.png",
+      "organized": "renders/revision_greeting_frames/frame_054.png",
+      "bytes": 808276,
+      "original_sha256": "a5336fdc9148d7d60e9a8294333d976c3fb46756bdefe7907735e16093fa533d",
+      "organized_sha256": "a5336fdc9148d7d60e9a8294333d976c3fb46756bdefe7907735e16093fa533d"
+    },
+    {
+      "original": "revision/animation_frames/frame_055.png",
+      "organized": "renders/revision_greeting_frames/frame_055.png",
+      "bytes": 808434,
+      "original_sha256": "3cd9bfe9a91042960edb5eef51edeba45674e5d28156d6dd2437c788d8df258e",
+      "organized_sha256": "3cd9bfe9a91042960edb5eef51edeba45674e5d28156d6dd2437c788d8df258e"
+    },
+    {
+      "original": "revision/animation_frames/frame_056.png",
+      "organized": "renders/revision_greeting_frames/frame_056.png",
+      "bytes": 808201,
+      "original_sha256": "632ff74dd019a6cdfbed474261acdfbbb4dcda258abfe59dd0965a4e03e34f76",
+      "organized_sha256": "632ff74dd019a6cdfbed474261acdfbbb4dcda258abfe59dd0965a4e03e34f76"
+    },
+    {
+      "original": "revision/animation_frames/frame_057.png",
+      "organized": "renders/revision_greeting_frames/frame_057.png",
+      "bytes": 808703,
+      "original_sha256": "38f4cfd3386cd0b2d4cbf6840b104f3295beeb6914ef66590faf316d27d33f7f",
+      "organized_sha256": "38f4cfd3386cd0b2d4cbf6840b104f3295beeb6914ef66590faf316d27d33f7f"
+    },
+    {
+      "original": "revision/animation_frames/frame_058.png",
+      "organized": "renders/revision_greeting_frames/frame_058.png",
+      "bytes": 808391,
+      "original_sha256": "8dd2c333913efe7bf8ee6f106e7ad2b5263c8e91934302cb0161d6eb84e9c87b",
+      "organized_sha256": "8dd2c333913efe7bf8ee6f106e7ad2b5263c8e91934302cb0161d6eb84e9c87b"
+    },
+    {
+      "original": "revision/animation_frames/frame_059.png",
+      "organized": "renders/revision_greeting_frames/frame_059.png",
+      "bytes": 808232,
+      "original_sha256": "f0ef5e8b59f20aa914bd477254536f4b58440915cc85d81dea723c8295b090b0",
+      "organized_sha256": "f0ef5e8b59f20aa914bd477254536f4b58440915cc85d81dea723c8295b090b0"
+    },
+    {
+      "original": "revision/ASSET-CREDIT.txt",
+      "organized": "deliverables/ASSET-CREDIT.txt",
+      "bytes": 724,
+      "original_sha256": "4cf53b2045442613c0194cd838ea2a09375628db6210d5a7afd1a43c36679163",
+      "organized_sha256": "4cf53b2045442613c0194cd838ea2a09375628db6210d5a7afd1a43c36679163"
+    },
+    {
+      "original": "revision/band_samples.py",
+      "organized": "scripts/diagnostics/band_samples.py",
+      "bytes": 663,
+      "original_sha256": "4e62758064fdd6e525f44f8c03b38616520790cc256a844204743be5bcef0bad",
+      "organized_sha256": "5b8c3f2cefc763eb2088347e4929ad294d2f7c84968f405ce266f4b91cc2bee7"
+    },
+    {
+      "original": "revision/Character-blink-check.png",
+      "organized": "archive/refinement/Character-blink-check.png",
+      "bytes": 1255551,
+      "original_sha256": "1fcf44945be7f0f6f0e0b82f2248bcbabed960a508ba47149c7905a70925df78",
+      "organized_sha256": "1fcf44945be7f0f6f0e0b82f2248bcbabed960a508ba47149c7905a70925df78"
+    },
+    {
+      "original": "revision/Character-refined-preview.png",
+      "organized": "archive/refinement/Character-refined-preview.png",
+      "bytes": 1241663,
+      "original_sha256": "722b37e98fec29ad7551944d1533284a1ad5c0182ddc1784b45004f017d259c1",
+      "organized_sha256": "722b37e98fec29ad7551944d1533284a1ad5c0182ddc1784b45004f017d259c1"
+    },
+    {
+      "original": "revision/Classroom-before-dance.blend",
+      "organized": "archive/checkpoints/Classroom-before-dance.blend",
+      "bytes": 2533791,
+      "original_sha256": "f9bebb4f66fc0042648bb20e20d55a2b7f7f4e9012bece6643dd0f49ba160621",
+      "organized_sha256": "f9bebb4f66fc0042648bb20e20d55a2b7f7f4e9012bece6643dd0f49ba160621"
+    },
+    {
+      "original": "revision/Classroom-before-head-correction.blend",
+      "organized": "archive/checkpoints/Classroom-before-head-correction.blend",
+      "bytes": 2360631,
+      "original_sha256": "d231db91d467ffe9e68214a3a022aee6e0713508f800a1e4015b0bc98665f670",
+      "organized_sha256": "d231db91d467ffe9e68214a3a022aee6e0713508f800a1e4015b0bc98665f670"
+    },
+    {
+      "original": "revision/Classroom-before-refinement.blend",
+      "organized": "archive/checkpoints/Classroom-before-refinement.blend",
+      "bytes": 1183907,
+      "original_sha256": "c1339a057a593376d4bfda3ff12142ec054401cf790b2a71126c35c797a3d527",
+      "organized_sha256": "c1339a057a593376d4bfda3ff12142ec054401cf790b2a71126c35c797a3d527"
+    },
+    {
+      "original": "revision/Classroom-dance-10s.mp4",
+      "organized": "deliverables/Classroom-dance-10s.mp4",
+      "bytes": 884227,
+      "original_sha256": "4f1917bd5fb7324290d011ba098ffbb8555a216af047d1d72ff979b0802f6206",
+      "organized_sha256": "4f1917bd5fb7324290d011ba098ffbb8555a216af047d1d72ff979b0802f6206"
+    },
+    {
+      "original": "revision/Classroom-dance.blend",
+      "organized": "deliverables/Classroom-dance.blend",
+      "bytes": 3663856,
+      "original_sha256": "a6154992ac4447eb707ac2c9fea026ce85425fd934c1ba29b0c99b18f54b4057",
+      "organized_sha256": "a6154992ac4447eb707ac2c9fea026ce85425fd934c1ba29b0c99b18f54b4057"
+    },
+    {
+      "original": "revision/Classroom-dance.blend1",
+      "organized": "archive/backups/Classroom-dance.blend1",
+      "bytes": 3679172,
+      "original_sha256": "9e63953fb7f5713fdb927779f17fb6e190961cc1efb80fc47480ec021a2a621a",
+      "organized_sha256": "9e63953fb7f5713fdb927779f17fb6e190961cc1efb80fc47480ec021a2a621a"
+    },
+    {
+      "original": "revision/Classroom-refined-preview.png",
+      "organized": "archive/refinement/Classroom-refined-preview.png",
+      "bytes": 1826935,
+      "original_sha256": "04a17c8ed9ce0b5c7dfdffdac67fcba719a03165470276ea6c082fed67f5cf19",
+      "organized_sha256": "04a17c8ed9ce0b5c7dfdffdac67fcba719a03165470276ea6c082fed67f5cf19"
+    },
+    {
+      "original": "revision/Classroom-refined.blend",
+      "organized": "archive/refinement/Classroom-refined.blend",
+      "bytes": 2548435,
+      "original_sha256": "533a3c61acb07ca70e81ed54abb303ae100391132af139059eb288dbdfa63070",
+      "organized_sha256": "533a3c61acb07ca70e81ed54abb303ae100391132af139059eb288dbdfa63070"
+    },
+    {
+      "original": "revision/Classroom-refined.blend1",
+      "organized": "archive/backups/Classroom-refined.blend1",
+      "bytes": 2539400,
+      "original_sha256": "1f2f1a3e5e67b4f63a905aa780e2fcec959315bf8d3b5891de6d5076b6dcb2ee",
+      "organized_sha256": "1f2f1a3e5e67b4f63a905aa780e2fcec959315bf8d3b5891de6d5076b6dcb2ee"
+    },
+    {
+      "original": "revision/components.json",
+      "organized": "reports/diagnostics/components.json",
+      "bytes": 151243,
+      "original_sha256": "6cfda235c3b80a0c44ca3449ce89319345c41ccc97302418b7917fd25703945d",
+      "organized_sha256": "6cfda235c3b80a0c44ca3449ce89319345c41ccc97302418b7917fd25703945d"
+    },
+    {
+      "original": "revision/create_revision.py",
+      "organized": "scripts/refinement/create_revision.py",
+      "bytes": 10100,
+      "original_sha256": "c5c25403be844746fb8d9a59c4507896a5bdcf79831c322b86bb9a2184652709",
+      "organized_sha256": "f5fcabf4b1d67cd92e90b516bada2bc3c55cdca2e81320f1976ecb063b5b1aa9"
+    },
+    {
+      "original": "revision/Dance-left.png",
+      "organized": "archive/refinement/Dance-left.png",
+      "bytes": 847212,
+      "original_sha256": "e87fb95b407e26d2a013825b74508b670d893326aaad1a59a4d82a3bd116e891",
+      "organized_sha256": "e87fb95b407e26d2a013825b74508b670d893326aaad1a59a4d82a3bd116e891"
+    },
+    {
+      "original": "revision/Dance-middle.png",
+      "organized": "archive/refinement/Dance-middle.png",
+      "bytes": 848982,
+      "original_sha256": "b56425f1a190c66f877ba270d584f96d450f0bcff433f7ca12a9e14025bd88fb",
+      "organized_sha256": "b56425f1a190c66f877ba270d584f96d450f0bcff433f7ca12a9e14025bd88fb"
+    },
+    {
+      "original": "revision/dance-pose-samples.json",
+      "organized": "reports/final/dance-pose-samples.json",
+      "bytes": 3267,
+      "original_sha256": "5c9c5bc7454fef4a46c5aee817130a591be03664ce37ad08e729f3892123973e",
+      "organized_sha256": "5c9c5bc7454fef4a46c5aee817130a591be03664ce37ad08e729f3892123973e"
+    },
+    {
+      "original": "revision/Dance-preview.png",
+      "organized": "deliverables/previews/Dance-preview.png",
+      "bytes": 883121,
+      "original_sha256": "c083a7a0683cd77ad608f2cd8b60f216d79c97e5217eaf024a9a7d57a0e529c1",
+      "organized_sha256": "c083a7a0683cd77ad608f2cd8b60f216d79c97e5217eaf024a9a7d57a0e529c1"
+    },
+    {
+      "original": "revision/Dance-right.png",
+      "organized": "archive/refinement/Dance-right.png",
+      "bytes": 847500,
+      "original_sha256": "077f3b0c6d2fc0705e679da49e197c04ffb2cb21cf40006874c373c14a296c51",
+      "organized_sha256": "077f3b0c6d2fc0705e679da49e197c04ffb2cb21cf40006874c373c14a296c51"
+    },
+    {
+      "original": "revision/dance-validation.json",
+      "organized": "reports/final/dance-validation.json",
+      "bytes": 3186,
+      "original_sha256": "23504d23038eafe74c0e5125c6cfd30c2a2ea92d26146bffd2cf0833089717de",
+      "organized_sha256": "23504d23038eafe74c0e5125c6cfd30c2a2ea92d26146bffd2cf0833089717de"
+    },
+    {
+      "original": "revision/dance_frames/frame_000.png",
+      "organized": "renders/dance_frames/frame_000.png",
+      "bytes": 731450,
+      "original_sha256": "1ae53094fec2d7982b9feef465abc79712ac151148be6ce0532e7353c90ba4b1",
+      "organized_sha256": "1ae53094fec2d7982b9feef465abc79712ac151148be6ce0532e7353c90ba4b1"
+    },
+    {
+      "original": "revision/dance_frames/frame_001.png",
+      "organized": "renders/dance_frames/frame_001.png",
+      "bytes": 731389,
+      "original_sha256": "ff6d7c206414162c7fc12ed9df2f32c465af3842b7d837cd1a2272c74dc76458",
+      "organized_sha256": "ff6d7c206414162c7fc12ed9df2f32c465af3842b7d837cd1a2272c74dc76458"
+    },
+    {
+      "original": "revision/dance_frames/frame_002.png",
+      "organized": "renders/dance_frames/frame_002.png",
+      "bytes": 731393,
+      "original_sha256": "413b137bf146a9fe4c8395c7b6941fadc1b7f5e3a81b1f09c21926508fe9b939",
+      "organized_sha256": "413b137bf146a9fe4c8395c7b6941fadc1b7f5e3a81b1f09c21926508fe9b939"
+    },
+    {
+      "original": "revision/dance_frames/frame_003.png",
+      "organized": "renders/dance_frames/frame_003.png",
+      "bytes": 731386,
+      "original_sha256": "3a960f9d6a95ea39b5a51876c073212aae3f3a4345efc9a6e8f26238c796ebd6",
+      "organized_sha256": "3a960f9d6a95ea39b5a51876c073212aae3f3a4345efc9a6e8f26238c796ebd6"
+    },
+    {
+      "original": "revision/dance_frames/frame_004.png",
+      "organized": "renders/dance_frames/frame_004.png",
+      "bytes": 731371,
+      "original_sha256": "ce5a0d21039493c6c9fa2530d430ba4ee497a9af05e2cac33672685016ab5392",
+      "organized_sha256": "ce5a0d21039493c6c9fa2530d430ba4ee497a9af05e2cac33672685016ab5392"
+    },
+    {
+      "original": "revision/dance_frames/frame_005.png",
+      "organized": "renders/dance_frames/frame_005.png",
+      "bytes": 731392,
+      "original_sha256": "01988698fd634bb06a3c01a1306677565112e6223df15293e8474d0f2b5ebd6b",
+      "organized_sha256": "01988698fd634bb06a3c01a1306677565112e6223df15293e8474d0f2b5ebd6b"
+    },
+    {
+      "original": "revision/dance_frames/frame_006.png",
+      "organized": "renders/dance_frames/frame_006.png",
+      "bytes": 731386,
+      "original_sha256": "5d3101dad541637867214ed6b984b130788ed613ab1089f9f67a2c9bcc20fdd4",
+      "organized_sha256": "5d3101dad541637867214ed6b984b130788ed613ab1089f9f67a2c9bcc20fdd4"
+    },
+    {
+      "original": "revision/dance_frames/frame_007.png",
+      "organized": "renders/dance_frames/frame_007.png",
+      "bytes": 731426,
+      "original_sha256": "ad5ab942cad9cd0080af496ebaf048ed423f65c2d5e223c851a772834c63535e",
+      "organized_sha256": "ad5ab942cad9cd0080af496ebaf048ed423f65c2d5e223c851a772834c63535e"
+    },
+    {
+      "original": "revision/dance_frames/frame_008.png",
+      "organized": "renders/dance_frames/frame_008.png",
+      "bytes": 731419,
+      "original_sha256": "c58ad9df99fbea97743a10ed4d0a36f7e59fd61e32aa8c218c24a8c6b7d0258c",
+      "organized_sha256": "c58ad9df99fbea97743a10ed4d0a36f7e59fd61e32aa8c218c24a8c6b7d0258c"
+    },
+    {
+      "original": "revision/dance_frames/frame_009.png",
+      "organized": "renders/dance_frames/frame_009.png",
+      "bytes": 731390,
+      "original_sha256": "b461c720af85e166507e3a120ed604126c0272a6c8fd342084595c6d8efda331",
+      "organized_sha256": "b461c720af85e166507e3a120ed604126c0272a6c8fd342084595c6d8efda331"
+    },
+    {
+      "original": "revision/dance_frames/frame_010.png",
+      "organized": "renders/dance_frames/frame_010.png",
+      "bytes": 731415,
+      "original_sha256": "4c54f1067d6a77e886d5f22ffbaf1e8feb12c3756438fe30b331b4807e454c26",
+      "organized_sha256": "4c54f1067d6a77e886d5f22ffbaf1e8feb12c3756438fe30b331b4807e454c26"
+    },
+    {
+      "original": "revision/dance_frames/frame_011.png",
+      "organized": "renders/dance_frames/frame_011.png",
+      "bytes": 731591,
+      "original_sha256": "fed1d981b509dd07b1f5bedcd66a02a4656663c2d5540f1881085ca586afcb01",
+      "organized_sha256": "fed1d981b509dd07b1f5bedcd66a02a4656663c2d5540f1881085ca586afcb01"
+    },
+    {
+      "original": "revision/dance_frames/frame_012.png",
+      "organized": "renders/dance_frames/frame_012.png",
+      "bytes": 731729,
+      "original_sha256": "8e2f67f00c96b9c41bc5305a8435ae625a3a256184b32936c2694ee468ce9355",
+      "organized_sha256": "8e2f67f00c96b9c41bc5305a8435ae625a3a256184b32936c2694ee468ce9355"
+    },
+    {
+      "original": "revision/dance_frames/frame_013.png",
+      "organized": "renders/dance_frames/frame_013.png",
+      "bytes": 731338,
+      "original_sha256": "717dc44c71679d0c366863f4172dfd0b47bba86dff82f9201e39d35944ad2f9c",
+      "organized_sha256": "717dc44c71679d0c366863f4172dfd0b47bba86dff82f9201e39d35944ad2f9c"
+    },
+    {
+      "original": "revision/dance_frames/frame_014.png",
+      "organized": "renders/dance_frames/frame_014.png",
+      "bytes": 731220,
+      "original_sha256": "2591b60079fad2ac94bf9ee25e9dfffc3b2793df6708b637aafd5d532d7cb1f4",
+      "organized_sha256": "2591b60079fad2ac94bf9ee25e9dfffc3b2793df6708b637aafd5d532d7cb1f4"
+    },
+    {
+      "original": "revision/dance_frames/frame_015.png",
+      "organized": "renders/dance_frames/frame_015.png",
+      "bytes": 730465,
+      "original_sha256": "5b6932e25e6d37f295ee905d22c62f68935d00462ddd550f13c2b2e2d99fad54",
+      "organized_sha256": "5b6932e25e6d37f295ee905d22c62f68935d00462ddd550f13c2b2e2d99fad54"
+    },
+    {
+      "original": "revision/dance_frames/frame_016.png",
+      "organized": "renders/dance_frames/frame_016.png",
+      "bytes": 731905,
+      "original_sha256": "15eeb6edfa1dfc7ae83e30fe515ed61c80d4a7481839fc35745b84c811e9f83c",
+      "organized_sha256": "15eeb6edfa1dfc7ae83e30fe515ed61c80d4a7481839fc35745b84c811e9f83c"
+    },
+    {
+      "original": "revision/dance_frames/frame_017.png",
+      "organized": "renders/dance_frames/frame_017.png",
+      "bytes": 732071,
+      "original_sha256": "7604245829c5eba872b6c7b1624efeaedf121b049d9aab8fe94a6bbf066f2cfd",
+      "organized_sha256": "7604245829c5eba872b6c7b1624efeaedf121b049d9aab8fe94a6bbf066f2cfd"
+    },
+    {
+      "original": "revision/dance_frames/frame_018.png",
+      "organized": "renders/dance_frames/frame_018.png",
+      "bytes": 731857,
+      "original_sha256": "9679f6b7fc8a730fe5e3906f85f82aa3b6cb8d4e4c9a34e9ea3cdffb5ff9f8b6",
+      "organized_sha256": "9679f6b7fc8a730fe5e3906f85f82aa3b6cb8d4e4c9a34e9ea3cdffb5ff9f8b6"
+    },
+    {
+      "original": "revision/dance_frames/frame_019.png",
+      "organized": "renders/dance_frames/frame_019.png",
+      "bytes": 733415,
+      "original_sha256": "11341e706da66764f9eb7d86b00c1914d56decd2a1435075aac84846a4b7b2e7",
+      "organized_sha256": "11341e706da66764f9eb7d86b00c1914d56decd2a1435075aac84846a4b7b2e7"
+    },
+    {
+      "original": "revision/dance_frames/frame_020.png",
+      "organized": "renders/dance_frames/frame_020.png",
+      "bytes": 732416,
+      "original_sha256": "e1a1696e1483c834839c5d6c0fd4f2275bf935cfafe7c37594d44332fa3ac1ac",
+      "organized_sha256": "e1a1696e1483c834839c5d6c0fd4f2275bf935cfafe7c37594d44332fa3ac1ac"
+    },
+    {
+      "original": "revision/dance_frames/frame_021.png",
+      "organized": "renders/dance_frames/frame_021.png",
+      "bytes": 733615,
+      "original_sha256": "645f0976114aa584fb2e0278ea1db08088e793b1a8f6050459a0f962f3c0246c",
+      "organized_sha256": "645f0976114aa584fb2e0278ea1db08088e793b1a8f6050459a0f962f3c0246c"
+    },
+    {
+      "original": "revision/dance_frames/frame_022.png",
+      "organized": "renders/dance_frames/frame_022.png",
+      "bytes": 734540,
+      "original_sha256": "5e29ebb54b25da3d99a64b798d24083b096b8e08c885ed83465bf982729b633c",
+      "organized_sha256": "5e29ebb54b25da3d99a64b798d24083b096b8e08c885ed83465bf982729b633c"
+    },
+    {
+      "original": "revision/dance_frames/frame_023.png",
+      "organized": "renders/dance_frames/frame_023.png",
+      "bytes": 734720,
+      "original_sha256": "bc5f6deffd993c5b9ed6a8f3add69ba6f8e8e6d3f9e1a24f7aafb9248200b73b",
+      "organized_sha256": "bc5f6deffd993c5b9ed6a8f3add69ba6f8e8e6d3f9e1a24f7aafb9248200b73b"
+    },
+    {
+      "original": "revision/dance_frames/frame_024.png",
+      "organized": "renders/dance_frames/frame_024.png",
+      "bytes": 735148,
+      "original_sha256": "79ab6ea6f83a6018bc487d842b51dc5e018f15617552a2b35f705068f9e097bb",
+      "organized_sha256": "79ab6ea6f83a6018bc487d842b51dc5e018f15617552a2b35f705068f9e097bb"
+    },
+    {
+      "original": "revision/dance_frames/frame_025.png",
+      "organized": "renders/dance_frames/frame_025.png",
+      "bytes": 734741,
+      "original_sha256": "df0d2f164a0abec0b5af65d457607420063906a082abde57367931e885677548",
+      "organized_sha256": "df0d2f164a0abec0b5af65d457607420063906a082abde57367931e885677548"
+    },
+    {
+      "original": "revision/dance_frames/frame_026.png",
+      "organized": "renders/dance_frames/frame_026.png",
+      "bytes": 734893,
+      "original_sha256": "ec17a8b5835d36fed826862551db2acff8978fd6886837658d847befaca75a21",
+      "organized_sha256": "ec17a8b5835d36fed826862551db2acff8978fd6886837658d847befaca75a21"
+    },
+    {
+      "original": "revision/dance_frames/frame_027.png",
+      "organized": "renders/dance_frames/frame_027.png",
+      "bytes": 736414,
+      "original_sha256": "828c610b9009433990f6b6081a2305bee4e294c24da2efe917847c0d420e9df5",
+      "organized_sha256": "828c610b9009433990f6b6081a2305bee4e294c24da2efe917847c0d420e9df5"
+    },
+    {
+      "original": "revision/dance_frames/frame_028.png",
+      "organized": "renders/dance_frames/frame_028.png",
+      "bytes": 737523,
+      "original_sha256": "00eca343920273bb183bfa8721fd31c31e91266a706632d21247f3e0cf3dc37e",
+      "organized_sha256": "00eca343920273bb183bfa8721fd31c31e91266a706632d21247f3e0cf3dc37e"
+    },
+    {
+      "original": "revision/dance_frames/frame_029.png",
+      "organized": "renders/dance_frames/frame_029.png",
+      "bytes": 740322,
+      "original_sha256": "c7370acb023a4b4c5bc2c20fb7dccb0bca9de0abee23dd09e58290a9157293d6",
+      "organized_sha256": "c7370acb023a4b4c5bc2c20fb7dccb0bca9de0abee23dd09e58290a9157293d6"
+    },
+    {
+      "original": "revision/dance_frames/frame_030.png",
+      "organized": "renders/dance_frames/frame_030.png",
+      "bytes": 740189,
+      "original_sha256": "ab0d565bdc27dbfcc849d407f4c6d5428ec3785d5d298e19e2ca755440b607e4",
+      "organized_sha256": "ab0d565bdc27dbfcc849d407f4c6d5428ec3785d5d298e19e2ca755440b607e4"
+    },
+    {
+      "original": "revision/dance_frames/frame_031.png",
+      "organized": "renders/dance_frames/frame_031.png",
+      "bytes": 740128,
+      "original_sha256": "a8b18e1d56072402b59d94701abecbee02c86b88de2639e2ed8d649365662782",
+      "organized_sha256": "a8b18e1d56072402b59d94701abecbee02c86b88de2639e2ed8d649365662782"
+    },
+    {
+      "original": "revision/dance_frames/frame_032.png",
+      "organized": "renders/dance_frames/frame_032.png",
+      "bytes": 741205,
+      "original_sha256": "eb924803d60be8bbfc51bded53e7eb69b0a8919a085e428328b332c728f292bb",
+      "organized_sha256": "eb924803d60be8bbfc51bded53e7eb69b0a8919a085e428328b332c728f292bb"
+    },
+    {
+      "original": "revision/dance_frames/frame_033.png",
+      "organized": "renders/dance_frames/frame_033.png",
+      "bytes": 740164,
+      "original_sha256": "014bbb81d34ce492ae251dcf2454bd2f757354885c49bcd778f2236cd0d105c1",
+      "organized_sha256": "014bbb81d34ce492ae251dcf2454bd2f757354885c49bcd778f2236cd0d105c1"
+    },
+    {
+      "original": "revision/dance_frames/frame_034.png",
+      "organized": "renders/dance_frames/frame_034.png",
+      "bytes": 739074,
+      "original_sha256": "ad458830f42ccd304a39e9236de077a8cca0b85507fc6a924e4f7e28fe030da2",
+      "organized_sha256": "ad458830f42ccd304a39e9236de077a8cca0b85507fc6a924e4f7e28fe030da2"
+    },
+    {
+      "original": "revision/dance_frames/frame_035.png",
+      "organized": "renders/dance_frames/frame_035.png",
+      "bytes": 739501,
+      "original_sha256": "0c8e14525ad4a685b7fdecbec8f0b28c6dea69d3505c2e94f3bbc37a9718c4dc",
+      "organized_sha256": "0c8e14525ad4a685b7fdecbec8f0b28c6dea69d3505c2e94f3bbc37a9718c4dc"
+    },
+    {
+      "original": "revision/dance_frames/frame_036.png",
+      "organized": "renders/dance_frames/frame_036.png",
+      "bytes": 741597,
+      "original_sha256": "e1de1e069795b22fa872c4d3514eca25372a1f684cab4502b2829a7c490e8464",
+      "organized_sha256": "e1de1e069795b22fa872c4d3514eca25372a1f684cab4502b2829a7c490e8464"
+    },
+    {
+      "original": "revision/dance_frames/frame_037.png",
+      "organized": "renders/dance_frames/frame_037.png",
+      "bytes": 743190,
+      "original_sha256": "41c61ef5f78acfb1df4ad5cf77d0c3b166295a01b5bb6d41063c7c7da807f867",
+      "organized_sha256": "41c61ef5f78acfb1df4ad5cf77d0c3b166295a01b5bb6d41063c7c7da807f867"
+    },
+    {
+      "original": "revision/dance_frames/frame_038.png",
+      "organized": "renders/dance_frames/frame_038.png",
+      "bytes": 745073,
+      "original_sha256": "523ed9ce1fb1884daa41220df3228eafe1d2787458975efe01e85fb84a5df70e",
+      "organized_sha256": "523ed9ce1fb1884daa41220df3228eafe1d2787458975efe01e85fb84a5df70e"
+    },
+    {
+      "original": "revision/dance_frames/frame_039.png",
+      "organized": "renders/dance_frames/frame_039.png",
+      "bytes": 745359,
+      "original_sha256": "7e6a1c65a4320d5ef8f378e1f1177f79e47a820541429279cd8211426c85a04a",
+      "organized_sha256": "7e6a1c65a4320d5ef8f378e1f1177f79e47a820541429279cd8211426c85a04a"
+    },
+    {
+      "original": "revision/dance_frames/frame_040.png",
+      "organized": "renders/dance_frames/frame_040.png",
+      "bytes": 745438,
+      "original_sha256": "d4dff4b9bca6b32deca210e293f3376336229a60f658f5782be72399a6399b15",
+      "organized_sha256": "d4dff4b9bca6b32deca210e293f3376336229a60f658f5782be72399a6399b15"
+    },
+    {
+      "original": "revision/dance_frames/frame_041.png",
+      "organized": "renders/dance_frames/frame_041.png",
+      "bytes": 746158,
+      "original_sha256": "96336c1358c03694cb15333142ab378646e89917446a826b8d9e31c21d247e54",
+      "organized_sha256": "96336c1358c03694cb15333142ab378646e89917446a826b8d9e31c21d247e54"
+    },
+    {
+      "original": "revision/dance_frames/frame_042.png",
+      "organized": "renders/dance_frames/frame_042.png",
+      "bytes": 745404,
+      "original_sha256": "1676a2580208eda030713880982b4c351940e007cc331ec13d5cc705d73b2c3f",
+      "organized_sha256": "1676a2580208eda030713880982b4c351940e007cc331ec13d5cc705d73b2c3f"
+    },
+    {
+      "original": "revision/dance_frames/frame_043.png",
+      "organized": "renders/dance_frames/frame_043.png",
+      "bytes": 743977,
+      "original_sha256": "a056bfb4ed91aabb8da8806c25a85cd5aebc0066499acc984664914c6fce4348",
+      "organized_sha256": "a056bfb4ed91aabb8da8806c25a85cd5aebc0066499acc984664914c6fce4348"
+    },
+    {
+      "original": "revision/dance_frames/frame_044.png",
+      "organized": "renders/dance_frames/frame_044.png",
+      "bytes": 741858,
+      "original_sha256": "fcf2309097403fe6d902759b9af83805a76d92623609ef72ef829c88679d1861",
+      "organized_sha256": "fcf2309097403fe6d902759b9af83805a76d92623609ef72ef829c88679d1861"
+    },
+    {
+      "original": "revision/dance_frames/frame_045.png",
+      "organized": "renders/dance_frames/frame_045.png",
+      "bytes": 740383,
+      "original_sha256": "b74db1e0d447d32f306e43418c63972477f93c5ae282258b0efcba5815f03c85",
+      "organized_sha256": "b74db1e0d447d32f306e43418c63972477f93c5ae282258b0efcba5815f03c85"
+    },
+    {
+      "original": "revision/dance_frames/frame_046.png",
+      "organized": "renders/dance_frames/frame_046.png",
+      "bytes": 739650,
+      "original_sha256": "e3e1c4f1503546d266efedd0858f9a4575101c4507ac8d0ff4eb97515e9925aa",
+      "organized_sha256": "e3e1c4f1503546d266efedd0858f9a4575101c4507ac8d0ff4eb97515e9925aa"
+    },
+    {
+      "original": "revision/dance_frames/frame_047.png",
+      "organized": "renders/dance_frames/frame_047.png",
+      "bytes": 740987,
+      "original_sha256": "24954f16ea3cf6917505c19173750090d3969ebce77d8029c0716cc384fcf91e",
+      "organized_sha256": "24954f16ea3cf6917505c19173750090d3969ebce77d8029c0716cc384fcf91e"
+    },
+    {
+      "original": "revision/dance_frames/frame_048.png",
+      "organized": "renders/dance_frames/frame_048.png",
+      "bytes": 742341,
+      "original_sha256": "72655ebad74ddf888020c0bca9fff04a78c1c205c40c4beafc666eec6c3a64c1",
+      "organized_sha256": "72655ebad74ddf888020c0bca9fff04a78c1c205c40c4beafc666eec6c3a64c1"
+    },
+    {
+      "original": "revision/dance_frames/frame_049.png",
+      "organized": "renders/dance_frames/frame_049.png",
+      "bytes": 742102,
+      "original_sha256": "6cbde103888d3b2a68cc84028a0fa55dc7effc774dc4e896cb0347285d008d34",
+      "organized_sha256": "6cbde103888d3b2a68cc84028a0fa55dc7effc774dc4e896cb0347285d008d34"
+    },
+    {
+      "original": "revision/dance_frames/frame_050.png",
+      "organized": "renders/dance_frames/frame_050.png",
+      "bytes": 741964,
+      "original_sha256": "c3ce3ec03f4cfd12c9132fb034f3bcf0bbbb780bdd42851506f0c9c5dfad798c",
+      "organized_sha256": "c3ce3ec03f4cfd12c9132fb034f3bcf0bbbb780bdd42851506f0c9c5dfad798c"
+    },
+    {
+      "original": "revision/dance_frames/frame_051.png",
+      "organized": "renders/dance_frames/frame_051.png",
+      "bytes": 742915,
+      "original_sha256": "1618678db27e0ee4329ea49ac3ba214b2a48945e29cd9e4d786c934a2b66113e",
+      "organized_sha256": "1618678db27e0ee4329ea49ac3ba214b2a48945e29cd9e4d786c934a2b66113e"
+    },
+    {
+      "original": "revision/dance_frames/frame_052.png",
+      "organized": "renders/dance_frames/frame_052.png",
+      "bytes": 742884,
+      "original_sha256": "1ac9f949cccac935a4266122f210c170305e3a66af8ceafd5a4419016587b919",
+      "organized_sha256": "1ac9f949cccac935a4266122f210c170305e3a66af8ceafd5a4419016587b919"
+    },
+    {
+      "original": "revision/dance_frames/frame_053.png",
+      "organized": "renders/dance_frames/frame_053.png",
+      "bytes": 742282,
+      "original_sha256": "9d941c212d27eb3aaba8fe752d571e255d828d92c87103336ab27b78d333ebe9",
+      "organized_sha256": "9d941c212d27eb3aaba8fe752d571e255d828d92c87103336ab27b78d333ebe9"
+    },
+    {
+      "original": "revision/dance_frames/frame_054.png",
+      "organized": "renders/dance_frames/frame_054.png",
+      "bytes": 741409,
+      "original_sha256": "3de35117fa3ce7420a5b46def3b5f8661aa098691e5b1f13f8ae9c2da8972a91",
+      "organized_sha256": "3de35117fa3ce7420a5b46def3b5f8661aa098691e5b1f13f8ae9c2da8972a91"
+    },
+    {
+      "original": "revision/dance_frames/frame_055.png",
+      "organized": "renders/dance_frames/frame_055.png",
+      "bytes": 740164,
+      "original_sha256": "e173ed068a67bd837033ec64dc3e3f68636acd4e0199a539e61876bb180852f6",
+      "organized_sha256": "e173ed068a67bd837033ec64dc3e3f68636acd4e0199a539e61876bb180852f6"
+    },
+    {
+      "original": "revision/dance_frames/frame_056.png",
+      "organized": "renders/dance_frames/frame_056.png",
+      "bytes": 740432,
+      "original_sha256": "b4a8e56d59c5290a9dced05b4ee2c0bc5e2b06d04e9daca5556d1e2de692d106",
+      "organized_sha256": "b4a8e56d59c5290a9dced05b4ee2c0bc5e2b06d04e9daca5556d1e2de692d106"
+    },
+    {
+      "original": "revision/dance_frames/frame_057.png",
+      "organized": "renders/dance_frames/frame_057.png",
+      "bytes": 742212,
+      "original_sha256": "d3bb6d231db3c0161cb8d4334c70785fedf0f39392ecd24b9e6733ee2cb8d734",
+      "organized_sha256": "d3bb6d231db3c0161cb8d4334c70785fedf0f39392ecd24b9e6733ee2cb8d734"
+    },
+    {
+      "original": "revision/dance_frames/frame_058.png",
+      "organized": "renders/dance_frames/frame_058.png",
+      "bytes": 743690,
+      "original_sha256": "89ed3b490123299c90bd741cdb15187dcf1a4f40001c1cd8873b77b8d3022cfd",
+      "organized_sha256": "89ed3b490123299c90bd741cdb15187dcf1a4f40001c1cd8873b77b8d3022cfd"
+    },
+    {
+      "original": "revision/dance_frames/frame_059.png",
+      "organized": "renders/dance_frames/frame_059.png",
+      "bytes": 745183,
+      "original_sha256": "e2e930e57ae52dca5fbb40385ad5fbf95c09d3c591c268589cf98fcdf2c21131",
+      "organized_sha256": "e2e930e57ae52dca5fbb40385ad5fbf95c09d3c591c268589cf98fcdf2c21131"
+    },
+    {
+      "original": "revision/dance_frames/frame_060.png",
+      "organized": "renders/dance_frames/frame_060.png",
+      "bytes": 745568,
+      "original_sha256": "0cdc42f62673ab8e76ae048ff4e8611588dda45187f18a823f53e2b8236e5132",
+      "organized_sha256": "0cdc42f62673ab8e76ae048ff4e8611588dda45187f18a823f53e2b8236e5132"
+    },
+    {
+      "original": "revision/dance_frames/frame_061.png",
+      "organized": "renders/dance_frames/frame_061.png",
+      "bytes": 745908,
+      "original_sha256": "457488b19f7c8fd8498aac63add28de92d6e4f738661a6ee9ff6fd50d655aa4d",
+      "organized_sha256": "457488b19f7c8fd8498aac63add28de92d6e4f738661a6ee9ff6fd50d655aa4d"
+    },
+    {
+      "original": "revision/dance_frames/frame_062.png",
+      "organized": "renders/dance_frames/frame_062.png",
+      "bytes": 745820,
+      "original_sha256": "c97ce6697bdbfbc99b974171d72386a86157a5ef0f9dea1c279e00d6710b2c00",
+      "organized_sha256": "c97ce6697bdbfbc99b974171d72386a86157a5ef0f9dea1c279e00d6710b2c00"
+    },
+    {
+      "original": "revision/dance_frames/frame_063.png",
+      "organized": "renders/dance_frames/frame_063.png",
+      "bytes": 745504,
+      "original_sha256": "9ca77fa77c028ded55c61405d7d39601070745ef1f7ed6f43d3c12655bc6feb0",
+      "organized_sha256": "9ca77fa77c028ded55c61405d7d39601070745ef1f7ed6f43d3c12655bc6feb0"
+    },
+    {
+      "original": "revision/dance_frames/frame_064.png",
+      "organized": "renders/dance_frames/frame_064.png",
+      "bytes": 744263,
+      "original_sha256": "7246913d03bea580a8657645580d155d772f0cb150c7121b24fa0bc223974ca6",
+      "organized_sha256": "7246913d03bea580a8657645580d155d772f0cb150c7121b24fa0bc223974ca6"
+    },
+    {
+      "original": "revision/dance_frames/frame_065.png",
+      "organized": "renders/dance_frames/frame_065.png",
+      "bytes": 741759,
+      "original_sha256": "a83863441fa61b4378605e2b17446d638efce97ad194171eac5ae9fdc656a418",
+      "organized_sha256": "a83863441fa61b4378605e2b17446d638efce97ad194171eac5ae9fdc656a418"
+    },
+    {
+      "original": "revision/dance_frames/frame_066.png",
+      "organized": "renders/dance_frames/frame_066.png",
+      "bytes": 739688,
+      "original_sha256": "11ad6bf5ff07fdc0359a59003c60f609060197572c7a4f61dc57227ed2f10497",
+      "organized_sha256": "11ad6bf5ff07fdc0359a59003c60f609060197572c7a4f61dc57227ed2f10497"
+    },
+    {
+      "original": "revision/dance_frames/frame_067.png",
+      "organized": "renders/dance_frames/frame_067.png",
+      "bytes": 740277,
+      "original_sha256": "b3b621be5ac0dc0608c52689b15400037113a4546ec253701b935ca0039e66ab",
+      "organized_sha256": "b3b621be5ac0dc0608c52689b15400037113a4546ec253701b935ca0039e66ab"
+    },
+    {
+      "original": "revision/dance_frames/frame_068.png",
+      "organized": "renders/dance_frames/frame_068.png",
+      "bytes": 741989,
+      "original_sha256": "bcc52079418dcb3eb417f9abb7155ed5a95006305b1f7c59c2e5e91d896cc537",
+      "organized_sha256": "bcc52079418dcb3eb417f9abb7155ed5a95006305b1f7c59c2e5e91d896cc537"
+    },
+    {
+      "original": "revision/dance_frames/frame_069.png",
+      "organized": "renders/dance_frames/frame_069.png",
+      "bytes": 742117,
+      "original_sha256": "7bd493d23d1866c675bbf060926940d273e4c65d0cc4b40af2e709a9f4939f57",
+      "organized_sha256": "7bd493d23d1866c675bbf060926940d273e4c65d0cc4b40af2e709a9f4939f57"
+    },
+    {
+      "original": "revision/dance_frames/frame_070.png",
+      "organized": "renders/dance_frames/frame_070.png",
+      "bytes": 743815,
+      "original_sha256": "7aa6f189089fd4491430af0b9c8a3852cc5f31d17b3db71300a4335f35f2c085",
+      "organized_sha256": "7aa6f189089fd4491430af0b9c8a3852cc5f31d17b3db71300a4335f35f2c085"
+    },
+    {
+      "original": "revision/dance_frames/frame_071.png",
+      "organized": "renders/dance_frames/frame_071.png",
+      "bytes": 744515,
+      "original_sha256": "0a36c6b89bc2a4f837634df2a5d7db1e1ea8e99d1a352cd61c7fc0e85c3f7b1e",
+      "organized_sha256": "0a36c6b89bc2a4f837634df2a5d7db1e1ea8e99d1a352cd61c7fc0e85c3f7b1e"
+    },
+    {
+      "original": "revision/dance_frames/frame_072.png",
+      "organized": "renders/dance_frames/frame_072.png",
+      "bytes": 744501,
+      "original_sha256": "305cf89fcdc4aabf49180f00bbc6864abb0610150e04d3fad6ee8320563d3cbf",
+      "organized_sha256": "305cf89fcdc4aabf49180f00bbc6864abb0610150e04d3fad6ee8320563d3cbf"
+    },
+    {
+      "original": "revision/dance_frames/frame_073.png",
+      "organized": "renders/dance_frames/frame_073.png",
+      "bytes": 743194,
+      "original_sha256": "ad67b9282d118d2dd9b4794c7c8dfc664bea195fd80c3193a8b795c26045ba04",
+      "organized_sha256": "ad67b9282d118d2dd9b4794c7c8dfc664bea195fd80c3193a8b795c26045ba04"
+    },
+    {
+      "original": "revision/dance_frames/frame_074.png",
+      "organized": "renders/dance_frames/frame_074.png",
+      "bytes": 743025,
+      "original_sha256": "aae9ca83f27e3f98dff1a7b5b544c14844be41fd85f6acf8e89f5ef79bb9b033",
+      "organized_sha256": "aae9ca83f27e3f98dff1a7b5b544c14844be41fd85f6acf8e89f5ef79bb9b033"
+    },
+    {
+      "original": "revision/dance_frames/frame_075.png",
+      "organized": "renders/dance_frames/frame_075.png",
+      "bytes": 741744,
+      "original_sha256": "17a2af86a9bbdfe87f1f481a6666aa9107165bc6d4a027197b58315c3b57abe2",
+      "organized_sha256": "17a2af86a9bbdfe87f1f481a6666aa9107165bc6d4a027197b58315c3b57abe2"
+    },
+    {
+      "original": "revision/dance_frames/frame_076.png",
+      "organized": "renders/dance_frames/frame_076.png",
+      "bytes": 740253,
+      "original_sha256": "5d89e3d047552b82aa68bad9d8525ce8354f39323213ed35b25b99a564170577",
+      "organized_sha256": "5d89e3d047552b82aa68bad9d8525ce8354f39323213ed35b25b99a564170577"
+    },
+    {
+      "original": "revision/dance_frames/frame_077.png",
+      "organized": "renders/dance_frames/frame_077.png",
+      "bytes": 740815,
+      "original_sha256": "6583db27b9f18df5d9b567ece06f9709318fbe9dc21e8da39f7684699055768a",
+      "organized_sha256": "6583db27b9f18df5d9b567ece06f9709318fbe9dc21e8da39f7684699055768a"
+    },
+    {
+      "original": "revision/dance_frames/frame_078.png",
+      "organized": "renders/dance_frames/frame_078.png",
+      "bytes": 742163,
+      "original_sha256": "4ec3db8b2326f48ee1feb507156f76101c4c17440e04f9bebe97b3291ab982a3",
+      "organized_sha256": "4ec3db8b2326f48ee1feb507156f76101c4c17440e04f9bebe97b3291ab982a3"
+    },
+    {
+      "original": "revision/dance_frames/frame_079.png",
+      "organized": "renders/dance_frames/frame_079.png",
+      "bytes": 743371,
+      "original_sha256": "6680e4686a8c23a0374a4dc98bcc2fffaa722d3ccdf66558ad3d200e96a2d015",
+      "organized_sha256": "6680e4686a8c23a0374a4dc98bcc2fffaa722d3ccdf66558ad3d200e96a2d015"
+    },
+    {
+      "original": "revision/dance_frames/frame_080.png",
+      "organized": "renders/dance_frames/frame_080.png",
+      "bytes": 745238,
+      "original_sha256": "49f9bad7aed543ba062cbfd4e20ae71c3d125779886b3eb3f55e8ff5d88b4f38",
+      "organized_sha256": "49f9bad7aed543ba062cbfd4e20ae71c3d125779886b3eb3f55e8ff5d88b4f38"
+    },
+    {
+      "original": "revision/dance_frames/frame_081.png",
+      "organized": "renders/dance_frames/frame_081.png",
+      "bytes": 745273,
+      "original_sha256": "71cbe779edbd6ce70ca1c854c5d08ca29f8bfcbfaaa14f0a736d4a9797271295",
+      "organized_sha256": "71cbe779edbd6ce70ca1c854c5d08ca29f8bfcbfaaa14f0a736d4a9797271295"
+    },
+    {
+      "original": "revision/dance_frames/frame_082.png",
+      "organized": "renders/dance_frames/frame_082.png",
+      "bytes": 745824,
+      "original_sha256": "d91ed24c28e67844f95b5a00e7ea96f326c6d3413d3a2ed8eff812d9e38f55c6",
+      "organized_sha256": "d91ed24c28e67844f95b5a00e7ea96f326c6d3413d3a2ed8eff812d9e38f55c6"
+    },
+    {
+      "original": "revision/dance_frames/frame_083.png",
+      "organized": "renders/dance_frames/frame_083.png",
+      "bytes": 745339,
+      "original_sha256": "c2199e86cbc68fe01c23014e0123845944a894f50918cb2e1ff603c1d01c5d0b",
+      "organized_sha256": "c2199e86cbc68fe01c23014e0123845944a894f50918cb2e1ff603c1d01c5d0b"
+    },
+    {
+      "original": "revision/dance_frames/frame_084.png",
+      "organized": "renders/dance_frames/frame_084.png",
+      "bytes": 744951,
+      "original_sha256": "3e81554d32a55e8b69a1469c774208e688fffb32df9c7b5a769c4eb4b0338e42",
+      "organized_sha256": "3e81554d32a55e8b69a1469c774208e688fffb32df9c7b5a769c4eb4b0338e42"
+    },
+    {
+      "original": "revision/dance_frames/frame_085.png",
+      "organized": "renders/dance_frames/frame_085.png",
+      "bytes": 744047,
+      "original_sha256": "be4fbd79e0dbb6aca44b5db857ee8046f2cf778e732a00878c520492017592e8",
+      "organized_sha256": "be4fbd79e0dbb6aca44b5db857ee8046f2cf778e732a00878c520492017592e8"
+    },
+    {
+      "original": "revision/dance_frames/frame_086.png",
+      "organized": "renders/dance_frames/frame_086.png",
+      "bytes": 741154,
+      "original_sha256": "160b9d0277003765821b43bebca215ef5b6b904f8b57e84fd3990f7ad71549f7",
+      "organized_sha256": "160b9d0277003765821b43bebca215ef5b6b904f8b57e84fd3990f7ad71549f7"
+    },
+    {
+      "original": "revision/dance_frames/frame_087.png",
+      "organized": "renders/dance_frames/frame_087.png",
+      "bytes": 740453,
+      "original_sha256": "12ebeafceee14cd0eed54e352f9a072510a3eb83dabc73c1e4f425b598949434",
+      "organized_sha256": "12ebeafceee14cd0eed54e352f9a072510a3eb83dabc73c1e4f425b598949434"
+    },
+    {
+      "original": "revision/dance_frames/frame_088.png",
+      "organized": "renders/dance_frames/frame_088.png",
+      "bytes": 740517,
+      "original_sha256": "b3695cf6793beed0ef2cad11208b5f00a13c1b3f3ea7719d04528708d01876c0",
+      "organized_sha256": "b3695cf6793beed0ef2cad11208b5f00a13c1b3f3ea7719d04528708d01876c0"
+    },
+    {
+      "original": "revision/dance_frames/frame_089.png",
+      "organized": "renders/dance_frames/frame_089.png",
+      "bytes": 741487,
+      "original_sha256": "c68b58fdec1823a3669aa8ebb70d8f41227d18e3c6c1219e4563683ffe881965",
+      "organized_sha256": "c68b58fdec1823a3669aa8ebb70d8f41227d18e3c6c1219e4563683ffe881965"
+    },
+    {
+      "original": "revision/dance_frames/frame_090.png",
+      "organized": "renders/dance_frames/frame_090.png",
+      "bytes": 742923,
+      "original_sha256": "f58f888ab3ba75d9ed0853401d137958f985f7f3b7300d234ff61f0ac25dd083",
+      "organized_sha256": "f58f888ab3ba75d9ed0853401d137958f985f7f3b7300d234ff61f0ac25dd083"
+    },
+    {
+      "original": "revision/dance_frames/frame_091.png",
+      "organized": "renders/dance_frames/frame_091.png",
+      "bytes": 743685,
+      "original_sha256": "a6b0859a94d6dc9877ed8c6b77b7bcbe3a39f9d36c105e7c2f30a81847702eaa",
+      "organized_sha256": "a6b0859a94d6dc9877ed8c6b77b7bcbe3a39f9d36c105e7c2f30a81847702eaa"
+    },
+    {
+      "original": "revision/dance_frames/frame_092.png",
+      "organized": "renders/dance_frames/frame_092.png",
+      "bytes": 745035,
+      "original_sha256": "580e21a13daefd51b118bbcab276939455781acfdd3eb3cd2c8fc7822cf0ca06",
+      "organized_sha256": "580e21a13daefd51b118bbcab276939455781acfdd3eb3cd2c8fc7822cf0ca06"
+    },
+    {
+      "original": "revision/dance_frames/frame_093.png",
+      "organized": "renders/dance_frames/frame_093.png",
+      "bytes": 744047,
+      "original_sha256": "9d46878f36cef0adca96f5031f946d042bb06cd3f45353d2b23d2f31fd3a4119",
+      "organized_sha256": "9d46878f36cef0adca96f5031f946d042bb06cd3f45353d2b23d2f31fd3a4119"
+    },
+    {
+      "original": "revision/dance_frames/frame_094.png",
+      "organized": "renders/dance_frames/frame_094.png",
+      "bytes": 743153,
+      "original_sha256": "17a4331c6ce3cbeb8578820e0696348f7d284a560b0346414f18b4fc46c80e30",
+      "organized_sha256": "17a4331c6ce3cbeb8578820e0696348f7d284a560b0346414f18b4fc46c80e30"
+    },
+    {
+      "original": "revision/dance_frames/frame_095.png",
+      "organized": "renders/dance_frames/frame_095.png",
+      "bytes": 742597,
+      "original_sha256": "b4de6046186f723bdce5ae5eae6168fe3f9680c9484c4ef28b90d0711a2cc6f0",
+      "organized_sha256": "b4de6046186f723bdce5ae5eae6168fe3f9680c9484c4ef28b90d0711a2cc6f0"
+    },
+    {
+      "original": "revision/dance_frames/frame_096.png",
+      "organized": "renders/dance_frames/frame_096.png",
+      "bytes": 741375,
+      "original_sha256": "7271ec9aee0d563d456e7819dd75ee941d6e4cb3b9bae2b6a48cd81cb04c20bd",
+      "organized_sha256": "7271ec9aee0d563d456e7819dd75ee941d6e4cb3b9bae2b6a48cd81cb04c20bd"
+    },
+    {
+      "original": "revision/dance_frames/frame_097.png",
+      "organized": "renders/dance_frames/frame_097.png",
+      "bytes": 740330,
+      "original_sha256": "2addc2c82c34e9bc0bd82ef8fc5c275fe32c65f9c55e76f33729ddb2b142b4e6",
+      "organized_sha256": "2addc2c82c34e9bc0bd82ef8fc5c275fe32c65f9c55e76f33729ddb2b142b4e6"
+    },
+    {
+      "original": "revision/dance_frames/frame_098.png",
+      "organized": "renders/dance_frames/frame_098.png",
+      "bytes": 741582,
+      "original_sha256": "f0cef4207c0cab2c9ac5bc4fc51ed50d08e651b180ab5c4d3342ec3165442759",
+      "organized_sha256": "f0cef4207c0cab2c9ac5bc4fc51ed50d08e651b180ab5c4d3342ec3165442759"
+    },
+    {
+      "original": "revision/dance_frames/frame_099.png",
+      "organized": "renders/dance_frames/frame_099.png",
+      "bytes": 743139,
+      "original_sha256": "1267208afb001dcce8a811bab7a9b2e72e8e8a71229255d02efaf0878c163556",
+      "organized_sha256": "1267208afb001dcce8a811bab7a9b2e72e8e8a71229255d02efaf0878c163556"
+    },
+    {
+      "original": "revision/dance_frames/frame_100.png",
+      "organized": "renders/dance_frames/frame_100.png",
+      "bytes": 744033,
+      "original_sha256": "6753453d6cc4c4d9b6a803c58076f86c7c27b882dc721efa3ecdd5c74738e9ac",
+      "organized_sha256": "6753453d6cc4c4d9b6a803c58076f86c7c27b882dc721efa3ecdd5c74738e9ac"
+    },
+    {
+      "original": "revision/dance_frames/frame_101.png",
+      "organized": "renders/dance_frames/frame_101.png",
+      "bytes": 744804,
+      "original_sha256": "65357052abc19c5608249a04af456b1f39396494de0cc91c76d0b8ee9673b2f5",
+      "organized_sha256": "65357052abc19c5608249a04af456b1f39396494de0cc91c76d0b8ee9673b2f5"
+    },
+    {
+      "original": "revision/dance_frames/frame_102.png",
+      "organized": "renders/dance_frames/frame_102.png",
+      "bytes": 745370,
+      "original_sha256": "76c9d2f9586a3e0bb92efe730740ab1960d2a09649ab5c68df4da7b5822dd1d1",
+      "organized_sha256": "76c9d2f9586a3e0bb92efe730740ab1960d2a09649ab5c68df4da7b5822dd1d1"
+    },
+    {
+      "original": "revision/dance_frames/frame_103.png",
+      "organized": "renders/dance_frames/frame_103.png",
+      "bytes": 745839,
+      "original_sha256": "594234d01453d6424337c4293dcc550a5788b2692e3930eb4a873ff96becae0a",
+      "organized_sha256": "594234d01453d6424337c4293dcc550a5788b2692e3930eb4a873ff96becae0a"
+    },
+    {
+      "original": "revision/dance_frames/frame_104.png",
+      "organized": "renders/dance_frames/frame_104.png",
+      "bytes": 745645,
+      "original_sha256": "4268aa3e651cb0f9dc07938caeae3b43e103c900c1587a1a02a5bad87057e23c",
+      "organized_sha256": "4268aa3e651cb0f9dc07938caeae3b43e103c900c1587a1a02a5bad87057e23c"
+    },
+    {
+      "original": "revision/dance_frames/frame_105.png",
+      "organized": "renders/dance_frames/frame_105.png",
+      "bytes": 745393,
+      "original_sha256": "56ee1360d2ff3b1b4313572aebf8a2a8a44f9ee44699853176bd8b7222ef5801",
+      "organized_sha256": "56ee1360d2ff3b1b4313572aebf8a2a8a44f9ee44699853176bd8b7222ef5801"
+    },
+    {
+      "original": "revision/dance_frames/frame_106.png",
+      "organized": "renders/dance_frames/frame_106.png",
+      "bytes": 743348,
+      "original_sha256": "34fff56e47e7d563d5362a40f6d782c1aefe03c4c3ff69e512fd11f045644d3c",
+      "organized_sha256": "34fff56e47e7d563d5362a40f6d782c1aefe03c4c3ff69e512fd11f045644d3c"
+    },
+    {
+      "original": "revision/dance_frames/frame_107.png",
+      "organized": "renders/dance_frames/frame_107.png",
+      "bytes": 740669,
+      "original_sha256": "868c5e9aacd295c517aef3f5a81b3f37b45e9ffafe29642ca7b448c8d983c1bb",
+      "organized_sha256": "868c5e9aacd295c517aef3f5a81b3f37b45e9ffafe29642ca7b448c8d983c1bb"
+    },
+    {
+      "original": "revision/dance_frames/frame_108.png",
+      "organized": "renders/dance_frames/frame_108.png",
+      "bytes": 740039,
+      "original_sha256": "38ba07f77b536b4949adf754b45e37a7963414cdd236814a1ef6164b8546adfb",
+      "organized_sha256": "38ba07f77b536b4949adf754b45e37a7963414cdd236814a1ef6164b8546adfb"
+    },
+    {
+      "original": "revision/dance_frames/frame_109.png",
+      "organized": "renders/dance_frames/frame_109.png",
+      "bytes": 741161,
+      "original_sha256": "e8d8602839abbcd3cc5423b4f6ded0e7da6d51ee7a66f82abb42dde5c1d8fb32",
+      "organized_sha256": "e8d8602839abbcd3cc5423b4f6ded0e7da6d51ee7a66f82abb42dde5c1d8fb32"
+    },
+    {
+      "original": "revision/dance_frames/frame_110.png",
+      "organized": "renders/dance_frames/frame_110.png",
+      "bytes": 741514,
+      "original_sha256": "60c574fff32c40a09f54ab1c0849325b249be09c205c6521b9cc7910276d7e15",
+      "organized_sha256": "60c574fff32c40a09f54ab1c0849325b249be09c205c6521b9cc7910276d7e15"
+    },
+    {
+      "original": "revision/dance_frames/frame_111.png",
+      "organized": "renders/dance_frames/frame_111.png",
+      "bytes": 741825,
+      "original_sha256": "b6015b95b0b05fb999d4fc215dbecb4d559ab7a497148150e603b6a1c370341a",
+      "organized_sha256": "b6015b95b0b05fb999d4fc215dbecb4d559ab7a497148150e603b6a1c370341a"
+    },
+    {
+      "original": "revision/dance_frames/frame_112.png",
+      "organized": "renders/dance_frames/frame_112.png",
+      "bytes": 741695,
+      "original_sha256": "bb2223f97bdaa6dc46913008ab2ce016f55852358a3ce3716ce6fb208e3f5326",
+      "organized_sha256": "bb2223f97bdaa6dc46913008ab2ce016f55852358a3ce3716ce6fb208e3f5326"
+    },
+    {
+      "original": "revision/dance_frames/frame_113.png",
+      "organized": "renders/dance_frames/frame_113.png",
+      "bytes": 743395,
+      "original_sha256": "ae71df76653cc6e80dae2b43a6604df97532469fe90f830550e91ec4f5addf68",
+      "organized_sha256": "ae71df76653cc6e80dae2b43a6604df97532469fe90f830550e91ec4f5addf68"
+    },
+    {
+      "original": "revision/dance_frames/frame_114.png",
+      "organized": "renders/dance_frames/frame_114.png",
+      "bytes": 743521,
+      "original_sha256": "8ae6c09c092844bb56b4d54615778e31e6afab11f890490ceddcc908d579af2c",
+      "organized_sha256": "8ae6c09c092844bb56b4d54615778e31e6afab11f890490ceddcc908d579af2c"
+    },
+    {
+      "original": "revision/dance_frames/frame_115.png",
+      "organized": "renders/dance_frames/frame_115.png",
+      "bytes": 743038,
+      "original_sha256": "5b61864c064df0a85f875a98f90a15b5de1742b27e6ff19b0c0ed387da8c36f2",
+      "organized_sha256": "5b61864c064df0a85f875a98f90a15b5de1742b27e6ff19b0c0ed387da8c36f2"
+    },
+    {
+      "original": "revision/dance_frames/frame_116.png",
+      "organized": "renders/dance_frames/frame_116.png",
+      "bytes": 742707,
+      "original_sha256": "8dcdaae4db439858502e6d4965249d55a2436d963f69743109cf05cd90416a49",
+      "organized_sha256": "8dcdaae4db439858502e6d4965249d55a2436d963f69743109cf05cd90416a49"
+    },
+    {
+      "original": "revision/dance_frames/frame_117.png",
+      "organized": "renders/dance_frames/frame_117.png",
+      "bytes": 740986,
+      "original_sha256": "8782bcc3f8da69ff8d28e0704e3f5c7195e2ee577264519b31544beda03869ac",
+      "organized_sha256": "8782bcc3f8da69ff8d28e0704e3f5c7195e2ee577264519b31544beda03869ac"
+    },
+    {
+      "original": "revision/dance_frames/frame_118.png",
+      "organized": "renders/dance_frames/frame_118.png",
+      "bytes": 740441,
+      "original_sha256": "80bab4112a6fcd88e91ac3821f3120d3c48adfcbf441497eff864d90fc762a14",
+      "organized_sha256": "80bab4112a6fcd88e91ac3821f3120d3c48adfcbf441497eff864d90fc762a14"
+    },
+    {
+      "original": "revision/dance_frames/frame_119.png",
+      "organized": "renders/dance_frames/frame_119.png",
+      "bytes": 740682,
+      "original_sha256": "9af24dfcc170d84010c1a303672057f27ef24e2664278b058710c10e87ccae82",
+      "organized_sha256": "9af24dfcc170d84010c1a303672057f27ef24e2664278b058710c10e87ccae82"
+    },
+    {
+      "original": "revision/dance_frames/frame_120.png",
+      "organized": "renders/dance_frames/frame_120.png",
+      "bytes": 743107,
+      "original_sha256": "a09f45a49914cef11ca5a5d1b359af9f9eb9de98ebe12e06b26761cf0d84e442",
+      "organized_sha256": "a09f45a49914cef11ca5a5d1b359af9f9eb9de98ebe12e06b26761cf0d84e442"
+    },
+    {
+      "original": "revision/dance_frames/frame_121.png",
+      "organized": "renders/dance_frames/frame_121.png",
+      "bytes": 744480,
+      "original_sha256": "97c4638e67609f16a6c76fdd264793f580072ae62ad9185107694b452eb5bc25",
+      "organized_sha256": "97c4638e67609f16a6c76fdd264793f580072ae62ad9185107694b452eb5bc25"
+    },
+    {
+      "original": "revision/dance_frames/frame_122.png",
+      "organized": "renders/dance_frames/frame_122.png",
+      "bytes": 745317,
+      "original_sha256": "d6274a1a5f6a5d818bef7aff65792387f6725e720d277ad708b1f42ef31c56b4",
+      "organized_sha256": "d6274a1a5f6a5d818bef7aff65792387f6725e720d277ad708b1f42ef31c56b4"
+    },
+    {
+      "original": "revision/dance_frames/frame_123.png",
+      "organized": "renders/dance_frames/frame_123.png",
+      "bytes": 745721,
+      "original_sha256": "5e33869c0913b5fa4a5a8fb451ef7382ca1a9d3da1851b3495e459e9af26c15d",
+      "organized_sha256": "5e33869c0913b5fa4a5a8fb451ef7382ca1a9d3da1851b3495e459e9af26c15d"
+    },
+    {
+      "original": "revision/dance_frames/frame_124.png",
+      "organized": "renders/dance_frames/frame_124.png",
+      "bytes": 745835,
+      "original_sha256": "4189ff3a4da88abdbcb632ffffe8a279732cf3f3827725016a6537b01ffc7dc2",
+      "organized_sha256": "4189ff3a4da88abdbcb632ffffe8a279732cf3f3827725016a6537b01ffc7dc2"
+    },
+    {
+      "original": "revision/dance_frames/frame_125.png",
+      "organized": "renders/dance_frames/frame_125.png",
+      "bytes": 745845,
+      "original_sha256": "50bbfda5e032b2c2b42585354e70330b78e4f64e67e17545981f3b194eec2b49",
+      "organized_sha256": "50bbfda5e032b2c2b42585354e70330b78e4f64e67e17545981f3b194eec2b49"
+    },
+    {
+      "original": "revision/dance_frames/frame_126.png",
+      "organized": "renders/dance_frames/frame_126.png",
+      "bytes": 745087,
+      "original_sha256": "fc29674ab14c5086a464111693642d19e404f868f97e6058d9c3b6340e503c30",
+      "organized_sha256": "fc29674ab14c5086a464111693642d19e404f868f97e6058d9c3b6340e503c30"
+    },
+    {
+      "original": "revision/dance_frames/frame_127.png",
+      "organized": "renders/dance_frames/frame_127.png",
+      "bytes": 743029,
+      "original_sha256": "3cb5243c85ee93105c9286f37d5a012bb3e9c0faff22b07b78850f7e889d3131",
+      "organized_sha256": "3cb5243c85ee93105c9286f37d5a012bb3e9c0faff22b07b78850f7e889d3131"
+    },
+    {
+      "original": "revision/dance_frames/frame_128.png",
+      "organized": "renders/dance_frames/frame_128.png",
+      "bytes": 740958,
+      "original_sha256": "b83ac06be724314c5643a1c9e27a07ebcf6b69d4e6cfcecc2395da7399085519",
+      "organized_sha256": "b83ac06be724314c5643a1c9e27a07ebcf6b69d4e6cfcecc2395da7399085519"
+    },
+    {
+      "original": "revision/dance_frames/frame_129.png",
+      "organized": "renders/dance_frames/frame_129.png",
+      "bytes": 739803,
+      "original_sha256": "e19dc0261ff057b050914bd38627f0909ba4f2d7a61f53847a90196a67626d52",
+      "organized_sha256": "e19dc0261ff057b050914bd38627f0909ba4f2d7a61f53847a90196a67626d52"
+    },
+    {
+      "original": "revision/dance_frames/frame_130.png",
+      "organized": "renders/dance_frames/frame_130.png",
+      "bytes": 740896,
+      "original_sha256": "9b2150f371b78517434b6573df6967dae303893fcb58c56de2dd38badffc6bd1",
+      "organized_sha256": "9b2150f371b78517434b6573df6967dae303893fcb58c56de2dd38badffc6bd1"
+    },
+    {
+      "original": "revision/dance_frames/frame_131.png",
+      "organized": "renders/dance_frames/frame_131.png",
+      "bytes": 741768,
+      "original_sha256": "107b23728f60a1831dc88f177d49729311f2483df31b0258275e1e9f09681420",
+      "organized_sha256": "107b23728f60a1831dc88f177d49729311f2483df31b0258275e1e9f09681420"
+    },
+    {
+      "original": "revision/dance_frames/frame_132.png",
+      "organized": "renders/dance_frames/frame_132.png",
+      "bytes": 743361,
+      "original_sha256": "1756b6bb029b14498c75dbeb256453de066ed68954c87def1a1537a5dd971ebf",
+      "organized_sha256": "1756b6bb029b14498c75dbeb256453de066ed68954c87def1a1537a5dd971ebf"
+    },
+    {
+      "original": "revision/dance_frames/frame_133.png",
+      "organized": "renders/dance_frames/frame_133.png",
+      "bytes": 744583,
+      "original_sha256": "a9fb50c84c1b43a62764ddb78fcd31f73b25dc7f4f77dc52b469e6a2d8632bae",
+      "organized_sha256": "a9fb50c84c1b43a62764ddb78fcd31f73b25dc7f4f77dc52b469e6a2d8632bae"
+    },
+    {
+      "original": "revision/dance_frames/frame_134.png",
+      "organized": "renders/dance_frames/frame_134.png",
+      "bytes": 744118,
+      "original_sha256": "a431a1ab839a87b1ac9a0855714ddad164de3fe27a2e7f25d40759c6b25d415a",
+      "organized_sha256": "a431a1ab839a87b1ac9a0855714ddad164de3fe27a2e7f25d40759c6b25d415a"
+    },
+    {
+      "original": "revision/dance_frames/frame_135.png",
+      "organized": "renders/dance_frames/frame_135.png",
+      "bytes": 743571,
+      "original_sha256": "55f0096b53e9365714cb41c2ddbe64d978883bf4865777cd9dc3c673733488e4",
+      "organized_sha256": "55f0096b53e9365714cb41c2ddbe64d978883bf4865777cd9dc3c673733488e4"
+    },
+    {
+      "original": "revision/dance_frames/frame_136.png",
+      "organized": "renders/dance_frames/frame_136.png",
+      "bytes": 742993,
+      "original_sha256": "de961d5054e37078098cb5c65ddd708e462e3548b2a15d9cd6d26a6cee89ad36",
+      "organized_sha256": "de961d5054e37078098cb5c65ddd708e462e3548b2a15d9cd6d26a6cee89ad36"
+    },
+    {
+      "original": "revision/dance_frames/frame_137.png",
+      "organized": "renders/dance_frames/frame_137.png",
+      "bytes": 741875,
+      "original_sha256": "895021bb3b277d9687e5982f3c5799e7ce9f788b31fb70282d2c317bc2533675",
+      "organized_sha256": "895021bb3b277d9687e5982f3c5799e7ce9f788b31fb70282d2c317bc2533675"
+    },
+    {
+      "original": "revision/dance_frames/frame_138.png",
+      "organized": "renders/dance_frames/frame_138.png",
+      "bytes": 740682,
+      "original_sha256": "e27355cd28793831b6d3123769c3baef65c2b4098d25914b2624afb91746f124",
+      "organized_sha256": "e27355cd28793831b6d3123769c3baef65c2b4098d25914b2624afb91746f124"
+    },
+    {
+      "original": "revision/dance_frames/frame_139.png",
+      "organized": "renders/dance_frames/frame_139.png",
+      "bytes": 739890,
+      "original_sha256": "f95cdd520b52b78d2246d8dfbba5bda03cc030c6a6591ad9ff346eddaff2f684",
+      "organized_sha256": "f95cdd520b52b78d2246d8dfbba5bda03cc030c6a6591ad9ff346eddaff2f684"
+    },
+    {
+      "original": "revision/dance_frames/frame_140.png",
+      "organized": "renders/dance_frames/frame_140.png",
+      "bytes": 740712,
+      "original_sha256": "f883e41ddcd04f02aeae0e5546f8670d44dd05324202f5caff60660471599b24",
+      "organized_sha256": "f883e41ddcd04f02aeae0e5546f8670d44dd05324202f5caff60660471599b24"
+    },
+    {
+      "original": "revision/dance_frames/frame_141.png",
+      "organized": "renders/dance_frames/frame_141.png",
+      "bytes": 743324,
+      "original_sha256": "4a4d5a503949e5f1cc53cc2b819b684ed6d2d69a711daf83a76803ada2397f13",
+      "organized_sha256": "4a4d5a503949e5f1cc53cc2b819b684ed6d2d69a711daf83a76803ada2397f13"
+    },
+    {
+      "original": "revision/dance_frames/frame_142.png",
+      "organized": "renders/dance_frames/frame_142.png",
+      "bytes": 745296,
+      "original_sha256": "70660b577fd99d4164ad0e7d1833f6be6d19c69b24db09d0cd5038940f9f8b91",
+      "organized_sha256": "70660b577fd99d4164ad0e7d1833f6be6d19c69b24db09d0cd5038940f9f8b91"
+    },
+    {
+      "original": "revision/dance_frames/frame_143.png",
+      "organized": "renders/dance_frames/frame_143.png",
+      "bytes": 745502,
+      "original_sha256": "23affc7e2f87e55db927fc2c30a826e8fec06c21f82255e26f3aa87f02049d28",
+      "organized_sha256": "23affc7e2f87e55db927fc2c30a826e8fec06c21f82255e26f3aa87f02049d28"
+    },
+    {
+      "original": "revision/dance_frames/frame_144.png",
+      "organized": "renders/dance_frames/frame_144.png",
+      "bytes": 745530,
+      "original_sha256": "813ff4b8a94e42073f825e21d64278a6f08a78033152b16389a281244e5b011c",
+      "organized_sha256": "813ff4b8a94e42073f825e21d64278a6f08a78033152b16389a281244e5b011c"
+    },
+    {
+      "original": "revision/dance_frames/frame_145.png",
+      "organized": "renders/dance_frames/frame_145.png",
+      "bytes": 746490,
+      "original_sha256": "129d37a14880cac733ae8b9071204a6b330bb5c0d16e89c635f8cdae49992118",
+      "organized_sha256": "129d37a14880cac733ae8b9071204a6b330bb5c0d16e89c635f8cdae49992118"
+    },
+    {
+      "original": "revision/dance_frames/frame_146.png",
+      "organized": "renders/dance_frames/frame_146.png",
+      "bytes": 745912,
+      "original_sha256": "058d9e6bb1b58a51421f59e1c2f5060ad55d5728b128ab31d909adeb68bc4eee",
+      "organized_sha256": "058d9e6bb1b58a51421f59e1c2f5060ad55d5728b128ab31d909adeb68bc4eee"
+    },
+    {
+      "original": "revision/dance_frames/frame_147.png",
+      "organized": "renders/dance_frames/frame_147.png",
+      "bytes": 745205,
+      "original_sha256": "606a8085eb9fbe9960b07d841e338e0fcf33bfad1c7f1a06da0087cf16ca5403",
+      "organized_sha256": "606a8085eb9fbe9960b07d841e338e0fcf33bfad1c7f1a06da0087cf16ca5403"
+    },
+    {
+      "original": "revision/dance_frames/frame_148.png",
+      "organized": "renders/dance_frames/frame_148.png",
+      "bytes": 743214,
+      "original_sha256": "3db5303b0476a538de9ecbacbb4a51fcf44cc6b5038a5a3152dc0b8165256551",
+      "organized_sha256": "3db5303b0476a538de9ecbacbb4a51fcf44cc6b5038a5a3152dc0b8165256551"
+    },
+    {
+      "original": "revision/dance_frames/frame_149.png",
+      "organized": "renders/dance_frames/frame_149.png",
+      "bytes": 740955,
+      "original_sha256": "790a3e445625d88b9ee72b8721caef74eac6f03d8b2d564e0bdfdb26aaee5095",
+      "organized_sha256": "790a3e445625d88b9ee72b8721caef74eac6f03d8b2d564e0bdfdb26aaee5095"
+    },
+    {
+      "original": "revision/dance_frames/frame_150.png",
+      "organized": "renders/dance_frames/frame_150.png",
+      "bytes": 740335,
+      "original_sha256": "6e57411cd29f8547c32d790318704cfae7a14b212f3e670867cb0380512e388d",
+      "organized_sha256": "6e57411cd29f8547c32d790318704cfae7a14b212f3e670867cb0380512e388d"
+    },
+    {
+      "original": "revision/dance_frames/frame_151.png",
+      "organized": "renders/dance_frames/frame_151.png",
+      "bytes": 741050,
+      "original_sha256": "172d67b86797953cbdb19e5d970a6328ac05dac91d3942a1155e01a7362c11a1",
+      "organized_sha256": "172d67b86797953cbdb19e5d970a6328ac05dac91d3942a1155e01a7362c11a1"
+    },
+    {
+      "original": "revision/dance_frames/frame_152.png",
+      "organized": "renders/dance_frames/frame_152.png",
+      "bytes": 741108,
+      "original_sha256": "a2a5149897c1a2567bbeaa336e629d8373e7008514120cc1e145201f3e323097",
+      "organized_sha256": "a2a5149897c1a2567bbeaa336e629d8373e7008514120cc1e145201f3e323097"
+    },
+    {
+      "original": "revision/dance_frames/frame_153.png",
+      "organized": "renders/dance_frames/frame_153.png",
+      "bytes": 743354,
+      "original_sha256": "57b2724b81ed002059c52edc92b7cd1f3c312d5f08fb09b04bb140d1d1a82de5",
+      "organized_sha256": "57b2724b81ed002059c52edc92b7cd1f3c312d5f08fb09b04bb140d1d1a82de5"
+    },
+    {
+      "original": "revision/dance_frames/frame_154.png",
+      "organized": "renders/dance_frames/frame_154.png",
+      "bytes": 744099,
+      "original_sha256": "bacd5170d2bad580a19d4726beae698ed272f9383226e4da46c9f7c864eb0eb4",
+      "organized_sha256": "bacd5170d2bad580a19d4726beae698ed272f9383226e4da46c9f7c864eb0eb4"
+    },
+    {
+      "original": "revision/dance_frames/frame_155.png",
+      "organized": "renders/dance_frames/frame_155.png",
+      "bytes": 744284,
+      "original_sha256": "e9c41b162297f52a3a68a6e026e68c66e2bc8af6f154384e8f1a0c8f69feb763",
+      "organized_sha256": "e9c41b162297f52a3a68a6e026e68c66e2bc8af6f154384e8f1a0c8f69feb763"
+    },
+    {
+      "original": "revision/dance_frames/frame_156.png",
+      "organized": "renders/dance_frames/frame_156.png",
+      "bytes": 743537,
+      "original_sha256": "c9f6d6edc2e26deb6ef6b9753eaea372c166bac67678e0d31897d60f8167274d",
+      "organized_sha256": "c9f6d6edc2e26deb6ef6b9753eaea372c166bac67678e0d31897d60f8167274d"
+    },
+    {
+      "original": "revision/dance_frames/frame_157.png",
+      "organized": "renders/dance_frames/frame_157.png",
+      "bytes": 743313,
+      "original_sha256": "94d2806383aa397dc28e63830bc2ec26e739e42a05107586977c8e00d685c6ed",
+      "organized_sha256": "94d2806383aa397dc28e63830bc2ec26e739e42a05107586977c8e00d685c6ed"
+    },
+    {
+      "original": "revision/dance_frames/frame_158.png",
+      "organized": "renders/dance_frames/frame_158.png",
+      "bytes": 742027,
+      "original_sha256": "0ee2c2f0abfb5e7573c3bcedb43d19179986554a63e26c1a8aee77d0184395b2",
+      "organized_sha256": "0ee2c2f0abfb5e7573c3bcedb43d19179986554a63e26c1a8aee77d0184395b2"
+    },
+    {
+      "original": "revision/dance_frames/frame_159.png",
+      "organized": "renders/dance_frames/frame_159.png",
+      "bytes": 740083,
+      "original_sha256": "c3f12d9242634b415286c83639ca9ed9bd65f20029350ba1108f5bafb6a42e29",
+      "organized_sha256": "c3f12d9242634b415286c83639ca9ed9bd65f20029350ba1108f5bafb6a42e29"
+    },
+    {
+      "original": "revision/dance_frames/frame_160.png",
+      "organized": "renders/dance_frames/frame_160.png",
+      "bytes": 739563,
+      "original_sha256": "da89ff8df6e28fd78f70d79fd29a8d06d6f7d94035ad46761fb95a1428956478",
+      "organized_sha256": "da89ff8df6e28fd78f70d79fd29a8d06d6f7d94035ad46761fb95a1428956478"
+    },
+    {
+      "original": "revision/dance_frames/frame_161.png",
+      "organized": "renders/dance_frames/frame_161.png",
+      "bytes": 740922,
+      "original_sha256": "a6eecaa719c126faa070a9e7fd3e45b8a4a735f05415bab95c18c5fb65bb5320",
+      "organized_sha256": "a6eecaa719c126faa070a9e7fd3e45b8a4a735f05415bab95c18c5fb65bb5320"
+    },
+    {
+      "original": "revision/dance_frames/frame_162.png",
+      "organized": "renders/dance_frames/frame_162.png",
+      "bytes": 743645,
+      "original_sha256": "327a4612b903a639ac97d4dddf1a1a495302560ad4748e2a4c9eb074ff221a0f",
+      "organized_sha256": "327a4612b903a639ac97d4dddf1a1a495302560ad4748e2a4c9eb074ff221a0f"
+    },
+    {
+      "original": "revision/dance_frames/frame_163.png",
+      "organized": "renders/dance_frames/frame_163.png",
+      "bytes": 744393,
+      "original_sha256": "a05d9ce34ead97838c069a8051201c8bd2085cb816718a4097384bcdb249bec5",
+      "organized_sha256": "a05d9ce34ead97838c069a8051201c8bd2085cb816718a4097384bcdb249bec5"
+    },
+    {
+      "original": "revision/dance_frames/frame_164.png",
+      "organized": "renders/dance_frames/frame_164.png",
+      "bytes": 745797,
+      "original_sha256": "35c49fe0529f9a76ed1949a0f10b46dc8867257ed3e9de20279d24ea01b15671",
+      "organized_sha256": "35c49fe0529f9a76ed1949a0f10b46dc8867257ed3e9de20279d24ea01b15671"
+    },
+    {
+      "original": "revision/dance_frames/frame_165.png",
+      "organized": "renders/dance_frames/frame_165.png",
+      "bytes": 745825,
+      "original_sha256": "dbbb609500f19d35f57b6c126486fbe977d5912269d2ba15900ac328b172301c",
+      "organized_sha256": "dbbb609500f19d35f57b6c126486fbe977d5912269d2ba15900ac328b172301c"
+    },
+    {
+      "original": "revision/dance_frames/frame_166.png",
+      "organized": "renders/dance_frames/frame_166.png",
+      "bytes": 746329,
+      "original_sha256": "7f58b4acab2ba397aa7b8297a0259b3fec17163344db67da53ac47fd78aa68ac",
+      "organized_sha256": "7f58b4acab2ba397aa7b8297a0259b3fec17163344db67da53ac47fd78aa68ac"
+    },
+    {
+      "original": "revision/dance_frames/frame_167.png",
+      "organized": "renders/dance_frames/frame_167.png",
+      "bytes": 746056,
+      "original_sha256": "48368a7a4e1b7e7741d9b4ccb5a1ed6ad1f7b10633ca1fb14d6e6a23d85be53a",
+      "organized_sha256": "48368a7a4e1b7e7741d9b4ccb5a1ed6ad1f7b10633ca1fb14d6e6a23d85be53a"
+    },
+    {
+      "original": "revision/dance_frames/frame_168.png",
+      "organized": "renders/dance_frames/frame_168.png",
+      "bytes": 744452,
+      "original_sha256": "130866c9715d4b887d82b04f2d3505db7bc9768b3cbc69110eb6ed61daca339c",
+      "organized_sha256": "130866c9715d4b887d82b04f2d3505db7bc9768b3cbc69110eb6ed61daca339c"
+    },
+    {
+      "original": "revision/dance_frames/frame_169.png",
+      "organized": "renders/dance_frames/frame_169.png",
+      "bytes": 743646,
+      "original_sha256": "19737c2b868f87183da71e30b25d1ac58950363f20e20d4353c5b81be4e6024e",
+      "organized_sha256": "19737c2b868f87183da71e30b25d1ac58950363f20e20d4353c5b81be4e6024e"
+    },
+    {
+      "original": "revision/dance_frames/frame_170.png",
+      "organized": "renders/dance_frames/frame_170.png",
+      "bytes": 740879,
+      "original_sha256": "4e9f8126026472a6e6a21e846fd6f81bf388b6a84cb94b8439ce715911f36f28",
+      "organized_sha256": "4e9f8126026472a6e6a21e846fd6f81bf388b6a84cb94b8439ce715911f36f28"
+    },
+    {
+      "original": "revision/dance_frames/frame_171.png",
+      "organized": "renders/dance_frames/frame_171.png",
+      "bytes": 739759,
+      "original_sha256": "380b9c4bb9632921766a329498ebd6f06bb5266121d400d564bfccb41326d741",
+      "organized_sha256": "380b9c4bb9632921766a329498ebd6f06bb5266121d400d564bfccb41326d741"
+    },
+    {
+      "original": "revision/dance_frames/frame_172.png",
+      "organized": "renders/dance_frames/frame_172.png",
+      "bytes": 739624,
+      "original_sha256": "0f0bf320f2f4a0ec646cba11a68d4cde322cdcc4e32efb7ff247677de1ebe413",
+      "organized_sha256": "0f0bf320f2f4a0ec646cba11a68d4cde322cdcc4e32efb7ff247677de1ebe413"
+    },
+    {
+      "original": "revision/dance_frames/frame_173.png",
+      "organized": "renders/dance_frames/frame_173.png",
+      "bytes": 739843,
+      "original_sha256": "86661ef4a55c607111a6c67924ea2e43a564a07934674e83fe8a51adfe732962",
+      "organized_sha256": "86661ef4a55c607111a6c67924ea2e43a564a07934674e83fe8a51adfe732962"
+    },
+    {
+      "original": "revision/dance_frames/frame_174.png",
+      "organized": "renders/dance_frames/frame_174.png",
+      "bytes": 741334,
+      "original_sha256": "56c348b3d0b7c6561c93c2bee6efdb4d6f262c2670caf51da88eb0b2a83e68b2",
+      "organized_sha256": "56c348b3d0b7c6561c93c2bee6efdb4d6f262c2670caf51da88eb0b2a83e68b2"
+    },
+    {
+      "original": "revision/dance_frames/frame_175.png",
+      "organized": "renders/dance_frames/frame_175.png",
+      "bytes": 744222,
+      "original_sha256": "d450fd0e8e2c3bf0c47f974e7dcbd854bcd11e5fbd8e952d76dece209e374c39",
+      "organized_sha256": "d450fd0e8e2c3bf0c47f974e7dcbd854bcd11e5fbd8e952d76dece209e374c39"
+    },
+    {
+      "original": "revision/dance_frames/frame_176.png",
+      "organized": "renders/dance_frames/frame_176.png",
+      "bytes": 744137,
+      "original_sha256": "ee5d33c7470dcfc037913dda19b1c4707b9d1c6f15248d00c53ba683a7d01406",
+      "organized_sha256": "ee5d33c7470dcfc037913dda19b1c4707b9d1c6f15248d00c53ba683a7d01406"
+    },
+    {
+      "original": "revision/dance_frames/frame_177.png",
+      "organized": "renders/dance_frames/frame_177.png",
+      "bytes": 743891,
+      "original_sha256": "f19303744f60ba06e45483e4de863944b2c09c7c8622126d07d465228b11ee5a",
+      "organized_sha256": "f19303744f60ba06e45483e4de863944b2c09c7c8622126d07d465228b11ee5a"
+    },
+    {
+      "original": "revision/dance_frames/frame_178.png",
+      "organized": "renders/dance_frames/frame_178.png",
+      "bytes": 742640,
+      "original_sha256": "70dc36c185887495c446456d154bdbfdecc6bb838e74d8387867134a266b5bd6",
+      "organized_sha256": "70dc36c185887495c446456d154bdbfdecc6bb838e74d8387867134a266b5bd6"
+    },
+    {
+      "original": "revision/dance_frames/frame_179.png",
+      "organized": "renders/dance_frames/frame_179.png",
+      "bytes": 741290,
+      "original_sha256": "49f68b6a4250e9ae97585fd550a1b502343b4c32e84ea543d6e865dcc6f72e3e",
+      "organized_sha256": "49f68b6a4250e9ae97585fd550a1b502343b4c32e84ea543d6e865dcc6f72e3e"
+    },
+    {
+      "original": "revision/dance_frames/frame_180.png",
+      "organized": "renders/dance_frames/frame_180.png",
+      "bytes": 740306,
+      "original_sha256": "ebf9b922aaef9c5a34cfb215617dea8ab8b6cf3558414ada8f6124bc4a0b4d69",
+      "organized_sha256": "ebf9b922aaef9c5a34cfb215617dea8ab8b6cf3558414ada8f6124bc4a0b4d69"
+    },
+    {
+      "original": "revision/dance_frames/frame_181.png",
+      "organized": "renders/dance_frames/frame_181.png",
+      "bytes": 739826,
+      "original_sha256": "568f767579f889ac07fa8606957f9458ef977535425d280d240a5ebd8b798792",
+      "organized_sha256": "568f767579f889ac07fa8606957f9458ef977535425d280d240a5ebd8b798792"
+    },
+    {
+      "original": "revision/dance_frames/frame_182.png",
+      "organized": "renders/dance_frames/frame_182.png",
+      "bytes": 741625,
+      "original_sha256": "a95e28f3bf255a6e32cbc41bc7ab3dce0d9d375de534e57dfef5dce8ad61fb00",
+      "organized_sha256": "a95e28f3bf255a6e32cbc41bc7ab3dce0d9d375de534e57dfef5dce8ad61fb00"
+    },
+    {
+      "original": "revision/dance_frames/frame_183.png",
+      "organized": "renders/dance_frames/frame_183.png",
+      "bytes": 743199,
+      "original_sha256": "81d6eec96dada7ef1e2cef8d62d31afc78361742c07c6c209f81a1dfa61d6b48",
+      "organized_sha256": "81d6eec96dada7ef1e2cef8d62d31afc78361742c07c6c209f81a1dfa61d6b48"
+    },
+    {
+      "original": "revision/dance_frames/frame_184.png",
+      "organized": "renders/dance_frames/frame_184.png",
+      "bytes": 744929,
+      "original_sha256": "50d414820540b487d1587d0c2e51c2184a770f74736cf5e42bac1404cc546a27",
+      "organized_sha256": "50d414820540b487d1587d0c2e51c2184a770f74736cf5e42bac1404cc546a27"
+    },
+    {
+      "original": "revision/dance_frames/frame_185.png",
+      "organized": "renders/dance_frames/frame_185.png",
+      "bytes": 745472,
+      "original_sha256": "45155f59f9e2d419dc77d23810c17c11ca2f78da01cfb2a8de2e55445806994c",
+      "organized_sha256": "45155f59f9e2d419dc77d23810c17c11ca2f78da01cfb2a8de2e55445806994c"
+    },
+    {
+      "original": "revision/dance_frames/frame_186.png",
+      "organized": "renders/dance_frames/frame_186.png",
+      "bytes": 745581,
+      "original_sha256": "9557dea4a9336c234bf4f119c4feaf6ac4db4574b42de4e7770ab4af97d8129d",
+      "organized_sha256": "9557dea4a9336c234bf4f119c4feaf6ac4db4574b42de4e7770ab4af97d8129d"
+    },
+    {
+      "original": "revision/dance_frames/frame_187.png",
+      "organized": "renders/dance_frames/frame_187.png",
+      "bytes": 745918,
+      "original_sha256": "835b0a4777aa669889759c9589585ed2954aa90e6d77f81352ea9c3ff9218e97",
+      "organized_sha256": "835b0a4777aa669889759c9589585ed2954aa90e6d77f81352ea9c3ff9218e97"
+    },
+    {
+      "original": "revision/dance_frames/frame_188.png",
+      "organized": "renders/dance_frames/frame_188.png",
+      "bytes": 745761,
+      "original_sha256": "579b294975e97c8db24f6a91be2fe49737288b7cb4bc27533e4dfa623bfd51b7",
+      "organized_sha256": "579b294975e97c8db24f6a91be2fe49737288b7cb4bc27533e4dfa623bfd51b7"
+    },
+    {
+      "original": "revision/dance_frames/frame_189.png",
+      "organized": "renders/dance_frames/frame_189.png",
+      "bytes": 743599,
+      "original_sha256": "50a4747c14732aa8dfcfd37a9856fcddc6fb72e1343edcce31be655e2736cd0f",
+      "organized_sha256": "50a4747c14732aa8dfcfd37a9856fcddc6fb72e1343edcce31be655e2736cd0f"
+    },
+    {
+      "original": "revision/dance_frames/frame_190.png",
+      "organized": "renders/dance_frames/frame_190.png",
+      "bytes": 741961,
+      "original_sha256": "3f247c25ef03ea6cd43024b8c78e60b9253f9b31c6030a2716e6f1889b904e93",
+      "organized_sha256": "3f247c25ef03ea6cd43024b8c78e60b9253f9b31c6030a2716e6f1889b904e93"
+    },
+    {
+      "original": "revision/dance_frames/frame_191.png",
+      "organized": "renders/dance_frames/frame_191.png",
+      "bytes": 740515,
+      "original_sha256": "b7c25e9da96a7f6dadf248e07772b0e2af6bee8614b0ba3ec930cd84d975b12e",
+      "organized_sha256": "b7c25e9da96a7f6dadf248e07772b0e2af6bee8614b0ba3ec930cd84d975b12e"
+    },
+    {
+      "original": "revision/dance_frames/frame_192.png",
+      "organized": "renders/dance_frames/frame_192.png",
+      "bytes": 739937,
+      "original_sha256": "b2aa17d5d70a664290cdea2f662ccc77ea1cf4199d401b21d2ff896dfbe5c811",
+      "organized_sha256": "b2aa17d5d70a664290cdea2f662ccc77ea1cf4199d401b21d2ff896dfbe5c811"
+    },
+    {
+      "original": "revision/dance_frames/frame_193.png",
+      "organized": "renders/dance_frames/frame_193.png",
+      "bytes": 741346,
+      "original_sha256": "63d68a785007bdcdfa5a637fa299be9b3381c8ccfb9ee93f6aa6b49c7682ffb2",
+      "organized_sha256": "63d68a785007bdcdfa5a637fa299be9b3381c8ccfb9ee93f6aa6b49c7682ffb2"
+    },
+    {
+      "original": "revision/dance_frames/frame_194.png",
+      "organized": "renders/dance_frames/frame_194.png",
+      "bytes": 742679,
+      "original_sha256": "cafb77a53edb003b53dfd21e7ea101335f7bda413dee11bdaf6d77fc4acb6176",
+      "organized_sha256": "cafb77a53edb003b53dfd21e7ea101335f7bda413dee11bdaf6d77fc4acb6176"
+    },
+    {
+      "original": "revision/dance_frames/frame_195.png",
+      "organized": "renders/dance_frames/frame_195.png",
+      "bytes": 743324,
+      "original_sha256": "bdc55767afacf6fcfa47593164f907eefaa286a8069767cb70998302729f37f4",
+      "organized_sha256": "bdc55767afacf6fcfa47593164f907eefaa286a8069767cb70998302729f37f4"
+    },
+    {
+      "original": "revision/dance_frames/frame_196.png",
+      "organized": "renders/dance_frames/frame_196.png",
+      "bytes": 744403,
+      "original_sha256": "757b287706479f92ae21a07315d30bcb1c12bafbef8e175677611865b883cd86",
+      "organized_sha256": "757b287706479f92ae21a07315d30bcb1c12bafbef8e175677611865b883cd86"
+    },
+    {
+      "original": "revision/dance_frames/frame_197.png",
+      "organized": "renders/dance_frames/frame_197.png",
+      "bytes": 744422,
+      "original_sha256": "0f5e9b335e9b8545a21ae22e8c4829bdbd456c34cbc7cbc42fc61930e4e9c3ee",
+      "organized_sha256": "0f5e9b335e9b8545a21ae22e8c4829bdbd456c34cbc7cbc42fc61930e4e9c3ee"
+    },
+    {
+      "original": "revision/dance_frames/frame_198.png",
+      "organized": "renders/dance_frames/frame_198.png",
+      "bytes": 743338,
+      "original_sha256": "b4206a399b9ed8681f42e16cdbd41845a83a8e13908e700e856d103d88894d6d",
+      "organized_sha256": "b4206a399b9ed8681f42e16cdbd41845a83a8e13908e700e856d103d88894d6d"
+    },
+    {
+      "original": "revision/dance_frames/frame_199.png",
+      "organized": "renders/dance_frames/frame_199.png",
+      "bytes": 742512,
+      "original_sha256": "90f6db0da866b0c86e3ab2efc1428a9c52d917c2e2f36e59aa8edb2aec9db07a",
+      "organized_sha256": "90f6db0da866b0c86e3ab2efc1428a9c52d917c2e2f36e59aa8edb2aec9db07a"
+    },
+    {
+      "original": "revision/dance_frames/frame_200.png",
+      "organized": "renders/dance_frames/frame_200.png",
+      "bytes": 741762,
+      "original_sha256": "8d95ffc132d0609f2f26631211cd8d6a187779c20daa83973b208df888449cee",
+      "organized_sha256": "8d95ffc132d0609f2f26631211cd8d6a187779c20daa83973b208df888449cee"
+    },
+    {
+      "original": "revision/dance_frames/frame_201.png",
+      "organized": "renders/dance_frames/frame_201.png",
+      "bytes": 739727,
+      "original_sha256": "e5a4b1ab06392c02ee50ae9dae587a675b7528be21b9fbc021351ef440ebe534",
+      "organized_sha256": "e5a4b1ab06392c02ee50ae9dae587a675b7528be21b9fbc021351ef440ebe534"
+    },
+    {
+      "original": "revision/dance_frames/frame_202.png",
+      "organized": "renders/dance_frames/frame_202.png",
+      "bytes": 740635,
+      "original_sha256": "a03d595df9f4cdf2a3c90f5796d6cf040d5324d00018f29463fecde462078f78",
+      "organized_sha256": "a03d595df9f4cdf2a3c90f5796d6cf040d5324d00018f29463fecde462078f78"
+    },
+    {
+      "original": "revision/dance_frames/frame_203.png",
+      "organized": "renders/dance_frames/frame_203.png",
+      "bytes": 741542,
+      "original_sha256": "6192434d7f36f10946755131dce9f51594cfc3353fad25ad2fed5093be4a3aa4",
+      "organized_sha256": "6192434d7f36f10946755131dce9f51594cfc3353fad25ad2fed5093be4a3aa4"
+    },
+    {
+      "original": "revision/dance_frames/frame_204.png",
+      "organized": "renders/dance_frames/frame_204.png",
+      "bytes": 742722,
+      "original_sha256": "87919139b4742609cb6e772edd3e2894305b2aa3ded05b0855ebe59c845b7711",
+      "organized_sha256": "87919139b4742609cb6e772edd3e2894305b2aa3ded05b0855ebe59c845b7711"
+    },
+    {
+      "original": "revision/dance_frames/frame_205.png",
+      "organized": "renders/dance_frames/frame_205.png",
+      "bytes": 743162,
+      "original_sha256": "60e83009cc0284204cbd0e2c9a52b3972485c6ded7e25714c2ec71179883b6cc",
+      "organized_sha256": "60e83009cc0284204cbd0e2c9a52b3972485c6ded7e25714c2ec71179883b6cc"
+    },
+    {
+      "original": "revision/dance_frames/frame_206.png",
+      "organized": "renders/dance_frames/frame_206.png",
+      "bytes": 743836,
+      "original_sha256": "ea9f16b5bc52832c9ed0099579bb1d67109b4fa6cb54903a847968453252d9ef",
+      "organized_sha256": "ea9f16b5bc52832c9ed0099579bb1d67109b4fa6cb54903a847968453252d9ef"
+    },
+    {
+      "original": "revision/dance_frames/frame_207.png",
+      "organized": "renders/dance_frames/frame_207.png",
+      "bytes": 743427,
+      "original_sha256": "d936738b1fb06a51db1b565a23ad403fa9f63454ae6f49869a5743777325eec3",
+      "organized_sha256": "d936738b1fb06a51db1b565a23ad403fa9f63454ae6f49869a5743777325eec3"
+    },
+    {
+      "original": "revision/dance_frames/frame_208.png",
+      "organized": "renders/dance_frames/frame_208.png",
+      "bytes": 742027,
+      "original_sha256": "87f3fa13bc6578db541516da8f0d2174a27b749a42d38bc8115cc614d26f8ba1",
+      "organized_sha256": "87f3fa13bc6578db541516da8f0d2174a27b749a42d38bc8115cc614d26f8ba1"
+    },
+    {
+      "original": "revision/dance_frames/frame_209.png",
+      "organized": "renders/dance_frames/frame_209.png",
+      "bytes": 742326,
+      "original_sha256": "7fcbac014a509511a21b9072f35a88c8ec2ec35589056af1099c2bfa8596af5a",
+      "organized_sha256": "7fcbac014a509511a21b9072f35a88c8ec2ec35589056af1099c2bfa8596af5a"
+    },
+    {
+      "original": "revision/dance_frames/frame_210.png",
+      "organized": "renders/dance_frames/frame_210.png",
+      "bytes": 740625,
+      "original_sha256": "157b5caf55cae794eb747e493016dc33c0fe35c260771310454f82661c5e2921",
+      "organized_sha256": "157b5caf55cae794eb747e493016dc33c0fe35c260771310454f82661c5e2921"
+    },
+    {
+      "original": "revision/dance_frames/frame_211.png",
+      "organized": "renders/dance_frames/frame_211.png",
+      "bytes": 738052,
+      "original_sha256": "d0a25e26d2e131e205fc3281f70428ac595ce4d7615c235650f8a073c2197682",
+      "organized_sha256": "d0a25e26d2e131e205fc3281f70428ac595ce4d7615c235650f8a073c2197682"
+    },
+    {
+      "original": "revision/dance_frames/frame_212.png",
+      "organized": "renders/dance_frames/frame_212.png",
+      "bytes": 736319,
+      "original_sha256": "30e9a514fe7d231395063f3300fda58647b32874c08d30db6549d93206e15d33",
+      "organized_sha256": "30e9a514fe7d231395063f3300fda58647b32874c08d30db6549d93206e15d33"
+    },
+    {
+      "original": "revision/dance_frames/frame_213.png",
+      "organized": "renders/dance_frames/frame_213.png",
+      "bytes": 736060,
+      "original_sha256": "f59200e567d87659767a606a2337b19dadcad8756c22f647a67d5d7ccb920588",
+      "organized_sha256": "f59200e567d87659767a606a2337b19dadcad8756c22f647a67d5d7ccb920588"
+    },
+    {
+      "original": "revision/dance_frames/frame_214.png",
+      "organized": "renders/dance_frames/frame_214.png",
+      "bytes": 735186,
+      "original_sha256": "d9ee2e06e3601335fdff189b2c659c4f970287865962b36bf9cec36f0784a4a3",
+      "organized_sha256": "d9ee2e06e3601335fdff189b2c659c4f970287865962b36bf9cec36f0784a4a3"
+    },
+    {
+      "original": "revision/dance_frames/frame_215.png",
+      "organized": "renders/dance_frames/frame_215.png",
+      "bytes": 735243,
+      "original_sha256": "f6a9f35c29f6e854e366be9535a8c0c11160dd1e3a1e2e7898cda9389f864467",
+      "organized_sha256": "f6a9f35c29f6e854e366be9535a8c0c11160dd1e3a1e2e7898cda9389f864467"
+    },
+    {
+      "original": "revision/dance_frames/frame_216.png",
+      "organized": "renders/dance_frames/frame_216.png",
+      "bytes": 736053,
+      "original_sha256": "392d5a7df7cb2ce64d936ea351814ddd00f1ff866d6d9293381b4a753b3aede6",
+      "organized_sha256": "392d5a7df7cb2ce64d936ea351814ddd00f1ff866d6d9293381b4a753b3aede6"
+    },
+    {
+      "original": "revision/dance_frames/frame_217.png",
+      "organized": "renders/dance_frames/frame_217.png",
+      "bytes": 734605,
+      "original_sha256": "e7c1721a7c020098b7a9cc59c93bb71bb72c8b883109e5eee7d8d40e6186065e",
+      "organized_sha256": "e7c1721a7c020098b7a9cc59c93bb71bb72c8b883109e5eee7d8d40e6186065e"
+    },
+    {
+      "original": "revision/dance_frames/frame_218.png",
+      "organized": "renders/dance_frames/frame_218.png",
+      "bytes": 733228,
+      "original_sha256": "e43528762762069c12eb91602d08d97a91800a43bfe6cf3335001fb4287cc511",
+      "organized_sha256": "e43528762762069c12eb91602d08d97a91800a43bfe6cf3335001fb4287cc511"
+    },
+    {
+      "original": "revision/dance_frames/frame_219.png",
+      "organized": "renders/dance_frames/frame_219.png",
+      "bytes": 732417,
+      "original_sha256": "6062f43fb0fe83fce6d36fe35997156926f1f6a63104bc987762cb776123f9f9",
+      "organized_sha256": "6062f43fb0fe83fce6d36fe35997156926f1f6a63104bc987762cb776123f9f9"
+    },
+    {
+      "original": "revision/dance_frames/frame_220.png",
+      "organized": "renders/dance_frames/frame_220.png",
+      "bytes": 731723,
+      "original_sha256": "2217343ef76a23560cdd0ff3c889888ec64598e09dfb6edb0c1e251cae82f3c7",
+      "organized_sha256": "2217343ef76a23560cdd0ff3c889888ec64598e09dfb6edb0c1e251cae82f3c7"
+    },
+    {
+      "original": "revision/dance_frames/frame_221.png",
+      "organized": "renders/dance_frames/frame_221.png",
+      "bytes": 731804,
+      "original_sha256": "351b5cff2aac07d674577bf51a624e9332ddb73434a234c45bc672d40ec8b45b",
+      "organized_sha256": "351b5cff2aac07d674577bf51a624e9332ddb73434a234c45bc672d40ec8b45b"
+    },
+    {
+      "original": "revision/dance_frames/frame_222.png",
+      "organized": "renders/dance_frames/frame_222.png",
+      "bytes": 731168,
+      "original_sha256": "ab6ab6c48cb0bb8f626c2d07ef3a0824bfc920cded88ec801dc5a3ae304a3f03",
+      "organized_sha256": "ab6ab6c48cb0bb8f626c2d07ef3a0824bfc920cded88ec801dc5a3ae304a3f03"
+    },
+    {
+      "original": "revision/dance_frames/frame_223.png",
+      "organized": "renders/dance_frames/frame_223.png",
+      "bytes": 730961,
+      "original_sha256": "2342a92bc96bfb61c00248e4efdcaea3fe071c351573d9fa56ba1ba5d192c04c",
+      "organized_sha256": "2342a92bc96bfb61c00248e4efdcaea3fe071c351573d9fa56ba1ba5d192c04c"
+    },
+    {
+      "original": "revision/dance_frames/frame_224.png",
+      "organized": "renders/dance_frames/frame_224.png",
+      "bytes": 731999,
+      "original_sha256": "039ae2737bbb5a5e02ba6885f8a32b5e1de46a5aa0cb5cffa564fa4cc1143522",
+      "organized_sha256": "039ae2737bbb5a5e02ba6885f8a32b5e1de46a5aa0cb5cffa564fa4cc1143522"
+    },
+    {
+      "original": "revision/dance_frames/frame_225.png",
+      "organized": "renders/dance_frames/frame_225.png",
+      "bytes": 731738,
+      "original_sha256": "e105a1021a008e5c0136d6f1ec13796d9ac389bc81e33777e2d2c714ffe0a4cf",
+      "organized_sha256": "e105a1021a008e5c0136d6f1ec13796d9ac389bc81e33777e2d2c714ffe0a4cf"
+    },
+    {
+      "original": "revision/dance_frames/frame_226.png",
+      "organized": "renders/dance_frames/frame_226.png",
+      "bytes": 731864,
+      "original_sha256": "05de2636889166fa4ccdd207817c18a01eff0b046589237d6ea0e80f0652c083",
+      "organized_sha256": "05de2636889166fa4ccdd207817c18a01eff0b046589237d6ea0e80f0652c083"
+    },
+    {
+      "original": "revision/dance_frames/frame_227.png",
+      "organized": "renders/dance_frames/frame_227.png",
+      "bytes": 731973,
+      "original_sha256": "f2311a163ecf56b1f92a1c8eaecf676800d931db7429b56c090fc53b50c3b08d",
+      "organized_sha256": "f2311a163ecf56b1f92a1c8eaecf676800d931db7429b56c090fc53b50c3b08d"
+    },
+    {
+      "original": "revision/dance_frames/frame_228.png",
+      "organized": "renders/dance_frames/frame_228.png",
+      "bytes": 731852,
+      "original_sha256": "ad8cdc9e54556481ba2b2dd89573ea174e2a1781dfd45803a39c22860c102c1a",
+      "organized_sha256": "ad8cdc9e54556481ba2b2dd89573ea174e2a1781dfd45803a39c22860c102c1a"
+    },
+    {
+      "original": "revision/dance_frames/frame_229.png",
+      "organized": "renders/dance_frames/frame_229.png",
+      "bytes": 731307,
+      "original_sha256": "0d44d1eec149a535a52b4c9102ac67d6ac4f18e865fff7e9f2e33d498256341e",
+      "organized_sha256": "0d44d1eec149a535a52b4c9102ac67d6ac4f18e865fff7e9f2e33d498256341e"
+    },
+    {
+      "original": "revision/dance_frames/frame_230.png",
+      "organized": "renders/dance_frames/frame_230.png",
+      "bytes": 731632,
+      "original_sha256": "bcdeb4c9635600f981bfddcd350d4ad5938676855899217f21e36b91808061f0",
+      "organized_sha256": "bcdeb4c9635600f981bfddcd350d4ad5938676855899217f21e36b91808061f0"
+    },
+    {
+      "original": "revision/dance_frames/frame_231.png",
+      "organized": "renders/dance_frames/frame_231.png",
+      "bytes": 731780,
+      "original_sha256": "6627dbf9b05443d936bcd6c7e2e2d990e264eab3fffe0fc4356e4a0520c708af",
+      "organized_sha256": "6627dbf9b05443d936bcd6c7e2e2d990e264eab3fffe0fc4356e4a0520c708af"
+    },
+    {
+      "original": "revision/dance_frames/frame_232.png",
+      "organized": "renders/dance_frames/frame_232.png",
+      "bytes": 731707,
+      "original_sha256": "fe58ccae2f4b4b1d9be2e446dbf504422e8c1b78d20336400af7c56e4d9159ee",
+      "organized_sha256": "fe58ccae2f4b4b1d9be2e446dbf504422e8c1b78d20336400af7c56e4d9159ee"
+    },
+    {
+      "original": "revision/dance_frames/frame_233.png",
+      "organized": "renders/dance_frames/frame_233.png",
+      "bytes": 731443,
+      "original_sha256": "891c7dbd97c811272c7afffd100040308d8fd29e814910a101e012d258d8687a",
+      "organized_sha256": "891c7dbd97c811272c7afffd100040308d8fd29e814910a101e012d258d8687a"
+    },
+    {
+      "original": "revision/dance_frames/frame_234.png",
+      "organized": "renders/dance_frames/frame_234.png",
+      "bytes": 731421,
+      "original_sha256": "aaed67cf12d20984d4432b94d49bf1b8fbcf7b548d47a562b5e1833ebaa87fa5",
+      "organized_sha256": "aaed67cf12d20984d4432b94d49bf1b8fbcf7b548d47a562b5e1833ebaa87fa5"
+    },
+    {
+      "original": "revision/dance_frames/frame_235.png",
+      "organized": "renders/dance_frames/frame_235.png",
+      "bytes": 731445,
+      "original_sha256": "6b225bdfaa27e7ccd7053495a9a57afc3396429d7a890f12bdeba40c41f01118",
+      "organized_sha256": "6b225bdfaa27e7ccd7053495a9a57afc3396429d7a890f12bdeba40c41f01118"
+    },
+    {
+      "original": "revision/dance_frames/frame_236.png",
+      "organized": "renders/dance_frames/frame_236.png",
+      "bytes": 731437,
+      "original_sha256": "2efd0a081255ea08316be93934bc67a499c6f980ebfa2e0ecd49a187ff71f95b",
+      "organized_sha256": "2efd0a081255ea08316be93934bc67a499c6f980ebfa2e0ecd49a187ff71f95b"
+    },
+    {
+      "original": "revision/dance_frames/frame_237.png",
+      "organized": "renders/dance_frames/frame_237.png",
+      "bytes": 731421,
+      "original_sha256": "0fc4aabeacfbd8b289484f05b8d7bb7a4fe523df15ae7bcdc621cdf45bdb6fa4",
+      "organized_sha256": "0fc4aabeacfbd8b289484f05b8d7bb7a4fe523df15ae7bcdc621cdf45bdb6fa4"
+    },
+    {
+      "original": "revision/dance_frames/frame_238.png",
+      "organized": "renders/dance_frames/frame_238.png",
+      "bytes": 731389,
+      "original_sha256": "97f61299dd93a94c732fa4094f393b0897182e9f8884e1961a6e4be6bebfeacf",
+      "organized_sha256": "97f61299dd93a94c732fa4094f393b0897182e9f8884e1961a6e4be6bebfeacf"
+    },
+    {
+      "original": "revision/dance_frames/frame_239.png",
+      "organized": "renders/dance_frames/frame_239.png",
+      "bytes": 731440,
+      "original_sha256": "edb65f293e1f86d6b2b1d7abef8d261ac2399e92e633f14d9b981c3963110374",
+      "organized_sha256": "edb65f293e1f86d6b2b1d7abef8d261ac2399e92e633f14d9b981c3963110374"
+    },
+    {
+      "original": "revision/extract_texture.py",
+      "organized": "scripts/diagnostics/extract_texture.py",
+      "bytes": 366,
+      "original_sha256": "d5071e4ee3c83dd11d95276ea5dff52900334eef6c87074ff7c43abdb389f335",
+      "organized_sha256": "47f3979bdd38e9c2b3e81058d48ef7d869788b86b5316c6e236d27a64e60b58c"
+    },
+    {
+      "original": "revision/eyes-topology.json",
+      "organized": "reports/diagnostics/eyes-topology.json",
+      "bytes": 37900,
+      "original_sha256": "df6063a3db69b4c23d3186b6a6c10ad3528674d2ce4269145e5c3f7bd27edcf4",
+      "organized_sha256": "df6063a3db69b4c23d3186b6a6c10ad3528674d2ce4269145e5c3f7bd27edcf4"
+    },
+    {
+      "original": "revision/face-texture.png",
+      "organized": "references/textures/face-texture.png",
+      "bytes": 20853,
+      "original_sha256": "791b17917a1da77ad12cd823fbbfc53ea65b33481501b05bf357bc01388ce7a6",
+      "organized_sha256": "791b17917a1da77ad12cd823fbbfc53ea65b33481501b05bf357bc01388ce7a6"
+    },
+    {
+      "original": "revision/face-topology.json",
+      "organized": "reports/diagnostics/face-topology.json",
+      "bytes": 205718,
+      "original_sha256": "14ca668f6fbfc05c6a54ab568772774693022bc7afdb96413d05862e0f52b974",
+      "organized_sha256": "14ca668f6fbfc05c6a54ab568772774693022bc7afdb96413d05862e0f52b974"
+    },
+    {
+      "original": "revision/finalize_revision.py",
+      "organized": "scripts/refinement/finalize_revision.py",
+      "bytes": 5596,
+      "original_sha256": "151fe914fe96656c2b267fb7bcdbe29189018dbdf4db59188fbefb0a3b13925a",
+      "organized_sha256": "729289249ba1e89a1938ea2f6b94a443032bd9f01baa7dcd5a5689ec382dc6d1"
+    },
+    {
+      "original": "revision/fix_inspect.py",
+      "organized": "scripts/refinement/fix_inspect.py",
+      "bytes": 1119,
+      "original_sha256": "33182861e495e3ebea1d6d37ffe21e1a50ab2ca5430956f4295413dcfd91a20f",
+      "organized_sha256": "422ef21417f8f2c7947ee1c233ee8a62674e84dfe839e82f276b74267677e3eb"
+    },
+    {
+      "original": "revision/fix_shoulders.py",
+      "organized": "scripts/refinement/fix_shoulders.py",
+      "bytes": 3614,
+      "original_sha256": "c56e04b4e47e1572f3c11275880c3b3f4f7b549bee354f43f85f451bce940a53",
+      "organized_sha256": "fd097f8e4e7fe3e6099c400dbe6db662fdc1f0530e90f8b26375ff30b3ed737d"
+    },
+    {
+      "original": "revision/hair-texture.png",
+      "organized": "references/textures/hair-texture.png",
+      "bytes": 40222,
+      "original_sha256": "54f23fc935b783ecd1355c5d3ff4fd61458dd5b7b205e55cafd52717e172613d",
+      "organized_sha256": "54f23fc935b783ecd1355c5d3ff4fd61458dd5b7b205e55cafd52717e172613d"
+    },
+    {
+      "original": "revision/Head-before-front.png",
+      "organized": "archive/refinement/Head-before-front.png",
+      "bytes": 724460,
+      "original_sha256": "6d3f87adfc2ff7bd8dfc290573bdca66cdae7056459905f680ea45e64c19a45d",
+      "organized_sha256": "6d3f87adfc2ff7bd8dfc290573bdca66cdae7056459905f680ea45e64c19a45d"
+    },
+    {
+      "original": "revision/Head-before-side.png",
+      "organized": "archive/refinement/Head-before-side.png",
+      "bytes": 707046,
+      "original_sha256": "4c58c81b755234bd11f7f770cc0f191686ef582e52d7905c5c2c78e5638ae137",
+      "organized_sha256": "4c58c81b755234bd11f7f770cc0f191686ef582e52d7905c5c2c78e5638ae137"
+    },
+    {
+      "original": "revision/Head-corrected-blink.png",
+      "organized": "archive/refinement/Head-corrected-blink.png",
+      "bytes": 777741,
+      "original_sha256": "45cf8db526d181e5822da801741d4a9b3518f779b384b7e8c30c2c42867253a0",
+      "organized_sha256": "45cf8db526d181e5822da801741d4a9b3518f779b384b7e8c30c2c42867253a0"
+    },
+    {
+      "original": "revision/Head-corrected-front.png",
+      "organized": "archive/refinement/Head-corrected-front.png",
+      "bytes": 786907,
+      "original_sha256": "ce49d0b53055445f871a5e3c6b0a28a9562b4f2303dde05cb9671b2d64598a3f",
+      "organized_sha256": "ce49d0b53055445f871a5e3c6b0a28a9562b4f2303dde05cb9671b2d64598a3f"
+    },
+    {
+      "original": "revision/Head-corrected-side.png",
+      "organized": "archive/refinement/Head-corrected-side.png",
+      "bytes": 778020,
+      "original_sha256": "df4b193d333377c2101320595e9ade0a6768441c2e90e361606110dd4abaab0b",
+      "organized_sha256": "df4b193d333377c2101320595e9ade0a6768441c2e90e361606110dd4abaab0b"
+    },
+    {
+      "original": "revision/Head-refined-preview.png",
+      "organized": "archive/refinement/Head-refined-preview.png",
+      "bytes": 784733,
+      "original_sha256": "62afa212235c3c30594550ed1f8ae9451f0ab00ab308ccf8526f36ba70f7f0d6",
+      "organized_sha256": "62afa212235c3c30594550ed1f8ae9451f0ab00ab308ccf8526f36ba70f7f0d6"
+    },
+    {
+      "original": "revision/head_diagnostic.py",
+      "organized": "scripts/diagnostics/head_diagnostic.py",
+      "bytes": 864,
+      "original_sha256": "c81f9e5cd019c1c6f26d320f8b3dd7af9a91470e26f1d7299fefe3012fa9d22a",
+      "organized_sha256": "283d5ddb420498875e82ee9557a67eeaea9e1a383209a139bedd1fc7fc112d6b"
+    },
+    {
+      "original": "revision/head_report.json",
+      "organized": "reports/diagnostics/head_report.json",
+      "bytes": 16848,
+      "original_sha256": "805fefdc895815f16d046523f9b6f9ca69b29668a591ef72601ffdef871faa8a",
+      "organized_sha256": "805fefdc895815f16d046523f9b6f9ca69b29668a591ef72601ffdef871faa8a"
+    },
+    {
+      "original": "revision/head_topology.py",
+      "organized": "scripts/diagnostics/head_topology.py",
+      "bytes": 589,
+      "original_sha256": "e151aceb076b79e7568f9f767df341e14850f3b687743c115cdd23e5a16cb7c0",
+      "organized_sha256": "0442364cd4fdd209b380ce4edfaaadcedf53a82c8de172d22fbfba6f67f02808"
+    },
+    {
+      "original": "revision/inspect_components.py",
+      "organized": "scripts/diagnostics/inspect_components.py",
+      "bytes": 1194,
+      "original_sha256": "4bf84b8cc43187ee173de259c1affc32295a44417c98cbe965339c60fcf5db36",
+      "organized_sha256": "31a5b06a7ee5087161e5c6fdf4bf6781218712c2d65ec860979189a48af79a7f"
+    },
+    {
+      "original": "revision/inspect_finish.py",
+      "organized": "scripts/diagnostics/inspect_finish.py",
+      "bytes": 525,
+      "original_sha256": "9f7963b789c1a7c1a26b11c3cb8892041be6c08be75d7b6ea73dbf547aa2ce26",
+      "organized_sha256": "2d3743dd478d94a7802ef152e00db882e708d186506334387da2e37b39282df2"
+    },
+    {
+      "original": "revision/inspect_head.py",
+      "organized": "scripts/diagnostics/inspect_head.py",
+      "bytes": 1055,
+      "original_sha256": "4f743163ddd290defbac0c4e3b3b395bdf5e890fbe67ba857d576661944cebb5",
+      "organized_sha256": "d3b3476e9d5fb8b899834f14ae66d5f2f0c6756dfef3049cd01ab131e9e0ccc0"
+    },
+    {
+      "original": "revision/inspect_motion.py",
+      "organized": "scripts/diagnostics/inspect_motion.py",
+      "bytes": 588,
+      "original_sha256": "2a5fb3a0ba946d0bb5db8384f9d5092703078d909c9b5a296e1456b5252f3e48",
+      "organized_sha256": "291b3f269981cbe7caf752653d44194ce4739d40154e5d9408f5556217412178"
+    },
+    {
+      "original": "revision/inspect_reference.py",
+      "organized": "scripts/diagnostics/inspect_reference.py",
+      "bytes": 2247,
+      "original_sha256": "9bd8d1f3b608cc505471c984a3c12ba433cd2a32421387a032df97b17c85de64",
+      "organized_sha256": "27e4be626afc2482feb32e654f329573f712dd488d26af2f8627ee931ee24958"
+    },
+    {
+      "original": "revision/inspect_rig.py",
+      "organized": "scripts/diagnostics/inspect_rig.py",
+      "bytes": 461,
+      "original_sha256": "c1e9a59c1ffd2292deec513ace19e286b95ab76a345b29b362932e5e22b35fd6",
+      "organized_sha256": "3a8b22afd8d8d92b7baa3083214d1b0e06f17c244eb0a025f0c085fe73c993ff"
+    },
+    {
+      "original": "revision/list_library.py",
+      "organized": "scripts/diagnostics/list_library.py",
+      "bytes": 202,
+      "original_sha256": "573202ffbd4fce190b8a22bfbeb22b60ee0f0081e641b1a0ee6891b500285d9c",
+      "organized_sha256": "04ea76dcbf2a54cd4093decbd15ba543a5532d71ad99530f03eac91c82a57565"
+    },
+    {
+      "original": "revision/mesh_inventory.json",
+      "organized": "reports/diagnostics/mesh_inventory.json",
+      "bytes": 3228,
+      "original_sha256": "7355c172a7a4348c1d86b205856c8fb7bdfbf7116c4dbfb050bce9534ed47792",
+      "organized_sha256": "7355c172a7a4348c1d86b205856c8fb7bdfbf7116c4dbfb050bce9534ed47792"
+    },
+    {
+      "original": "revision/polish_character.py",
+      "organized": "scripts/refinement/polish_character.py",
+      "bytes": 4163,
+      "original_sha256": "49b0a229609a495026d6254696d38a1feae04d348f3b9cdfd5311afd91649af4",
+      "organized_sha256": "398838de3f291d87f3bf807ada6add8f766a9f1845e67bc7ebc2bdc0fc8f2f3f"
+    },
+    {
+      "original": "revision/Reference-inspection.blend",
+      "organized": "references/Reference-inspection.blend",
+      "bytes": 1531771,
+      "original_sha256": "7be532e8cb5cdecee2104ba4472477f45e4b361033aef9d64d97576ec092a02c",
+      "organized_sha256": "7be532e8cb5cdecee2104ba4472477f45e4b361033aef9d64d97576ec092a02c"
+    },
+    {
+      "original": "revision/Reference-inspection.blend1",
+      "organized": "archive/backups/Reference-inspection.blend1",
+      "bytes": 1534158,
+      "original_sha256": "264a265d1a08095c3828602d494f0befca9475d54eaf22a49de1ccbb0fa512be",
+      "organized_sha256": "264a265d1a08095c3828602d494f0befca9475d54eaf22a49de1ccbb0fa512be"
+    },
+    {
+      "original": "revision/Reference-mari.glb",
+      "organized": "references/Reference-mari.glb",
+      "bytes": 1710640,
+      "original_sha256": "7a6acc2de13b1f0cacec8e3a612d958e3ce78b58c354f8d0f089ce550c8fa6c0",
+      "organized_sha256": "7a6acc2de13b1f0cacec8e3a612d958e3ce78b58c354f8d0f089ce550c8fa6c0"
+    },
+    {
+      "original": "revision/Reference-model.png",
+      "organized": "references/Reference-model.png",
+      "bytes": 1120467,
+      "original_sha256": "53c9497986fb6a06660a35046363d6704779b6b5147cddabace954fd54aeff5b",
+      "organized_sha256": "53c9497986fb6a06660a35046363d6704779b6b5147cddabace954fd54aeff5b"
+    },
+    {
+      "original": "revision/refine_sportswear.py",
+      "organized": "scripts/refinement/refine_sportswear.py",
+      "bytes": 13255,
+      "original_sha256": "819eee586aa01326cdca1baf13bed70b8418fb38e9beda6d461de7c3cdc4b460",
+      "organized_sha256": "b41038228cc74df974bcaccc88e64a0041ea9f45fa68c1fd741f245cb9d33f4a"
+    },
+    {
+      "original": "revision/render_dance_final.py",
+      "organized": "scripts/render/render_dance_final.py",
+      "bytes": 1061,
+      "original_sha256": "30159080444e4afa0a4084097a9eeaa51364a393e5f3748d69ab97bb32149139",
+      "organized_sha256": "f76dafd29684442d87645dae3be1bc63b19ca842d4ed0de50dd9401a98ae2285"
+    },
+    {
+      "original": "revision/render_dance_poses.py",
+      "organized": "scripts/render/render_dance_poses.py",
+      "bytes": 606,
+      "original_sha256": "fa995e4ac7d0c4de5b628830a5b090cdcb93d0f26d82fa2daf77391f222275bf",
+      "organized_sha256": "59042a9d6a1c8b755c4ce0a917f116ed29b654db9ef7f35d6bcdfab9780d186b"
+    },
+    {
+      "original": "revision/render_final.py",
+      "organized": "scripts/render/render_final.py",
+      "bytes": 1331,
+      "original_sha256": "aada53b541c66005f03ceef3c3dac4c0136c6e7942fe6a638599e650bd838657",
+      "organized_sha256": "845ad8fc613431636af697a583442943c53f64f2957edfebb320ce62f42546c6"
+    },
+    {
+      "original": "revision/render_head.py",
+      "organized": "scripts/render/render_head.py",
+      "bytes": 1089,
+      "original_sha256": "b41bcd2ed47afe4cfb582f2b2046e020bca9774a035a5a7934181e835138a07f",
+      "organized_sha256": "6d56d5e440f6a21374e006cd0b9a9f7a2af97e297c4b2798eea9567d56c1f5a1"
+    },
+    {
+      "original": "revision/render_refined.py",
+      "organized": "scripts/render/render_refined.py",
+      "bytes": 593,
+      "original_sha256": "8e801cb139cb92e97d9d069baf5985bdc5663e5b91ac714383ec8b74aec7d177",
+      "organized_sha256": "e19c210a7f3fa54b499f76af73ce8c900b2d2db5fd87a9206cf44258cf323893"
+    },
+    {
+      "original": "revision/Rest-clasped.png",
+      "organized": "deliverables/previews/Rest-clasped.png",
+      "bytes": 873117,
+      "original_sha256": "0c51b10fd98bdd66dfcaecfbae01f87e352a9a225d2a872d7ba113aec5e68982",
+      "organized_sha256": "0c51b10fd98bdd66dfcaecfbae01f87e352a9a225d2a872d7ba113aec5e68982"
+    },
+    {
+      "original": "revision/rework_head.py",
+      "organized": "scripts/refinement/rework_head.py",
+      "bytes": 9753,
+      "original_sha256": "729759a337e8c9d5572a2bf7282f65c32990a8a027b9aef3b7dfe0b515321d98",
+      "organized_sha256": "2a2839c9d183e57cd73a754b702f77b2d90e890ea2b53bed4b48d9347b1467ac"
+    },
+    {
+      "original": "revision/Texture_0-texture.png",
+      "organized": "references/textures/Texture_0-texture.png",
+      "bytes": 49965,
+      "original_sha256": "f6b593bffa5a40e008422427d40692316284bffcb0646d9acc26a84ad392568b",
+      "organized_sha256": "f6b593bffa5a40e008422427d40692316284bffcb0646d9acc26a84ad392568b"
+    },
+    {
+      "original": "revision/validate_dance.py",
+      "organized": "scripts/diagnostics/validate_dance.py",
+      "bytes": 3647,
+      "original_sha256": "636b9416c6cfd08d91f17430cb81e1cefa34d81c0b6196e692f3a126277dd734",
+      "organized_sha256": "c9d3d5f67b95b4c66f7128a553c5920b000c59f2612695296d85d7d999f2acb3"
+    },
+    {
+      "original": "revision/validation.json",
+      "organized": "reports/diagnostics/validation.json",
+      "bytes": 9843,
+      "original_sha256": "2c5226052a4cd900b6fb170ef7b5129739374294ab77e1a61aea33af58b67716",
+      "organized_sha256": "2c5226052a4cd900b6fb170ef7b5129739374294ab77e1a61aea33af58b67716"
+    },
+    {
+      "original": "smooth_sleeves.py",
+      "organized": "scripts/initial/smooth_sleeves.py",
+      "bytes": 2262,
+      "original_sha256": "e1aa2d04fdc7fd58342e9225446dfd22f94784c6db73950176df2da106f2f8c5",
+      "organized_sha256": "38326b8cb5a107cdca5d6584e4072a071c80d674fa9a30f6e5da48fcac7d131a"
+    }
+  ],
+  "original_scripts_backup": "archive/scripts-before-organization.zip"
+}
