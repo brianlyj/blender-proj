@@ -1,0 +1,140 @@
+{
+  "actions": [
+    {
+      "number": 0,
+      "label": "Relaxed idle",
+      "loop_error": 2.682209014892578e-07,
+      "maximum_joint_step_m": 0.018269648278185585
+    },
+    {
+      "number": 1,
+      "label": "Crossed-arm sass",
+      "loop_error": 2.980232238769531e-07,
+      "maximum_joint_step_m": 0.03446712055280822
+    },
+    {
+      "number": 2,
+      "label": "Happy bounce",
+      "loop_error": 2.384185791015625e-07,
+      "maximum_joint_step_m": 0.0529963086792895
+    },
+    {
+      "number": 3,
+      "label": "Cheerful twirl",
+      "loop_error": 5.047768354415894e-07,
+      "maximum_joint_step_m": 0.10245875662641894
+    },
+    {
+      "number": 4,
+      "label": "Deal with it",
+      "loop_error": 2.384185791015625e-07,
+      "maximum_joint_step_m": 0.06991685778424582
+    },
+    {
+      "number": 5,
+      "label": "Cheeky wink",
+      "loop_error": 2.980232238769531e-07,
+      "maximum_joint_step_m": 0.032487496208368875
+    },
+    {
+      "number": 6,
+      "label": "Paw dance",
+      "loop_error": 2.980232238769531e-07,
+      "maximum_joint_step_m": 0.05717583149431938
+    },
+    {
+      "number": 7,
+      "label": "Shy hand clasp",
+      "loop_error": 2.980232238769531e-07,
+      "maximum_joint_step_m": 0.0379043434761645
+    },
+    {
+      "number": 8,
+      "label": "Double point",
+      "loop_error": 3.2782554626464844e-07,
+      "maximum_joint_step_m": 0.05078020791098678
+    },
+    {
+      "number": 9,
+      "label": "Dejected bow",
+      "loop_error": 2.980232238769531e-07,
+      "maximum_joint_step_m": 0.045054790436969576
+    },
+    {
+      "number": 10,
+      "label": "2 Phut Hon - fluid",
+      "loop_error": 2.682209014892578e-07,
+      "maximum_joint_step_m": 0.07295692483256766
+    },
+    {
+      "number": 11,
+      "label": "2 Phut Hon - original",
+      "loop_error": 2.980232238769531e-07,
+      "maximum_joint_step_m": 0.048847926118399616
+    }
+  ],
+  "transitions": [
+    {
+      "from": 3,
+      "to": 10,
+      "start_error": 5.960464477539062e-07,
+      "end_error": 2.682209014892578e-07,
+      "frames": 8
+    },
+    {
+      "from": 10,
+      "to": 6,
+      "start_error": 4.470348358154297e-07,
+      "end_error": 4.172325134277344e-07,
+      "frames": 8
+    },
+    {
+      "from": 6,
+      "to": 11,
+      "start_error": 4.172325134277344e-07,
+      "end_error": 2.682209014892578e-07,
+      "frames": 8
+    },
+    {
+      "from": 11,
+      "to": 0,
+      "start_error": 5.066394805908203e-07,
+      "end_error": 3.5762786865234375e-07,
+      "frames": 8
+    },
+    {
+      "from": 0,
+      "to": 2,
+      "start_error": 4.172325134277344e-07,
+      "end_error": 2.980232238769531e-07,
+      "frames": 8
+    },
+    {
+      "from": 2,
+      "to": 7,
+      "start_error": 8.046627044677734e-07,
+      "end_error": 4.6193599700927734e-07,
+      "frames": 8
+    }
+  ],
+  "invalid_drivers": [],
+  "original_dance_file_unchanged": true,
+  "bindings": {
+    "NUMPAD_PERIOD": "mari.toggle_shortcuts",
+    "NUMPAD_ENTER": "mari.pause_emote",
+    "NUMPAD_MINUS": "mari.select_emote",
+    "NUMPAD_PLUS": "mari.select_emote",
+    "NUMPAD_9": "mari.select_emote",
+    "NUMPAD_8": "mari.select_emote",
+    "NUMPAD_7": "mari.select_emote",
+    "NUMPAD_6": "mari.select_emote",
+    "NUMPAD_5": "mari.select_emote",
+    "NUMPAD_4": "mari.select_emote",
+    "NUMPAD_3": "mari.select_emote",
+    "NUMPAD_2": "mari.select_emote",
+    "NUMPAD_1": "mari.select_emote",
+    "NUMPAD_0": "mari.select_emote"
+  },
+  "toggle_and_disabled_shortcuts_pass": true,
+  "save_backup_versions": 1
+}

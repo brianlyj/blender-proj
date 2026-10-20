@@ -1,0 +1,49 @@
+{
+  "file": "C:\\Users\\ASUS\\Downloads\\blender-proj\\classroom\\deliverables\\Classroom-emotes.blend",
+  "controller_version": [
+    1,
+    1,
+    0
+  ],
+  "tests": [
+    "Original to refined dance: entrance completed and playback continues",
+    "Return to idle: transition completed and playback stopped",
+    "Enter from idle: previous dance resumes with a completed transition",
+    "Enter pauses and resumes active playback"
+  ],
+  "key_priority": [
+    {
+      "order": 10,
+      "key": "NUMPAD_PLUS",
+      "operator": "mari.select_emote"
+    },
+    {
+      "order": 11,
+      "key": "NUMPAD_MINUS",
+      "operator": "mari.select_emote"
+    },
+    {
+      "order": 36,
+      "key": "NUMPAD_PLUS",
+      "operator": "view3d.zoom"
+    },
+    {
+      "order": 37,
+      "key": "NUMPAD_MINUS",
+      "operator": "view3d.zoom"
+    },
+    {
+      "order": 42,
+      "key": "NUMPAD_PLUS",
+      "operator": "view3d.dolly"
+    },
+    {
+      "order": 43,
+      "key": "NUMPAD_MINUS",
+      "operator": "view3d.dolly"
+    }
+  ],
+  "passed": true,
+  "current": 10,
+  "playing": true
+}

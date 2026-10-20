@@ -1,0 +1,78 @@
+{
+  "emotes": [
+    {
+      "number": 0,
+      "name": "Relaxed idle",
+      "action": "EMOTE 0 | Relaxed idle",
+      "endpoint_matrix_error": 0.0,
+      "keyed_bones": 49
+    },
+    {
+      "number": 1,
+      "name": "Crossed-arm sass",
+      "action": "EMOTE 1 | Crossed-arm sass",
+      "endpoint_matrix_error": 0.0,
+      "keyed_bones": 49
+    },
+    {
+      "number": 2,
+      "name": "Happy bounce",
+      "action": "EMOTE 2 | Happy bounce",
+      "endpoint_matrix_error": 0.0,
+      "keyed_bones": 49
+    },
+    {
+      "number": 3,
+      "name": "Cheerful twirl",
+      "action": "EMOTE 3 | Cheerful twirl",
+      "endpoint_matrix_error": 7.152557373046875e-07,
+      "keyed_bones": 49
+    },
+    {
+      "number": 4,
+      "name": "Deal with it",
+      "action": "EMOTE 4 | Deal with it",
+      "endpoint_matrix_error": 0.0,
+      "keyed_bones": 49
+    },
+    {
+      "number": 5,
+      "name": "Cheeky wink",
+      "action": "EMOTE 5 | Cheeky wink",
+      "endpoint_matrix_error": 0.0,
+      "keyed_bones": 49
+    },
+    {
+      "number": 6,
+      "name": "Paw dance",
+      "action": "EMOTE 6 | Paw dance",
+      "endpoint_matrix_error": 0.0,
+      "keyed_bones": 49
+    },
+    {
+      "number": 7,
+      "name": "Shy hand clasp",
+      "action": "EMOTE 7 | Shy hand clasp",
+      "endpoint_matrix_error": 0.0,
+      "keyed_bones": 49
+    },
+    {
+      "number": 8,
+      "name": "Double point",
+      "action": "EMOTE 8 | Double point",
+      "endpoint_matrix_error": 0.0,
+      "keyed_bones": 49
+    },
+    {
+      "number": 9,
+      "name": "Dejected bow",
+      "action": "EMOTE 9 | Dejected bow",
+      "endpoint_matrix_error": 0.0,
+      "keyed_bones": 49
+    }
+  ],
+  "binding_errors": [],
+  "effect_meshes": 27,
+  "rig_bones": 49,
+  "source_reel": "https://www.facebook.com/reel/952944630756734/"
+}

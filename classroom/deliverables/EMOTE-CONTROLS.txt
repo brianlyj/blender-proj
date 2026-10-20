@@ -1,0 +1,56 @@
+MARI DANCE + EMOTES - NUMPAD CONTROLS
+============================
+
+Open Classroom-emotes.blend in Blender 5.2. The Mari Emote Numpad Controls
+addon is installed on this computer. Move the mouse over the 3D viewport
+and turn Num Lock on.
+
++  2 Phut Hon - fluid      Refined 10-second dance with weight shift and follow-through
+-  2 Phut Hon - original   The preserved original 10-second dance bone animation
+
+1  Crossed-arm sass        Half-lidded eyes, folded arms, weight shift
+2  Happy bounce            Closed happy eyes, smile, bouncing fist pumps
+3  Cheerful twirl          Full turn, raised hands and follow-through
+4  Deal with it            Pixel sunglasses and a raised finger
+5  Cheeky wink             One-eye wink, sparkle, toothy grin, crossed arms
+6  Paw dance               Alternating raised hands and shoulder rhythm
+7  Shy hand clasp          Hands near the chest, blush, head tilt
+8  Double point            Both index fingers point forward with a sway
+9  Dejected bow            Drooping head/ears, relaxed arms, gloom marks
+0  Relaxed idle            Stop and return to the resting pose
+
+Press the same key again to return to idle.
+Numpad Enter pauses/resumes; from idle it replays the previous emote.
+Numpad decimal (.) enables/disables the emote shortcuts so you can use
+Blender's normal numpad view controls. These shortcuts apply only to the
+3D viewport in an emote scene; other projects retain normal controls.
+The N sidebar has an Emotes tab with the same controls as buttons.
+
+Emotes are six-second loops at 24 fps; both dances are ten seconds.
+Switches ease from the current pose over eight frames (about 0.3 seconds).
+The temporary blend is replaced with the full action before the next loop.
+Revised movements use staggered hand gestures, anticipation, softer knees,
+body counter-motion, and delayed hair/ear/bag movement. The full-body rig,
+facial controls and effects travel together when switching actions.
+The original Classroom-dance.blend and its video are unchanged.
+
+REFERENCE
+Hand-animated interpretations of the emotes shown in this user-provided reel:
+https://www.facebook.com/reel/952944630756734/
+The reel's Saber character/outfit and audio have not been imported.
+The sports character's asset attribution remains in ASSET-CREDIT.txt.
+
+ON ANOTHER COMPUTER
+Install mari_emote_controls.py with Blender's Add-ons > Install from Disk,
+enable Mari Emote Numpad Controls, then open Classroom-emotes.blend.
+The same controller is embedded in the blend's Text Editor for inspection.
+The scene does not require enabling automatic execution of embedded scripts.
+
+EDITING
+Refined actions are named EMOTE 0 through EMOTE 9 with a fluid suffix.
+Dance actions are DANCE | 2 Phut Hon - fluid and DANCE | 2 Phut Hon | ORIGINAL.
+Select the Mari armature and
+use the Action Editor to edit them. Expression control properties are
+keyed on the armature alongside the bones. The Emotes collection holds
+head-skinned smile lines, mouth shapes, sunglasses and expression effects.
+The build and validation scripts are under classroom/scripts/.

@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "rig": "MARI | refined character rig",
+  "source": "https://www.facebook.com/reel/952944630756734/",
+  "entries": [
+    {
+      "number": 0,
+      "label": "Relaxed idle",
+      "shortcut": "0",
+      "action": "EMOTE 0 | Relaxed idle | fluid",
+      "slot": "OBMARI | refined character rig",
+      "start": 1,
+      "end": 144,
+      "fps": 24,
+      "preview_frame": 57
+    },
+    {
+      "number": 1,
+      "label": "Crossed-arm sass",
+      "shortcut": "1",
+      "action": "EMOTE 1 | Crossed-arm sass | fluid",
+      "slot": "OBMARI | refined character rig",
+      "start": 1,
+      "end": 144,
+      "fps": 24,
+      "preview_frame": 57
+    },
+    {
+      "number": 2,
+      "label": "Happy bounce",
+      "shortcut": "2",
+      "action": "EMOTE 2 | Happy bounce | fluid",
+      "slot": "OBMARI | refined character rig",
+      "start": 1,
+      "end": 144,
+      "fps": 24,
+      "preview_frame": 57
+    },
+    {
+      "number": 3,
+      "label": "Cheerful twirl",
+      "shortcut": "3",
+      "action": "EMOTE 3 | Cheerful twirl | fluid",
+      "slot": "OBMARI | refined character rig",
+      "start": 1,
+      "end": 144,
+      "fps": 24,
+      "preview_frame": 24
+    },
+    {
+      "number": 4,
+      "label": "Deal with it",
+      "shortcut": "4",
+      "action": "EMOTE 4 | Deal with it | fluid",
+      "slot": "OBMARI | refined character rig",
+      "start": 1,
+      "end": 144,
+      "fps": 24,
+      "preview_frame": 57
+    },
+    {
+      "number": 5,
+      "label": "Cheeky wink",
+      "shortcut": "5",
+      "action": "EMOTE 5 | Cheeky wink | fluid",
+      "slot": "OBMARI | refined character rig",
+      "start": 1,
+      "end": 144,
+      "fps": 24,
+      "preview_frame": 57
+    },
+    {
+      "number": 6,
+      "label": "Paw dance",
+      "shortcut": "6",
+      "action": "EMOTE 6 | Paw dance | fluid",
+      "slot": "OBMARI | refined character rig",
+      "start": 1,
+      "end": 144,
+      "fps": 24,
+      "preview_frame": 57
+    },
+    {
+      "number": 7,
+      "label": "Shy hand clasp",
+      "shortcut": "7",
+      "action": "EMOTE 7 | Shy hand clasp | fluid",
+      "slot": "OBMARI | refined character rig",
+      "start": 1,
+      "end": 144,
+      "fps": 24,
+      "preview_frame": 57
+    },
+    {
+      "number": 8,
+      "label": "Double point",
+      "shortcut": "8",
+      "action": "EMOTE 8 | Double point | fluid",
+      "slot": "OBMARI | refined character rig",
+      "start": 1,
+      "end": 144,
+      "fps": 24,
+      "preview_frame": 57
+    },
+    {
+      "number": 9,
+      "label": "Dejected bow",
+      "shortcut": "9",
+      "action": "EMOTE 9 | Dejected bow | fluid",
+      "slot": "OBMARI | refined character rig",
+      "start": 1,
+      "end": 144,
+      "fps": 24,
+      "preview_frame": 57
+    },
+    {
+      "number": 10,
+      "label": "2 Phut Hon - fluid",
+      "shortcut": "+",
+      "action": "DANCE | 2 Phut Hon - fluid",
+      "slot": "OBMARI | refined character rig",
+      "start": 1,
+      "end": 240,
+      "fps": 24,
+      "preview_frame": 57
+    },
+    {
+      "number": 11,
+      "label": "2 Phut Hon - original",
+      "shortcut": "-",
+      "action": "DANCE | 2 Phut Hon | ORIGINAL",
+      "slot": "OBMARI | refined character rig",
+      "start": 1,
+      "end": 240,
+      "fps": 24,
+      "preview_frame": 69
+    }
+  ],
+  "motion_revision": "Fluid motion and restored dance access"
+}

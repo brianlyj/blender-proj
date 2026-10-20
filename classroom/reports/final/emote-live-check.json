@@ -1,0 +1,134 @@
+{
+  "file": "C:\\Users\\ASUS\\Downloads\\blender-proj\\classroom\\deliverables\\Classroom-emotes.blend",
+  "controller_enabled": true,
+  "scene_has_emotes": true,
+  "keys_enabled": true,
+  "keys": [
+    {
+      "config": "addon",
+      "order": 0,
+      "key": "NUMPAD_PERIOD",
+      "operator": "mari.toggle_shortcuts",
+      "active": true
+    },
+    {
+      "config": "addon",
+      "order": 1,
+      "key": "NUMPAD_ENTER",
+      "operator": "mari.pause_emote",
+      "active": true
+    },
+    {
+      "config": "addon",
+      "order": 10,
+      "key": "NUMPAD_1",
+      "operator": "mari.select_emote",
+      "active": true
+    },
+    {
+      "config": "addon",
+      "order": 11,
+      "key": "NUMPAD_0",
+      "operator": "mari.select_emote",
+      "active": true
+    },
+    {
+      "config": "user",
+      "order": 0,
+      "key": "NUMPAD_0",
+      "operator": "mari.select_emote",
+      "active": true
+    },
+    {
+      "config": "user",
+      "order": 1,
+      "key": "NUMPAD_1",
+      "operator": "mari.select_emote",
+      "active": true
+    },
+    {
+      "config": "user",
+      "order": 10,
+      "key": "NUMPAD_ENTER",
+      "operator": "mari.pause_emote",
+      "active": true
+    },
+    {
+      "config": "user",
+      "order": 11,
+      "key": "NUMPAD_PERIOD",
+      "operator": "mari.toggle_shortcuts",
+      "active": true
+    },
+    {
+      "config": "user",
+      "order": 28,
+      "key": "NUMPAD_PERIOD",
+      "operator": "view3d.view_selected",
+      "active": true
+    },
+    {
+      "config": "user",
+      "order": 29,
+      "key": "NUMPAD_PERIOD",
+      "operator": "view3d.view_selected",
+      "active": true
+    },
+    {
+      "config": "user",
+      "order": 51,
+      "key": "NUMPAD_0",
+      "operator": "view3d.view_camera",
+      "active": true
+    },
+    {
+      "config": "user",
+      "order": 52,
+      "key": "NUMPAD_1",
+      "operator": "view3d.view_axis",
+      "active": true
+    },
+    {
+      "config": "user",
+      "order": 55,
+      "key": "NUMPAD_1",
+      "operator": "view3d.view_axis",
+      "active": true
+    },
+    {
+      "config": "user",
+      "order": 70,
+      "key": "NUMPAD_1",
+      "operator": "view3d.view_axis",
+      "active": true
+    },
+    {
+      "config": "user",
+      "order": 73,
+      "key": "NUMPAD_1",
+      "operator": "view3d.view_axis",
+      "active": true
+    },
+    {
+      "config": "user",
+      "order": 113,
+      "key": "NUMPAD_0",
+      "operator": "view3d.camera_to_view",
+      "active": true
+    },
+    {
+      "config": "user",
+      "order": 114,
+      "key": "NUMPAD_0",
+      "operator": "view3d.object_as_camera",
+      "active": true
+    }
+  ],
+  "save_versions": 1,
+  "window": true,
+  "playback": {
+    "emote": 2,
+    "playing": false,
+    "observed_frame": 49
+  }
+}

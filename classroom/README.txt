@@ -1,7 +1,21 @@
 CLASSROOM + MARI SPORTS CHARACTER
 ================================
 
-START HERE
+PROJECT GUIDE WITH PICTURES AND VIDEOS
+Open ../README.md for animated previews, MP4 links, the current emote
+gallery, installation steps, and the full numpad control table.
+
+START HERE: DANCE + NUMPAD EMOTES
+Open deliverables/Classroom-emotes.blend for nine emotes based on the supplied
+reference reel plus both versions of the dance. Numpad + plays the refined
+2 Phut Hon dance; Numpad - plays the original dance. Numpad 1-9 switches
+emotes, 0 returns to idle, Enter pauses, and Numpad . toggles the shortcuts.
+Transitions ease between poses. See deliverables/EMOTE-CONTROLS.txt.
+The companion controller is installed and enabled in Blender on this PC.
+Motion previews: deliverables/Classroom-dance-fluid-10s.mp4 and
+deliverables/Emote-paws-fluid-6s.mp4 (silent, 24 fps).
+
+ORIGINAL DANCE (PRESERVED)
 Open deliverables/Classroom-dance.blend in Blender 5.2.
 Press Space to play the 10-second animation (frames 1-240 at 24 fps).
 The active camera shows the full character near the teacher's area.

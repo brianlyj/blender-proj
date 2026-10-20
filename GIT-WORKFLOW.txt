@@ -10,13 +10,16 @@ The parent repository tracks .gitmodules and the server-source commit ID.
 A normal push of blender-proj sends that reference along with your project.
 The submodule's source remains hosted in the upstream repository.
 
-FIRST PUSH
-Review git diff --cached --stat and git status before committing. This
-repository has no initial commit yet, and the existing project files were
-already staged before the submodule setup was fixed.
+PUSH A PROJECT UPDATE
+Stage the intended project files, then review git diff --cached --stat
+and git status before committing. Final scenes, previews, videos, and
+source scripts belong in the parent repository. New render frame sequences,
+local checkpoints, Blender recovery copies, and diagnostic logs are ignored.
 
-  git commit -m "Add Blender classroom project and pinned MCP dependency"
-  git push -u origin main
+  git add <intended-files>
+  git diff --cached --stat
+  git commit -m "Describe the project update"
+  git push origin main
 
 NEW CLONE
   git clone --recurse-submodules https://github.com/brianlyj/blender-proj.git

@@ -1,0 +1,11 @@
+# Local browser inspection and Python caches
+/.playwright-cli/
+/output/playwright/
+__pycache__/
+*.py[cod]
+
+# Regenerable render sequences and local Blender recovery copies
+/classroom/renders/fluid-*/
+/classroom/archive/checkpoints/Classroom-emotes-before-fluid.blend
+*.blend[0-9]
+/classroom/reports/diagnostics/*.log

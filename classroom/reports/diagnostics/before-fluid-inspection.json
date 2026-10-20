@@ -1,0 +1,151 @@
+{
+  "file": "C:\\Users\\ASUS\\Downloads\\blender-proj\\classroom\\deliverables\\Classroom-emotes.blend",
+  "frame": 49,
+  "manifest": {
+    "version": 1,
+    "rig": "MARI | refined character rig",
+    "source": "https://www.facebook.com/reel/952944630756734/",
+    "entries": [
+      {
+        "number": 0,
+        "label": "Relaxed idle",
+        "action": "EMOTE 0 | Relaxed idle",
+        "slot": "OBMARI | refined character rig",
+        "start": 1,
+        "end": 96,
+        "fps": 24,
+        "preview_frame": 43
+      },
+      {
+        "number": 1,
+        "label": "Crossed-arm sass",
+        "action": "EMOTE 1 | Crossed-arm sass",
+        "slot": "OBMARI | refined character rig",
+        "start": 1,
+        "end": 96,
+        "fps": 24,
+        "preview_frame": 43
+      },
+      {
+        "number": 2,
+        "label": "Happy bounce",
+        "action": "EMOTE 2 | Happy bounce",
+        "slot": "OBMARI | refined character rig",
+        "start": 1,
+        "end": 96,
+        "fps": 24,
+        "preview_frame": 43
+      },
+      {
+        "number": 3,
+        "label": "Cheerful twirl",
+        "action": "EMOTE 3 | Cheerful twirl",
+        "slot": "OBMARI | refined character rig",
+        "start": 1,
+        "end": 96,
+        "fps": 24,
+        "preview_frame": 19
+      },
+      {
+        "number": 4,
+        "label": "Deal with it",
+        "action": "EMOTE 4 | Deal with it",
+        "slot": "OBMARI | refined character rig",
+        "start": 1,
+        "end": 96,
+        "fps": 24,
+        "preview_frame": 43
+      },
+      {
+        "number": 5,
+        "label": "Cheeky wink",
+        "action": "EMOTE 5 | Cheeky wink",
+        "slot": "OBMARI | refined character rig",
+        "start": 1,
+        "end": 96,
+        "fps": 24,
+        "preview_frame": 43
+      },
+      {
+        "number": 6,
+        "label": "Paw dance",
+        "action": "EMOTE 6 | Paw dance",
+        "slot": "OBMARI | refined character rig",
+        "start": 1,
+        "end": 96,
+        "fps": 24,
+        "preview_frame": 43
+      },
+      {
+        "number": 7,
+        "label": "Shy hand clasp",
+        "action": "EMOTE 7 | Shy hand clasp",
+        "slot": "OBMARI | refined character rig",
+        "start": 1,
+        "end": 96,
+        "fps": 24,
+        "preview_frame": 43
+      },
+      {
+        "number": 8,
+        "label": "Double point",
+        "action": "EMOTE 8 | Double point",
+        "slot": "OBMARI | refined character rig",
+        "start": 1,
+        "end": 96,
+        "fps": 24,
+        "preview_frame": 43
+      },
+      {
+        "number": 9,
+        "label": "Dejected bow",
+        "action": "EMOTE 9 | Dejected bow",
+        "slot": "OBMARI | refined character rig",
+        "start": 1,
+        "end": 96,
+        "fps": 24,
+        "preview_frame": 43
+      }
+    ]
+  },
+  "action": "EMOTE 2 | Happy bounce",
+  "dance_actions": [
+    {
+      "name": "2 Phut Hon inspired | 10 seconds | clasp to dance",
+      "frames": [
+        1.0,
+        240.0
+      ],
+      "slots": [
+        "OBMARI | refined character rig"
+      ]
+    },
+    {
+      "name": "2 Phut Hon inspired | 10 seconds | clasp to dance.001",
+      "frames": [
+        1.0,
+        240.0
+      ],
+      "slots": [
+        "OBMARI | refined character rig"
+      ]
+    },
+    {
+      "name": "2 Phut Hon inspired | 10 seconds | clasp to dance.002",
+      "frames": [
+        1.0,
+        240.0
+      ],
+      "slots": [
+        "OBMARI | refined character rig"
+      ]
+    }
+  ],
+  "constraints": {},
+  "root": [
+    1.350000023841858,
+    3.2300000190734863,
+    0.054999999701976776
+  ],
+  "parented_meshes": 218
+}
